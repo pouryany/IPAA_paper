@@ -1,0 +1,94 @@
+---
+title: "README"
+author: "Pourya Naderi (Hide Lab)"
+date: "`r Sys.Date()`"
+output: 
+    md_document:
+    variant: markdown_github
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## Overview
+
+This repository provides the code companion for the manuscript entitle: "Identification of p38 MAPK as a Major Therapeutic Target for Alzheimer's Disease based on Integrative Pathway Activity Analysis and Validation in 3D Human Cellular Models."
+
+
+please contact `pnaderiy [at] bidmc [dot] harvard [dot] edu` for any
+questions you may have about the codes.
+
+
+
+
+## Citations
+## Code instructions
+
+First, you need to access processed RNA-Seq datasets from the ROSMAP, MSBB, and MAYO cohort via "Synape.org" (**data accessions to be provided**).
+You also need to download RNA-Seq datasets corresponding to the cellular models (**data accession to be provided**)
+
+The RNA-Seq datasets and associated covariates should be placed into respective directories under the folder `preprocessed`.
+
+
+
+All codes relating to RNA-Seq data processing  are placed in the `codes`
+directory.
+
+
+
+| Folder name  | Description |  Details |
+|---|------------|------------|
+| `codes`                             | Associated R-script | contains 4 subdirectories that organize codes for cleaning, pathway dysregulation analysis,  plotting, and processing additional datasets.  |
+| `figures`                         | figure outputs.  | Figures are saved in this directory according to their order in the manuscript |
+| `Output`                            | Processed datasets  | Dysregulated pathway profiles, pathway activity residuals, and similarity analysis results |
+| `preprocessed`                        | Necessary data files  | preprocessed RNA-Seq data from cellular models and human datasets. Background pathways and gene-level information are also provided to facilitate appropriate codes. |
+| `tables`                        | output tables | dysregulated pathways, shared pathways across human cohorts and cell models, differentially expressed genes.|
+
+
+
+## code instructions
+
+
+| Folder name  | file name |  description |
+|---|------------|------------|
+| `01_cleaning_and_prep`| `01-DEG_normalizer.R` | processing DEG files from multiple human cohorts to provide a concordant representation  |
+| `01_cleaning_and_prep`| `02-clean_DEG_Tables.R` | processing DEG files from multiple cell lines to provide a concordant representation |
+| `02_Dysregulated pathways`| `01-FullPipeline_Mayo_ADvsControl.R` | Dysregulated pathway analysis in the Mayo cohort via PanomiR package |
+| `02_Dysregulated pathways`| `02-FullPipeline_MSBB_ADvsControl.R` | Dysregulated pathway analysis in the MSBB cohort via PanomiR package |
+| `02_Dysregulated pathways`| `03-FullPipeline_ROSMAP_ADvsControl.R` | Dysregulated pathway analysis in the Mayo cohort via PanomiR package |
+| `02_Dysregulated pathways`| `04-FullPipeline_A5vsG2B2.R` | Dysregulated pathway analysis in the A5 cells via PanomiR package |
+| `02_Dysregulated pathways`| `05-FullPipeline_D4vsG2B2.R` | Dysregulated pathway analysis in the D4 cells line via PanomiR package |
+| `02_Dysregulated pathways`| `06-FullPipeline_H105vsG2B2.R` | Dysregulated pathway analysis in the h10 cells via PanomiR package |
+| `02_Dysregulated pathways`| `07-FullPipeline_I45FvsG2B2.R` | Dysregulated pathway analysis in the I45F cells via PanomiR package |
+| `02_Dysregulated pathways`| `08-FullPipeline_I47FvsG2B2.R` | Dysregulated pathway analysis in the I47F cells via PanomiR package |
+| `02_Dysregulated pathways`| `09-FullPipeline_I45FvsI47F.R` | Dysregulated pathway analysis in the I45F cells  compared to I47F cells via PanomiR package|
+| `02_Dysregulated pathways`| `Gene_based_correlation.R` | Correlation analysis of gene dysregulation across cell models and human cohorts|
+| `02_Dysregulated pathways`| `Pathway_based_correlation.R` | Correlation analysis of gene dysregulation across cell models and human cohorts|
+| `03_plots`                | `01-assay_similarities_brains.R`  | Venn diagrams, heatmaps, and correlation plots in Figure 2. Tables representing shared dysregulated pathways. Venn diagram in Figure 4.  |
+| `03_plots`                | `02-region_plotting.R`  | Pathway activity heatmap in Figure 2  |
+| `03_plots`                | `03-Maximal_Heatmap.R`  | Pathway activity heatmap in Figure 5 |
+| `03_plots`                | `04-Bar_plots.R`  | Bar plots of shared dysregulated pathways in Figure 4 |
+| `03_plots`                | `05_PCA_covariates.R`  | PCA-based determination of significant confounding variables in Figure S01. |
+| `03_plots`                | `06-gene_correlation_similarities_2.R`  | Correlation analysis of differentially expressed genes, Figure 2F |
+| `03_plots`                | `07-get_ma_plots.R`  | MA plots corresponding to Figure S02  |
+| `03_plots`                | `09-assay_similarities_new.R`  | Bar plots associated with Chi-squared tests in Figure 3C  |
+| `03_plots`                | `10_Batch_correction.R`  |PCA plot in Figure S02  |
+| `03_plots`                | `11_get_P38_Genes.R`  | Activity of genes in the P38 MAPK  Pathway in Figure 5A |
+| `03_plots`                | `12_Visualize_gene_matrix.R`  | Gene-based heatmap of similarity in Figure 3E |
+| `03_plots`                | `13_Visualize_Pathways_matrix.R`  | Pathway-based heatmap of similarity in Figure 3D  |
+| `03_plots`                | `S01-survival_brains.R`  | P-value distribution analysis in Figure S02  |
+| `external datasets`                | `01_external_dataset_clean.R`  | cleaning iPSC gene expression data |
+| `external datasets`                | `02_external_similarity_sq.R`  | pathway-based similarity analysis Figure S03 |
+| `external datasets`                | `03_External_heatmap.R`  | pathway-based similarity analysis Figure S03 |
+
+
+
+
+
+Supplementary files that are necessary for reproducing the study are provided in the `preprocssed/` directory
+
+| File name  | Description |  Reference/Resource |
+|---|------------|------------|
+| `geneParameters.tsv`| GC-content and gene-length | ENSEMBL  |
+| `MSigDBPathGeneTab.RDS`| Background Pathways for the PanomiR package  | MSigDB and PanomiR Packages  |
+
