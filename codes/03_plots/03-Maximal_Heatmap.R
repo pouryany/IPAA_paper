@@ -159,6 +159,7 @@ scaled_mat = t(scale(t(paths.mat)))
 
 
 ht2 <- Heatmap(scaled_mat, column_split = labs$Diagnosis,
+               cluster_column_slices = F,
                width =  unit(1.7,"inch"),
                height = unit(5,"inch"),
                row_title = "", column_title = "ROSMAP", 
@@ -228,8 +229,10 @@ scaled_mat = t(scale(t(paths.mat)))
 #scaled_mat <- scaled_mat[,rev(colnames(scaled_mat))]
 
 
+labs$Diagnosis <- factor(labs$Diagnosis, levels = c("TCX.AD","TCX.CONTROL"))
 
 ht2 <- Heatmap(scaled_mat, column_split = labs$Diagnosis,
+               cluster_column_slices = F,
                width =  unit(1.7,"inch"),
                height = unit(5,"inch"),
                row_title = "", column_title = "Mayo", 
@@ -251,19 +254,31 @@ ht2 <- Heatmap(scaled_mat, column_split = labs$Diagnosis,
 
 
 scaled_mat2 <- scaled_mat
-rownames(scaled_mat2) <- gsub("^([A-Z]*)_","\\1: ",rownames(scaled_mat2))
-rownames(scaled_mat2) <- gsub("_"," ",rownames(scaled_mat2))
+
+
+
+display_names    <- read.csv("preprocessed/MSigDB_display_names.csv")
+rownames(display_names) <- display_names$STANDARD_NAME
+
+
+
+rownames(scaled_mat2) <- display_names[rownames(scaled_mat2),]$display_name
+
+# rownames(scaled_mat2) <- gsub("^([A-Z]*)_","\\1: ",rownames(scaled_mat2))
+# rownames(scaled_mat2) <- gsub("_"," ",rownames(scaled_mat2))
 
 library(stringr)
-if(any(str_length(rownames(scaled_mat2)) > 80)){
-    longInds <- str_length(rownames(scaled_mat2)) > 80
+if(any(str_length(rownames(scaled_mat2)) > 70)){
+    longInds <- str_length(rownames(scaled_mat2)) > 70
     rownames(scaled_mat2)[longInds] <- stringr::str_sub(rownames(scaled_mat2)[longInds],1,70)
     rownames(scaled_mat2)[longInds] <- paste0(rownames(scaled_mat2)[longInds],"*") 
 }
 
 
 
+
 ht4_mayo <- Heatmap(scaled_mat2, column_split = labs$Diagnosis,
+               cluster_column_slices = F,
                width =  unit(1.7,"inch"),
                height = unit(5,"inch"),
                row_names_side = "left",
@@ -351,7 +366,26 @@ col.pal2 <-
 scaled_mat = t(scale(t(paths.mat)))
 
 
-ht2 <- Heatmap(scaled_mat, column_split = labs$Diagnosis,
+
+display_names    <- read.csv("preprocessed/MSigDB_display_names.csv")
+rownames(display_names) <- display_names$STANDARD_NAME
+
+
+scaled_mat2 <- scaled_mat
+rownames(scaled_mat2) <- display_names[rownames(scaled_mat2),]$display_name
+
+# rownames(scaled_mat2) <- gsub("^([A-Z]*)_","\\1: ",rownames(scaled_mat2))
+# rownames(scaled_mat2) <- gsub("_"," ",rownames(scaled_mat2))
+
+library(stringr)
+if(any(str_length(rownames(scaled_mat2)) > 70)){
+    longInds <- str_length(rownames(scaled_mat2)) > 70
+    rownames(scaled_mat2)[longInds] <- stringr::str_sub(rownames(scaled_mat2)[longInds],1,70)
+    rownames(scaled_mat2)[longInds] <- paste0(rownames(scaled_mat2)[longInds],"*") 
+}
+
+
+ht2 <- Heatmap(scaled_mat2, column_split = labs$Diagnosis,
                width =  unit(1.7,"inch"),
                height = unit(5,"inch"),
                row_title = "", column_title = "A\u03B242-H vs A\u03B240-H", 
@@ -360,7 +394,8 @@ ht2 <- Heatmap(scaled_mat, column_split = labs$Diagnosis,
                top_annotation = HeatmapAnnotation(foo = labs$Diagnosis,
                                                   col = list(foo = annot_col$Diagnosis),
                                                   show_legend = F, show_annotation_name = F),
-               show_row_names = F,
+               show_row_names = T,
+               row_names_side = "left",
                show_column_names = F, cluster_rows = F,
                show_row_dend = F,
                show_column_dend = F,
@@ -404,7 +439,7 @@ ht_i45 <- ht2
 ht_list <- ht_i45 + ht_mayo + ht_msbb + ht_rosmap
 
 
-cairo_pdf(file = paste0("figures/05_a_all.pdf"),
+cairo_pdf(file = paste0("figures/revised_05_a_all.pdf"),
           width = 18, height = 10, onefile = T)
 draw(ht_list, ht_gap =unit(0.5,"inch") )
 ht3

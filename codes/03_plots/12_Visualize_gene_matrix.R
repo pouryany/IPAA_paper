@@ -73,19 +73,26 @@ analysis_name <- gsub(".*similarity//|2021-03-15.*", "", j)
                                                                          "tomato2")),
                                    # name = "-log10(pval)",
                                    right_annotation = row_ha,
+                                   clustering_method_columns = "ward.D2",
+                                   clustering_method_rows = "ward.D2",
                                    name = "correlation",
                                    width = unit(1, "cm")*ncol(res_df_sq), 
                                    height = unit(1, "cm")*nrow(res_df_sq),
-                                   row_split = 3,
-                                   column_split = 3,
-                                   row_title = c("", "", ""),
-                                   column_title = c("", "", ""),
+                                   row_split = 2,
+                                   column_split = 2,
+                                   row_title = c("",  ""),
+                                   column_title = c("",  ""),
+                                   row_gap = unit(c(3, 3), "mm"),
+                                   column_gap = unit(c(3, 3), "mm"),
                                    show_column_dend = F, 
                                    show_row_dend = F,
                                    cell_fun = function(j, i, x, y, width, height, fill) {
                                        grid.text(sprintf("%.2f", res_df_sq[i, j]), x, y, gp = gpar(fontsize = 10))}
     )
     draw(ht5)
+    
+    
+    
     
     
     cairo_pdf(file = paste0("figures/03_e_Gene-",

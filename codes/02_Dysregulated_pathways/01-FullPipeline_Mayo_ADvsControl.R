@@ -7,6 +7,10 @@ library(dplyr)
 # Directory to the pathway gene membership
 pathways2 <- readRDS('preprocessed/MSigDBPathGeneTab.RDS')
 
+# Use the code below if you want to run reduced overlap results instead
+#pathways2 <- readRDS('preprocessed/MSigDBPathGeneTabLite.RDS')
+
+
 # Directory to the normalized gene expression
 genes.counts2 <- readRDS("preprocessed/MAYO/NEWCOUNTS.RDS")
 genes.counts2 <- as.data.frame(genes.counts2)
@@ -48,7 +52,7 @@ de.paths <- PanomiR::differentialPathwayAnalysis(geneCounts = genes.counts2,
 temp <- de.paths$DEP
 temp <- temp[order(temp$P.Value),]
 temp %>% 
-    write.csv(file = paste0(out.dir0, tisss, "_diffPathways", Sys.Date(), ".csv"),row.names = T)
+    write.csv(file = paste0(out.dir0, tisss, "_diffPathways",  ".csv"),row.names = T)
 
 temp <- tibble::rownames_to_column(temp)
 
@@ -56,7 +60,6 @@ temp <- tibble::rownames_to_column(temp)
 de.paths$PathwayResiduals |> saveRDS(
                                      paste0(out.dir0,
                                             tisss, "_Residuals",
-                                            Sys.Date(),
                                             ".RDS")
                                      )
 

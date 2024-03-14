@@ -4,6 +4,10 @@ library(tibble)
 
 # Directory to the pathway gene membership
 pathways2 <- readRDS('preprocessed/MSigDBPathGeneTab.RDS')
+
+# Use the code below if you want to run reduced overlap results instead
+#pathways2 <- readRDS('preprocessed/MSigDBPathGeneTabLite.RDS')
+
 gene.address <- list.files("preprocessed/cell_models/",
                            recursive = T,pattern = "A5_vs_G2",full.names = T)
 genes.counts2 <- read.delim(gene.address)
@@ -65,5 +69,5 @@ temp <- de.paths$DEP
 temp %>% 
     arrange(desc(logFC)) %>% 
     filter(adj.P.Val < 1) %>%
-    write.csv(file = paste0(out.dir, tisss, "_diffPathways", Sys.Date(), ".csv"))
+    write.csv(file = paste0(out.dir, tisss, "_diffPathways", ".csv"))
 #

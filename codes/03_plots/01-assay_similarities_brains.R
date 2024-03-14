@@ -34,7 +34,7 @@ for(i in temp) {
     name.tag <- name.tag[1]
     t.tab    <- read.csv(i)
     t.tab2   <- t.tab %>% 
-                    dplyr::select(.,X,Direction,logFC,P.Value) %>%
+                    dplyr::select(.,X,Direction,logFC,P.Value, adj.P.Val) %>%
                     mutate(.,assay = name.tag) %>%
                     filter(.,Direction != "NONE") %>%
                     mutate(.,path_dir = paste0(Direction,": ", X))
@@ -90,8 +90,16 @@ ht1 <- ComplexHeatmap::Heatmap(as.matrix(Core_paths0[,2:3]),
  
  
  
- Core_paths0 <- Reduce(function(x, y) merge(x, y, by = c("X"),all = F),
+ display_names    <- read.csv("preprocessed/MSigDB_display_names.csv")
+ rownames(display_names) <- display_names$STANDARD_NAME
+ 
+ 
+ 
+ Core_paths0 <- Reduce(function(x, y) merge(x, y, by = c("X","Direction"),all = F),
                        big.tab.list[2:3])
+ 
+ Core_paths0$display_name <- display_names[Core_paths0$X,]$display_name
+ 
  write.csv(Core_paths0,"tables/shared_pathways/01_shared_pathways_MSBB_Mayo.csv")
  
  Core_paths0$X<- gsub("_", " " ,Core_paths0$X)
@@ -102,6 +110,8 @@ ht1 <- ComplexHeatmap::Heatmap(as.matrix(Core_paths0[,2:3]),
  
  Core_paths0 <- Reduce(function(x, y) merge(x, y, by = c("X", "Direction"),all = F),
                        big.tab.list[1:2])
+ Core_paths0$display_name <- display_names[Core_paths0$X,]$display_name
+ 
  write.csv(Core_paths0,"tables/shared_pathways/01_shared_pathways_I45vsI47_Mayo.csv")
  
  Core_paths0$X<- gsub("_", " " ,Core_paths0$X)
@@ -114,26 +124,27 @@ ht1 <- ComplexHeatmap::Heatmap(as.matrix(Core_paths0[,2:3]),
  
  Core_paths0 <- Reduce(function(x, y) merge(x, y, by = c("X","Direction"),all = F),
                        big.tab.list[1:3])
+ Core_paths0$display_name <- display_names[Core_paths0$X,]$display_name
+ 
  write.csv(Core_paths0,"tables/shared_pathways/01_shared_pathways_I45FvsI47_MSBB_Mayo.csv")
+ 
  
  
  
  Core_paths0$X<- gsub("_", " " ,Core_paths0$X)
  Core_paths0$X<- gsub("^([A-Z]*)\\s", "\\1: " ,Core_paths0$X)
  
- 
- write.csv(Core_paths0,"tables/shared_pathways/01_shared_pathways_I45FvsI47_MSBB_Mayo.csv")
- 
+ write.csv(Core_paths0,"tables/shared_pathways/01_shared_pathways_I45FvsI47_MSBB_Mayo_clean.csv")
  
  
  
  
-Core_paths <- Reduce(function(x, y) merge(x, y, by = c("X","Direction"),all = F),
-                big.tab.list[2:3])
+
 
 Core_paths_all <- Reduce(function(x, y) merge(x, y, by = c("path_dir"),all = FALSE),
                      big.tab.list)
 
+Core_paths_all$display_name <- display_names[Core_paths_all$X.x,]$display_name
 
 write.csv(Core_paths_all,file = "tables/shared_pathways/45vs47_Mayo_MSBB_ROSMAP_2.csv")
 

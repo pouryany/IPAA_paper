@@ -27,10 +27,10 @@ library(ggfortify)
 
 
 
-sel.paths <- read.csv("tables/shared_pathways/01_shared_pathways_MSBB_Mayo.csv")
+sel.paths <- read.csv("tables/shared_pathways/01_shared_pathways_MSBB_Mayo.csv",row.names = 1)
 
 sel.paths <- sel.paths[order(sel.paths$P.Value.x),]
-sel.paths <- sel.paths[order(sel.paths$Direction.x),]
+sel.paths <- sel.paths[order(sel.paths$Direction),]
 var.paths <-  sel.paths$X
 
 
@@ -157,21 +157,31 @@ ht30 <- Heatmap(scaled_mat, column_split = labs,
 
 
 
-sel.paths_up <- sel.paths[sel.paths$Direction.x == "UP",]
+sel.paths_up <- sel.paths[sel.paths$Direction == "UP",]
 sel.paths_up <- sel.paths_up[1:10,]$X
 
-sel.paths_dn <- sel.paths[sel.paths$Direction.x == "DOWN",]
+sel.paths_dn <- sel.paths[sel.paths$Direction == "DOWN",]
 sel.paths_dn <- sel.paths_dn[1:10,]$X
+
+
+display_names    <- read.csv("preprocessed/MSigDB_display_names.csv")
+rownames(display_names) <- display_names$STANDARD_NAME
+
+
 
 sel.paths_all <- c(sel.paths_dn,sel.paths_up)
 
+sel.paths_all <- display_names[sel.paths_all,]$display_name
+
+
 r_labels <- rownames(scaled_mat)
+r_labels <- display_names[r_labels,]$display_name
+
 
 r_labels[!(r_labels %in% sel.paths_all)] <- ""
-r_labels <- gsub("_", " " ,r_labels)
-r_labels <- gsub("^([A-Z]*)\\s", "\\1: " ,r_labels)
 
-#r_labels[-grep(" ION|POTASSIUM|NEURO|P38|SYNAP|GABA|YAP1|ECADHERIN NA|IL3|ION REPAIR|NFKB P",r_labels)] <- ""
+
+
 
 
 
@@ -206,9 +216,9 @@ ht3 <- Heatmap(scaled_mat, column_split = labs$Diagnosis,
 # 
 # 
 
- 
 
 ht4 <- Heatmap(scaled_mat_phg, column_split = labs_phg$Diagnosis,
+               cluster_column_slices = F,
                width = unit(45, "mm"), height = unit(200,"mm"),
                row_title = "", column_title = "MSBB", 
                clustering_distance_columns =  "manhattan",

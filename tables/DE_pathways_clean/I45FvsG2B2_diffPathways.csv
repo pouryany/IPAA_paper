@@ -1,0 +1,1126 @@
+"Pathway Description","MSigDB name","Direction (AD vs Control)","logFC","t","P.Value","adj.P.Val"
+"(Reactome) Activation of Rac","REACTOME_ACTIVATION_OF_RAC","UP",0.475,26.9,7.25e-08,4.77e-05
+"(SigmaAldrich) Expression of cyclins regulates progression through the cell cycle by activating cyclin-dependent kinases.","SA_REG_CASCADE_OF_CYCLIN_EXPR","DOWN",-0.561,-25.2,1.08e-07,4.77e-05
+"(Reactome) Signaling by Hippo","REACTOME_SIGNALING_BY_HIPPO","UP",0.429,24.6,1.27e-07,4.77e-05
+"(Reactome) TRAF3-dependent IRF activation pathway","REACTOME_TRAF3_DEPENDENT_IRF_ACTIVATION_PATHWAY","UP",0.411,22.6,2.18e-07,5.7e-05
+"(BioCarta) Cell Cycle: G1/S Check Point","BIOCARTA_G1_PATHWAY","DOWN",-0.444,-22.1,2.53e-07,5.7e-05
+"(KEGG) Hematopoietic cell lineage","KEGG_HEMATOPOIETIC_CELL_LINEAGE","UP",0.42,20.6,4e-07,6.73e-05
+"(PID) Signaling mediated by p38-gamma and p38-delta","PID_P38_GAMMA_DELTA_PATHWAY","DOWN",-0.444,-20.4,4.19e-07,6.73e-05
+"(PID) Visual signal transduction: Cones","PID_CONE_PATHWAY","UP",0.525,18.8,7.14e-07,1e-04
+"(PID) Lissencephaly gene (LIS1) in neuronal migration and development","PID_LIS1_PATHWAY","UP",0.349,18.2,8.63e-07,0.000108
+"(PID) FOXM1 transcription factor network","PID_FOXM1_PATHWAY","DOWN",-0.422,-16.9,1.4e-06,0.000157
+"(Reactome) NF-kB activation through FADD/RIP-1 pathway mediated by caspase-8 and -10","REACTOME_NFKB_ACTIVATION_THROUGH_FADD_RIP1_PATHWAY_MEDIATED_BY_CASPASE_8_AND10","UP",0.377,15.8,2.12e-06,0.000217
+"(Reactome) Signaling by Robo receptor","REACTOME_SIGNALING_BY_ROBO_RECEPTOR","UP",0.34,15.5,2.36e-06,0.000221
+"(PID) Validated transcriptional targets of AP1 family members Fra1 and Fra2","PID_FRA_PATHWAY","DOWN",-0.334,-15.2,2.72e-06,0.000225
+"(Reactome) Interferon gamma signaling","REACTOME_INTERFERON_GAMMA_SIGNALING","UP",0.35,15.1,2.8e-06,0.000225
+"(Reactome) Inflammasomes","REACTOME_INFLAMMASOMES","DOWN",-0.309,-14.5,3.7e-06,0.000278
+"(KEGG) Nicotinate and nicotinamide metabolism","KEGG_NICOTINATE_AND_NICOTINAMIDE_METABOLISM","UP",0.426,14.1,4.28e-06,0.000287
+"(Reactome) TRAF6 mediated IRF7 activation","REACTOME_TRAF6_MEDIATED_IRF7_ACTIVATION","UP",0.336,13.9,4.73e-06,0.000287
+"(Reactome) Negative regulators of RIG-I/MDA5 signaling","REACTOME_NEGATIVE_REGULATORS_OF_RIG_I_MDA5_SIGNALING","UP",0.485,13.9,4.82e-06,0.000287
+"(KEGG) Complement and coagulation cascades","KEGG_COMPLEMENT_AND_COAGULATION_CASCADES","UP",0.295,13.9,4.85e-06,0.000287
+"(Reactome) RIG-I/MDA5 mediated induction of IFN-alpha/beta pathways","REACTOME_RIG_I_MDA5_MEDIATED_INDUCTION_OF_IFN_ALPHA_BETA_PATHWAYS","UP",0.279,13.7,5.12e-06,0.000288
+"(BioCarta) Activation of Src by Protein-tyrosine phosphatase alpha","BIOCARTA_SRCRPTP_PATHWAY","DOWN",-0.377,-13.5,5.7e-06,0.00029
+"(KEGG) Prion diseases","KEGG_PRION_DISEASES","DOWN",-0.323,-13.4,6.1e-06,0.00029
+"(PID) AP-1 transcription factor network","PID_AP1_PATHWAY","DOWN",-0.503,-13.2,6.51e-06,0.00029
+"(KEGG) Non-small cell lung cancer","KEGG_NON_SMALL_CELL_LUNG_CANCER","DOWN",-0.239,-13.1,6.73e-06,0.00029
+"(KEGG) Glycosphingolipid biosynthesis - globo series","KEGG_GLYCOSPHINGOLIPID_BIOSYNTHESIS_GLOBO_SERIES","UP",0.245,13.1,6.93e-06,0.00029
+"(KEGG) Bladder cancer","KEGG_BLADDER_CANCER","DOWN",-0.252,-13.1,6.97e-06,0.00029
+"(KEGG) Nitrogen metabolism","KEGG_NITROGEN_METABOLISM","UP",0.675,13,7.22e-06,0.00029
+"(Reactome) Peptide ligand-binding receptors","REACTOME_PEPTIDE_LIGAND_BINDING_RECEPTORS","DOWN",-0.251,-13,7.4e-06,0.00029
+"(Reactome) Amino acid transport across the plasma membrane","REACTOME_AMINO_ACID_TRANSPORT_ACROSS_THE_PLASMA_MEMBRANE","DOWN",-0.337,-12.9,7.47e-06,0.00029
+"(Reactome) Degradation of the extracellular matrix","REACTOME_DEGRADATION_OF_THE_EXTRACELLULAR_MATRIX","UP",0.368,12.8,7.83e-06,0.000294
+"(BioCarta) Tumor Suppressor Arf Inhibits Ribosomal Biogenesis","BIOCARTA_ARF_PATHWAY","DOWN",-0.423,-12.7,8.26e-06,3e-04
+"(Reactome) Inhibition  of voltage gated Ca2+ channels via Gbeta/gamma subunits","REACTOME_INHIBITION_OF_VOLTAGE_GATED_CA2_CHANNELS_VIA_GBETA_GAMMA_SUBUNITS","DOWN",-0.386,-12.5,9.08e-06,0.000317
+"(KEGG) Dorso-ventral axis formation","KEGG_DORSO_VENTRAL_AXIS_FORMATION","UP",0.251,12.5,9.29e-06,0.000317
+"(KEGG) RIG-I-like receptor signaling pathway","KEGG_RIG_I_LIKE_RECEPTOR_SIGNALING_PATHWAY","UP",0.218,12.2,1.06e-05,0.000352
+"(Reactome) HS-GAG biosynthesis","REACTOME_HS_GAG_BIOSYNTHESIS","UP",0.266,12.1,1.14e-05,0.000365
+"(Reactome) Regulation of IFNA signaling","REACTOME_REGULATION_OF_IFNA_SIGNALING","UP",0.296,12,1.19e-05,0.000372
+"(BioCarta) Influence of Ras and Rho proteins on G1 to S Transition","BIOCARTA_RACCYCD_PATHWAY","DOWN",-0.246,-11.9,1.23e-05,0.000373
+"(PID) ATF-2 transcription factor network","PID_ATF2_PATHWAY","DOWN",-0.32,-11.8,1.31e-05,0.000373
+"(KEGG) ABC transporters","KEGG_ABC_TRANSPORTERS","DOWN",-0.279,-11.8,1.34e-05,0.000373
+"(Reactome) Nitric oxide stimulates guanylate cyclase","REACTOME_NITRIC_OXIDE_STIMULATES_GUANYLATE_CYCLASE","UP",0.656,11.8,1.35e-05,0.000373
+"(PID) Validated transcriptional targets of deltaNp63 isoforms","PID_DELTA_NP63_PATHWAY","DOWN",-0.197,-11.7,1.36e-05,0.000373
+"(KEGG) PPAR signaling pathway","KEGG_PPAR_SIGNALING_PATHWAY","UP",0.205,11.5,1.52e-05,4e-04
+"(Reactome) G1/S-Specific Transcription","REACTOME_G1_S_SPECIFIC_TRANSCRIPTION","DOWN",-0.345,-11.5,1.53e-05,4e-04
+"(Reactome) Class B/2 (Secretin family receptors)","REACTOME_CLASS_B_2_SECRETIN_FAMILY_RECEPTORS","DOWN",-0.221,-11.4,1.63e-05,0.000416
+"(BioCarta) Role of Erk5 in Neuronal Survival","BIOCARTA_ERK5_PATHWAY","UP",0.272,11.3,1.72e-05,0.000431
+"(BioCarta) Role of ERBB2 in Signal Transduction and Oncology","BIOCARTA_HER2_PATHWAY","UP",0.212,11.2,1.79e-05,0.000431
+"(SigmaAldrich) Cdk2, 4, and 6 bind cyclin D in G1, while cdk2/cyclin E promotes the G1/S transition.","SA_G1_AND_S_PHASES","DOWN",-0.482,-11.2,1.84e-05,0.000431
+"(Reactome) RNA Polymerase III Chain Elongation","REACTOME_RNA_POL_III_CHAIN_ELONGATION","DOWN",-0.272,-11.2,1.84e-05,0.000431
+"(Reactome) DNA strand elongation","REACTOME_DNA_STRAND_ELONGATION","DOWN",-0.219,-11.1,1.97e-05,0.000453
+"(Reactome) Sema4D induced cell migration and growth-cone collapse","REACTOME_SEMA4D_INDUCED_CELL_MIGRATION_AND_GROWTH_CONE_COLLAPSE","UP",0.247,11,2.06e-05,0.000463
+"(Reactome) 3' -UTR-mediated translational regulation","REACTOME_3_UTR_MEDIATED_TRANSLATIONAL_REGULATION","DOWN",-0.271,-10.9,2.12e-05,0.000468
+"(Reactome) Sema4D in semaphorin signaling","REACTOME_SEMA4D_IN_SEMAPHORIN_SIGNALING","UP",0.226,10.9,2.18e-05,0.000472
+"(KEGG) DNA replication","KEGG_DNA_REPLICATION","DOWN",-0.222,-10.7,2.35e-05,0.000499
+"(Reactome) PPARA Activates Gene Expression","REACTOME_PPARA_ACTIVATES_GENE_EXPRESSION","UP",0.218,10.7,2.44e-05,0.000508
+"(Reactome) Unwinding of DNA","REACTOME_UNWINDING_OF_DNA","DOWN",-0.345,-10.6,2.56e-05,0.000524
+"(SigmaAldrich) Apoptosis is mediated by caspases, cysteine proteases arranged in a proteolytic cascade.","SA_CASPASE_CASCADE","UP",0.236,10.5,2.68e-05,0.000539
+"(Reactome) Inwardly rectifying K+ channels","REACTOME_INWARDLY_RECTIFYING_K_CHANNELS","DOWN",-0.274,-10.5,2.73e-05,0.000539
+"(KEGG) Cell cycle","KEGG_CELL_CYCLE","DOWN",-0.186,-10.4,2.89e-05,0.000549
+"(Reactome) Formation of the ternary complex, and subsequently, the 43S complex","REACTOME_FORMATION_OF_THE_TERNARY_COMPLEX_AND_SUBSEQUENTLY_THE_43S_COMPLEX","DOWN",-0.316,-10.4,2.92e-05,0.000549
+"(BioCarta) IL12 and Stat4 Dependent Signaling Pathway in Th1 Development","BIOCARTA_IL12_PATHWAY","DOWN",-0.432,-10.4,2.93e-05,0.000549
+"(BioCarta) Role of Ran in mitotic spindle regulation","BIOCARTA_RANMS_PATHWAY","DOWN",-0.385,-10.3,2.97e-05,0.000549
+"(Reactome) Peptide chain elongation","REACTOME_PEPTIDE_CHAIN_ELONGATION","DOWN",-0.281,-10.2,3.16e-05,0.000574
+"(Reactome) Platelet homeostasis","REACTOME_PLATELET_HOMEOSTASIS","UP",0.277,10.2,3.23e-05,0.000574
+"(Reactome) RNA Polymerase III Transcription Termination","REACTOME_RNA_POL_III_TRANSCRIPTION_TERMINATION","DOWN",-0.255,-10.2,3.26e-05,0.000574
+"(Reactome) Loss of Nlp from mitotic centrosomes","REACTOME_LOSS_OF_NLP_FROM_MITOTIC_CENTROSOMES","UP",0.168,10.1,3.4e-05,0.000589
+"(PID) Calcium signaling in the CD4+ TCR pathway","PID_TCR_CALCIUM_PATHWAY","DOWN",-0.191,-10,3.56e-05,0.000606
+"(BioCarta) p53 Signaling Pathway","BIOCARTA_P53_PATHWAY","DOWN",-0.636,-9.95,3.77e-05,0.000629
+"(Reactome) Nonsense Mediated Decay Enhanced by the Exon Junction Complex","REACTOME_NONSENSE_MEDIATED_DECAY_ENHANCED_BY_THE_EXON_JUNCTION_COMPLEX","DOWN",-0.211,-9.94,3.8e-05,0.000629
+"(PID) Regulation of retinoblastoma protein","PID_RB_1PATHWAY","DOWN",-0.169,-9.89,3.91e-05,0.000638
+"(Reactome) Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S","REACTOME_ACTIVATION_OF_THE_MRNA_UPON_BINDING_OF_THE_CAP_BINDING_COMPLEX_AND_EIFS_AND_SUBSEQUENT_BINDING_TO_43S","DOWN",-0.291,-9.82,4.08e-05,0.000655
+"(Reactome) Amino acid and oligopeptide SLC transporters","REACTOME_AMINO_ACID_AND_OLIGOPEPTIDE_SLC_TRANSPORTERS","DOWN",-0.249,-9.8,4.13e-05,0.000655
+"(Reactome) Extension of Telomeres","REACTOME_EXTENSION_OF_TELOMERES","DOWN",-0.252,-9.75,4.27e-05,0.000668
+"(PID) Internalization of ErbB1","PID_ERBB1_INTERNALIZATION_PATHWAY","UP",0.191,9.69,4.42e-05,0.000678
+"(PID) Integrin family cell surface interactions","PID_INTEGRIN_CS_PATHWAY","UP",0.231,9.68,4.46e-05,0.000678
+"(Reactome) Regulation of KIT signaling","REACTOME_REGULATION_OF_KIT_SIGNALING","DOWN",-0.334,-9.65,4.55e-05,0.000683
+"(PID) IL12 signaling mediated by STAT4","PID_IL12_STAT4_PATHWAY","DOWN",-0.431,-9.61,4.66e-05,0.000689
+"(Reactome) Interferon alpha/beta signaling","REACTOME_INTERFERON_ALPHA_BETA_SIGNALING","UP",0.843,9.54,4.87e-05,0.000712
+"(PID) EGF receptor (ErbB1) signaling pathway","PID_ERBB1_RECEPTOR_PROXIMAL_PATHWAY","UP",0.202,9.51,4.97e-05,0.000717
+"(Reactome) ABC-family proteins mediated transport","REACTOME_ABC_FAMILY_PROTEINS_MEDIATED_TRANSPORT","DOWN",-0.191,-9.48,5.06e-05,0.000721
+"(Reactome) Cell death signalling via NRAGE, NRIF and NADE","REACTOME_CELL_DEATH_SIGNALLING_VIA_NRAGE_NRIF_AND_NADE","UP",0.199,9.41,5.3e-05,0.000746
+"(KEGG) Drug metabolism - cytochrome P450","KEGG_DRUG_METABOLISM_CYTOCHROME_P450","UP",0.393,9.38,5.41e-05,0.000751
+"(KEGG) Ribosome","KEGG_RIBOSOME","DOWN",-0.303,-9.34,5.55e-05,0.000761
+"(KEGG) Small cell lung cancer","KEGG_SMALL_CELL_LUNG_CANCER","DOWN",-0.187,-9.29,5.73e-05,0.000777
+"(Reactome) TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)","REACTOME_TGF_BETA_RECEPTOR_SIGNALING_IN_EMT_EPITHELIAL_TO_MESENCHYMAL_TRANSITION","DOWN",-0.24,-9.22,5.99e-05,0.000803
+"(KEGG) Glycerophospholipid metabolism","KEGG_GLYCEROPHOSPHOLIPID_METABOLISM","DOWN",-0.217,-9.14,6.32e-05,0.000836
+"(PID) VEGFR3 signaling in lymphatic endothelium","PID_LYMPH_ANGIOGENESIS_PATHWAY","UP",0.194,9.11,6.43e-05,0.000841
+"(PID) C-MYB transcription factor network","PID_CMYB_PATHWAY","DOWN",-0.186,-9.09,6.52e-05,0.000843
+"(Reactome) Association of licensing factors with the pre-replicative complex","REACTOME_ASSOCIATION_OF_LICENSING_FACTORS_WITH_THE_PRE_REPLICATIVE_COMPLEX","DOWN",-0.256,-9.05,6.71e-05,0.000843
+"(BioCarta) Cyclins and Cell Cycle Regulation","BIOCARTA_CELLCYCLE_PATHWAY","DOWN",-0.423,-9.04,6.73e-05,0.000843
+"(Reactome) G1 Phase","REACTOME_G1_PHASE","DOWN",-0.256,-9.04,6.74e-05,0.000843
+"(Reactome) Cytokine Signaling in Immune system","REACTOME_CYTOKINE_SIGNALING_IN_IMMUNE_SYSTEM","UP",0.245,8.96,7.13e-05,0.000881
+"(PID) S1P4 pathway","PID_S1P_S1P4_PATHWAY","UP",0.163,8.9,7.42e-05,0.000899
+"(KEGG) RNA polymerase","KEGG_RNA_POLYMERASE","DOWN",-0.198,-8.9,7.43e-05,0.000899
+"(KEGG) Metabolism of xenobiotics by cytochrome P450","KEGG_METABOLISM_OF_XENOBIOTICS_BY_CYTOCHROME_P450","UP",0.266,8.86,7.63e-05,0.000913
+"(Reactome) Interleukin-1 signaling","REACTOME_IL1_SIGNALING","UP",0.17,8.82,7.84e-05,0.000928
+"(Reactome) Apoptotic execution  phase","REACTOME_APOPTOTIC_EXECUTION_PHASE","UP",0.162,8.8,7.95e-05,0.000932
+"(KEGG) Inositol phosphate metabolism","KEGG_INOSITOL_PHOSPHATE_METABOLISM","UP",0.169,8.75,8.23e-05,0.000954
+"(Reactome) Recruitment of mitotic centrosome proteins and complexes","REACTOME_RECRUITMENT_OF_MITOTIC_CENTROSOME_PROTEINS_AND_COMPLEXES","UP",0.151,8.71,8.43e-05,0.000967
+"(PID) IL23-mediated signaling events","PID_IL23_PATHWAY","UP",0.197,8.69,8.55e-05,0.000971
+"(Reactome) TRAF6 mediated NF-kB activation","REACTOME_TRAF6_MEDIATED_NFKB_ACTIVATION","UP",0.177,8.68,8.63e-05,0.000971
+"(Reactome) Polymerase switching","REACTOME_POL_SWITCHING","DOWN",-0.203,-8.65,8.82e-05,0.000974
+"(Reactome) Activation of the pre-replicative complex","REACTOME_ACTIVATION_OF_THE_PRE_REPLICATIVE_COMPLEX","DOWN",-0.231,-8.64,8.83e-05,0.000974
+"(Reactome) RNA Polymerase III Transcription Initiation From Type 2 Promoter","REACTOME_RNA_POL_III_TRANSCRIPTION_INITIATION_FROM_TYPE_2_PROMOTER","DOWN",-0.22,-8.57,9.29e-05,0.00102
+"(Reactome) CREB phosphorylation through the activation of CaMKII","REACTOME_CREB_PHOSPHORYLATION_THROUGH_THE_ACTIVATION_OF_CAMKII","UP",0.258,8.55,9.41e-05,0.00102
+"(Reactome) Trafficking of AMPA receptors","REACTOME_TRAFFICKING_OF_AMPA_RECEPTORS","DOWN",-0.208,-8.54,9.47e-05,0.00102
+"(Reactome) Nephrin interactions","REACTOME_NEPHRIN_INTERACTIONS","UP",0.218,8.52,9.65e-05,0.00102
+"(Reactome) APC-Cdc20 mediated degradation of Nek2A","REACTOME_APC_CDC20_MEDIATED_DEGRADATION_OF_NEK2A","DOWN",-0.168,-8.48,9.93e-05,0.00104
+"(Reactome) Purine ribonucleoside monophosphate biosynthesis","REACTOME_PURINE_RIBONUCLEOSIDE_MONOPHOSPHATE_BIOSYNTHESIS","DOWN",-0.502,-8.45,0.000101,0.00105
+"(KEGG) Histidine metabolism","KEGG_HISTIDINE_METABOLISM","UP",0.363,8.34,0.000109,0.00113
+"(BioCarta) VEGF, Hypoxia, and Angiogenesis","BIOCARTA_VEGF_PATHWAY","DOWN",-0.197,-8.31,0.000112,0.00114
+"(KEGG) O-Glycan biosynthesis","KEGG_O_GLYCAN_BIOSYNTHESIS","DOWN",-0.264,-8.28,0.000114,0.00116
+"(Reactome) Influenza Viral RNA Transcription and Replication","REACTOME_INFLUENZA_VIRAL_RNA_TRANSCRIPTION_AND_REPLICATION","DOWN",-0.225,-8.27,0.000115,0.00116
+"(Reactome) Signaling by Interleukins","REACTOME_SIGNALING_BY_ILS","UP",0.145,8.21,0.00012,0.00119
+"(SigmaAldrich) PTEN is a tumor suppressor that dephosphorylates the lipid messenger phosphatidylinositol triphosphate.","SA_PTEN_PATHWAY","UP",0.16,8.2,0.000121,0.0012
+"(BioCarta) NF-kB Signaling Pathway","BIOCARTA_NFKB_PATHWAY","UP",0.214,8.18,0.000123,0.0012
+"(Reactome) Activation of ATR in response to replication stress","REACTOME_ACTIVATION_OF_ATR_IN_RESPONSE_TO_REPLICATION_STRESS","DOWN",-0.196,-8.11,0.00013,0.00124
+"(Reactome) Interferon Signaling","REACTOME_INTERFERON_SIGNALING","UP",0.34,8.11,0.00013,0.00124
+"(Reactome) RNA Polymerase III Transcription Initiation From Type 3 Promoter","REACTOME_RNA_POL_III_TRANSCRIPTION_INITIATION_FROM_TYPE_3_PROMOTER","DOWN",-0.168,-8.1,0.00013,0.00124
+"(Reactome) Golgi Associated Vesicle Biogenesis","REACTOME_GOLGI_ASSOCIATED_VESICLE_BIOGENESIS","UP",0.147,8.09,0.000132,0.00124
+"(Reactome) Purine salvage","REACTOME_PURINE_SALVAGE","DOWN",-0.388,-8.08,0.000132,0.00124
+"(PID) Regulation of Ras family activation","PID_RAS_PATHWAY","UP",0.19,8.06,0.000134,0.00124
+"(BioCarta) Role of MEF2D in T-cell Apoptosis","BIOCARTA_MEF2D_PATHWAY","DOWN",-0.172,-8.05,0.000135,0.00124
+"(PID) Syndecan-2-mediated signaling events","PID_SYNDECAN_2_PATHWAY","DOWN",-0.239,-8.02,0.000138,0.00125
+"(Signaling Gateway) Genes related to regulation of the actin cytoskeleton","SIG_REGULATION_OF_THE_ACTIN_CYTOSKELETON_BY_RHO_GTPASES","UP",0.152,8.02,0.000138,0.00125
+"(PID) TCR signaling in na&#xef;ve CD4+ T cells","PID_TCR_PATHWAY","UP",0.145,8,0.00014,0.00126
+"(PID) ATR signaling pathway","PID_ATR_PATHWAY","DOWN",-0.17,-7.96,0.000144,0.00129
+"(Reactome) O-linked glycosylation of mucins","REACTOME_O_LINKED_GLYCOSYLATION_OF_MUCINS","DOWN",-0.242,-7.92,0.000149,0.00132
+"(PID) Coregulation of Androgen receptor activity","PID_AR_PATHWAY","DOWN",-0.185,-7.89,0.000152,0.00134
+"(Reactome) Translation","REACTOME_TRANSLATION","DOWN",-0.217,-7.87,0.000155,0.00135
+"(KEGG) beta-Alanine metabolism","KEGG_BETA_ALANINE_METABOLISM","DOWN",-0.138,-7.83,0.000159,0.00137
+"(Reactome) Regulation of IFNG signaling","REACTOME_REGULATION_OF_IFNG_SIGNALING","UP",0.169,7.79,0.000164,0.00141
+"(Reactome) Caspase-mediated cleavage of cytoskeletal proteins","REACTOME_CASPASE_MEDIATED_CLEAVAGE_OF_CYTOSKELETAL_PROTEINS","UP",0.176,7.75,0.000169,0.00144
+"(BioCarta) Role of Parkin in the Ubiquitin-Proteasomal Pathway","BIOCARTA_PARKIN_PATHWAY","UP",0.171,7.73,0.000171,0.00144
+"(Reactome) NRAGE signals death through JNK","REACTOME_NRAGE_SIGNALS_DEATH_THROUGH_JNK","UP",0.22,7.72,0.000173,0.00144
+"(BioCarta) Chaperones modulate interferon Signaling Pathway","BIOCARTA_TID_PATHWAY","UP",0.273,7.71,0.000175,0.00144
+"(Reactome) NCAM1 interactions","REACTOME_NCAM1_INTERACTIONS","DOWN",-0.157,-7.71,0.000175,0.00144
+"(KEGG) Viral myocarditis","KEGG_VIRAL_MYOCARDITIS","DOWN",-0.151,-7.63,0.000186,0.00152
+"(Reactome) G2/M Checkpoints","REACTOME_G2_M_CHECKPOINTS","DOWN",-0.175,-7.56,0.000195,0.00158
+"(KEGG) Chronic myeloid leukemia","KEGG_CHRONIC_MYELOID_LEUKEMIA","DOWN",-0.194,-7.56,0.000196,0.00158
+"(Reactome) Influenza Life Cycle","REACTOME_INFLUENZA_LIFE_CYCLE","DOWN",-0.18,-7.54,0.000199,0.0016
+"(Reactome) SRP-dependent cotranslational protein targeting to membrane","REACTOME_SRP_DEPENDENT_COTRANSLATIONAL_PROTEIN_TARGETING_TO_MEMBRANE","DOWN",-0.227,-7.53,0.000201,0.0016
+"(Reactome) Downregulation of TGF-beta receptor signaling","REACTOME_DOWNREGULATION_OF_TGF_BETA_RECEPTOR_SIGNALING","DOWN",-0.249,-7.5,0.000205,0.00162
+"(Reactome) E2F mediated regulation of DNA replication","REACTOME_E2F_MEDIATED_REGULATION_OF_DNA_REPLICATION","DOWN",-0.183,-7.46,0.000212,0.00166
+"(KEGG) Thyroid cancer","KEGG_THYROID_CANCER","DOWN",-0.273,-7.45,0.000213,0.00166
+"(PID) amb2 Integrin signaling","PID_AMB2_NEUTROPHILS_PATHWAY","DOWN",-0.207,-7.45,0.000213,0.00166
+"(Reactome) Apoptotic cleavage of cellular proteins","REACTOME_APOPTOTIC_CLEAVAGE_OF_CELLULAR_PROTEINS","UP",0.128,7.43,0.000216,0.00167
+"(BioCarta) Links between Pyk2 and Map Kinases","BIOCARTA_PYK2_PATHWAY","DOWN",-0.154,-7.41,0.00022,0.00168
+"(KEGG) Glycosaminoglycan degradation","KEGG_GLYCOSAMINOGLYCAN_DEGRADATION","UP",0.249,7.38,0.000225,0.00171
+"(Reactome) GABA receptor activation","REACTOME_GABA_RECEPTOR_ACTIVATION","DOWN",-0.252,-7.32,0.000237,0.00179
+"(Reactome) RNA Polymerase I Promoter Opening","REACTOME_RNA_POL_I_PROMOTER_OPENING","UP",0.231,7.3,0.000241,0.00181
+"(KEGG) Pancreatic cancer","KEGG_PANCREATIC_CANCER","DOWN",-0.221,-7.25,0.000251,0.00187
+"(PID) Role of Calcineurin-dependent NFAT signaling in lymphocytes","PID_NFAT_3PATHWAY","DOWN",-0.13,-7.21,0.000259,0.00192
+"(Reactome) Fanconi Anemia pathway","REACTOME_FANCONI_ANEMIA_PATHWAY","DOWN",-0.141,-7.15,0.000271,0.00199
+"(Reactome) YAP1- and WWTR1 (TAZ)-stimulated gene expression","REACTOME_YAP1_AND_WWTR1_TAZ_STIMULATED_GENE_EXPRESSION","UP",0.253,7.15,0.000272,0.00199
+"(Reactome) RNA Polymerase III Transcription","REACTOME_RNA_POL_III_TRANSCRIPTION","DOWN",-0.154,-7.14,0.000274,0.00199
+"(PID) p38 MAPK signaling pathway","PID_P38_MKK3_6PATHWAY","UP",0.133,7.13,0.000275,0.00199
+"(BioCarta) Role of EGF Receptor Transactivation by GPCRs in Cardiac Hypertrophy","BIOCARTA_CARDIACEGF_PATHWAY","DOWN",-0.143,-7.09,0.000285,0.00204
+"(Reactome) Mitotic G2-G2/M phases","REACTOME_MITOTIC_G2_G2_M_PHASES","UP",0.118,7.05,0.000294,0.0021
+"(Reactome) PKB-mediated events","REACTOME_PKB_MEDIATED_EVENTS","DOWN",-0.133,-7.02,0.000302,0.00213
+"(Reactome) trans-Golgi Network Vesicle Budding","REACTOME_TRANS_GOLGI_NETWORK_VESICLE_BUDDING","UP",0.132,7.01,0.000303,0.00213
+"(PID) Signaling events mediated by PRL","PID_PRL_SIGNALING_EVENTS_PATHWAY","DOWN",-0.263,-7,0.000307,0.00214
+"(Reactome) mRNA Decay by 3' to 5' Exoribonuclease","REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE","DOWN",-0.168,-6.99,0.000308,0.00214
+"(PID) SHP2 signaling","PID_SHP2_PATHWAY","UP",0.133,6.97,0.000315,0.00217
+"(BioCarta) Repression of Pain Sensation by the Transcriptional Regulator DREAM","BIOCARTA_DREAM_PATHWAY","UP",0.218,6.96,0.000317,0.00218
+"(PID) IL2 signaling events mediated by STAT5","PID_IL2_STAT5_PATHWAY","DOWN",-0.2,-6.95,0.000321,0.00219
+"(Reactome) Tie2 Signaling","REACTOME_TIE2_SIGNALING","UP",0.207,6.92,0.000327,0.00221
+"(PID) Validated targets of C-MYC transcriptional activation","PID_MYC_ACTIV_PATHWAY","DOWN",-0.169,-6.92,0.000329,0.00221
+"(PID) Downstream signaling in na&#xef;ve CD8+ T cells","PID_CD8_TCR_DOWNSTREAM_PATHWAY","DOWN",-0.274,-6.9,0.000334,0.00224
+"(PID) Notch signaling pathway","PID_NOTCH_PATHWAY","UP",0.118,6.86,0.000345,0.00229
+"(Reactome) Metabolism of RNA","REACTOME_METABOLISM_OF_RNA","DOWN",-0.126,-6.83,0.000354,0.00233
+"(Reactome) Signaling by constitutively active EGFR","REACTOME_SIGNALING_BY_CONSTITUTIVELY_ACTIVE_EGFR","UP",0.155,6.81,0.000359,0.00233
+"(PID) Cellular roles of Anthrax toxin","PID_ANTHRAX_PATHWAY","DOWN",-0.143,-6.81,0.000359,0.00233
+"(Reactome) TGF-beta receptor signaling activates SMADs","REACTOME_TGF_BETA_RECEPTOR_SIGNALING_ACTIVATES_SMADS","DOWN",-0.231,-6.81,0.00036,0.00233
+"(BioCarta) mCalpain and friends in Cell motility","BIOCARTA_MCALPAIN_PATHWAY","UP",0.279,6.81,0.000361,0.00233
+"(BioCarta) Rho-Selective Guanine Exchange Factor AKAP13 Mediates Stress Fiber Formation","BIOCARTA_AKAP13_PATHWAY","UP",0.294,6.71,0.000392,0.00252
+"(PID) E2F transcription factor network","PID_E2F_PATHWAY","DOWN",-0.161,-6.7,0.000396,0.00253
+"(Reactome) TRAF6 mediated induction of TAK1 complex","REACTOME_TRAF6_MEDIATED_INDUCTION_OF_TAK1_COMPLEX","UP",0.153,6.68,0.000401,0.00255
+"(BioCarta) IL22 Soluble Receptor Signaling Pathway","BIOCARTA_IL22BP_PATHWAY","UP",0.264,6.65,0.000413,0.00261
+"(Reactome) Amine compound SLC transporters","REACTOME_AMINE_COMPOUND_SLC_TRANSPORTERS","UP",0.177,6.64,0.000416,0.00261
+"(BioCarta) Cell to Cell Adhesion Signaling","BIOCARTA_CELL2CELL_PATHWAY","DOWN",-0.547,-6.62,0.000423,0.00264
+"(PID) S1P1 pathway","PID_S1P_S1P1_PATHWAY","UP",0.148,6.59,0.000434,0.0027
+"(KEGG) Hedgehog signaling pathway","KEGG_HEDGEHOG_SIGNALING_PATHWAY","DOWN",-0.252,-6.58,0.000439,0.00271
+"(PID) IL6-mediated signaling events","PID_IL6_7_PATHWAY","UP",0.118,6.56,0.000446,0.00274
+"(PID) ErbB2/ErbB3 signaling events","PID_ERBB2_ERBB3_PATHWAY","UP",0.139,6.55,0.000448,0.00274
+"(PID) HIF-2-alpha transcription factor network","PID_HIF2PATHWAY","UP",0.194,6.48,0.000478,0.00291
+"(KEGG) Glycosaminoglycan biosynthesis - heparan sulfate","KEGG_GLYCOSAMINOGLYCAN_BIOSYNTHESIS_HEPARAN_SULFATE","UP",0.209,6.45,0.000489,0.00296
+"(Reactome) Signal attenuation","REACTOME_SIGNAL_ATTENUATION","DOWN",-0.177,-6.42,0.000503,0.00302
+"(Reactome) Synthesis of bile acids and bile salts","REACTOME_SYNTHESIS_OF_BILE_ACIDS_AND_BILE_SALTS","UP",0.149,6.42,0.000506,0.00303
+"(PID) Visual signal transduction: Rods","PID_RHODOPSIN_PATHWAY","UP",0.66,6.37,0.000528,0.00315
+"(KEGG) Leishmania infection","KEGG_LEISHMANIA_INFECTION","UP",0.138,6.35,0.000537,0.00318
+"(Reactome) Keratan sulfate/keratin metabolism","REACTOME_KERATAN_SULFATE_KERATIN_METABOLISM","DOWN",-0.145,-6.33,0.000546,0.00322
+"(PID) Integrin-linked kinase signaling","PID_ILK_PATHWAY","DOWN",-0.154,-6.31,0.000556,0.00326
+"(Reactome) Purine metabolism","REACTOME_PURINE_METABOLISM","DOWN",-0.348,-6.3,0.000563,0.00328
+"(Reactome) CDC6 association with the ORC:origin complex","REACTOME_CDC6_ASSOCIATION_WITH_THE_ORC_ORIGIN_COMPLEX","DOWN",-0.194,-6.28,0.00057,0.00331
+"(Reactome) DARPP-32 events","REACTOME_DARPP_32_EVENTS","UP",0.143,6.26,0.000583,0.00336
+"(Reactome) Activation of BH3-only proteins","REACTOME_ACTIVATION_OF_BH3_ONLY_PROTEINS","DOWN",-0.29,-6.23,0.000595,0.0034
+"(PID) Integrins in angiogenesis","PID_AVB3_INTEGRIN_PATHWAY","UP",0.136,6.23,0.000595,0.0034
+"(PID) Trk receptor signaling mediated by PI3K and PLC-gamma","PID_PI3K_PLC_TRK_PATHWAY","DOWN",-0.172,-6.22,0.000601,0.00341
+"(PID) Circadian rhythm pathway","PID_CIRCADIAN_PATHWAY","UP",0.204,6.17,0.00063,0.00354
+"(BioCarta) Regulation of eIF2","BIOCARTA_EIF2_PATHWAY","DOWN",-0.152,-6.17,0.00063,0.00354
+"(Reactome) Mitotic G1-G1/S phases","REACTOME_MITOTIC_G1_G1_S_PHASES","DOWN",-0.142,-6.17,0.000633,0.00354
+"(BioCarta) Regulation And Function Of ChREBP in Liver","BIOCARTA_CHREBP2_PATHWAY","UP",0.136,6.13,0.000651,0.00363
+"(KEGG) Gap junction","KEGG_GAP_JUNCTION","UP",0.144,6.13,0.000655,0.00363
+"(Reactome) Signaling by NOTCH4","REACTOME_SIGNALING_BY_NOTCH4","UP",0.206,6.11,0.000663,0.00366
+"(BioCarta) Actions of Nitric Oxide in the Heart","BIOCARTA_NO1_PATHWAY","UP",0.164,6.1,0.000671,0.00368
+"(Reactome) RNA Polymerase I Transcription Termination","REACTOME_RNA_POL_I_TRANSCRIPTION_TERMINATION","DOWN",-0.145,-6.1,0.000673,0.00368
+"(Reactome) APC/C:Cdc20 mediated degradation of Cyclin B","REACTOME_APC_C_CDC20_MEDIATED_DEGRADATION_OF_CYCLIN_B","DOWN",-0.118,-6.09,0.000678,0.00368
+"(STKE) Tumor Necrosis Factor Pathway.","ST_TUMOR_NECROSIS_FACTOR_PATHWAY","UP",0.18,6.06,0.000699,0.00375
+"(BioCarta) BCR Signaling Pathway","BIOCARTA_BCR_PATHWAY","DOWN",-0.122,-6.05,0.000702,0.00375
+"(KEGG) Notch signaling pathway","KEGG_NOTCH_SIGNALING_PATHWAY","UP",0.103,6.05,0.000704,0.00375
+"(Reactome) Immune System","REACTOME_IMMUNE_SYSTEM","UP",0.111,6.05,0.000706,0.00375
+"(PID) Validated nuclear estrogen receptor alpha network","PID_ERA_GENOMIC_PATHWAY","DOWN",-0.154,-6.04,0.000709,0.00375
+"(PID) Regulation of p38-alpha and p38-beta","PID_P38_ALPHA_BETA_PATHWAY","DOWN",-0.116,-6.04,0.00071,0.00375
+"(Reactome) Formation of Fibrin Clot (Clotting Cascade)","REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE","UP",0.226,6.03,0.000716,0.00376
+"(KEGG) Pathways in cancer","KEGG_PATHWAYS_IN_CANCER","DOWN",-0.123,-6.03,0.000719,0.00376
+"(KEGG) Arachidonic acid metabolism","KEGG_ARACHIDONIC_ACID_METABOLISM","UP",0.28,6.01,0.000733,0.00379
+"(KEGG) Long-term depression","KEGG_LONG_TERM_DEPRESSION","UP",0.237,6.01,0.000733,0.00379
+"(Reactome) Signaling by NOTCH2","REACTOME_SIGNALING_BY_NOTCH2","UP",0.187,6.01,0.000734,0.00379
+"(Reactome) GABA B receptor activation","REACTOME_GABA_B_RECEPTOR_ACTIVATION","DOWN",-0.216,-6,0.000737,0.00379
+"(Reactome) Metabolism of mRNA","REACTOME_METABOLISM_OF_MRNA","DOWN",-0.122,-5.97,0.000758,0.00388
+"(Naba) Genes encoding proteins affiliated structurally or functionally to extracellular matrix proteins","NABA_ECM_AFFILIATED","UP",0.112,5.96,0.000767,0.00391
+"(Reactome) Gap junction trafficking","REACTOME_GAP_JUNCTION_TRAFFICKING","DOWN",-0.163,-5.9,0.000812,0.00412
+"(BioCarta) Map Kinase Inactivation of SMRT Corepressor","BIOCARTA_EGFR_SMRTE_PATHWAY","DOWN",-0.171,-5.89,0.000821,0.00413
+"(Reactome) Interactions of Vpr with host cellular proteins","REACTOME_INTERACTIONS_OF_VPR_WITH_HOST_CELLULAR_PROTEINS","DOWN",-0.128,-5.88,0.000822,0.00413
+"(PID) Signaling events regulated by Ret tyrosine kinase","PID_RET_PATHWAY","DOWN",-0.156,-5.88,0.000827,0.00413
+"(PID) BARD1 signaling events","PID_BARD1_PATHWAY","DOWN",-0.121,-5.83,0.000862,0.00429
+"(PID) Sumoylation by RanBP2 regulates transcriptional repression","PID_RANBP2_PATHWAY","DOWN",-0.151,-5.81,0.000878,0.00435
+"(BioCarta) How Progesterone Initiates Oocyte Membrane","BIOCARTA_MPR_PATHWAY","UP",0.113,5.79,0.000902,0.00445
+"(BioCarta) Regulation of transcriptional activity by PML","BIOCARTA_PML_PATHWAY","UP",0.11,5.77,0.000919,0.0045
+"(Reactome) Synthesis of PIPs at the plasma membrane","REACTOME_SYNTHESIS_OF_PIPS_AT_THE_PLASMA_MEMBRANE","UP",0.122,5.77,0.00092,0.0045
+"(Reactome) Innate Immune System","REACTOME_INNATE_IMMUNE_SYSTEM","UP",0.106,5.72,0.00096,0.00466
+"(Reactome) Inhibition of the proteolytic activity of APC/C required for the onset of anaphase by mitotic spindle checkpoint components","REACTOME_INHIBITION_OF_THE_PROTEOLYTIC_ACTIVITY_OF_APC_C_REQUIRED_FOR_THE_ONSET_OF_ANAPHASE_BY_MITOTIC_SPINDLE_CHECKPOINT_COMPONENTS","DOWN",-0.133,-5.71,0.000967,0.00466
+"(Reactome) Antiviral mechanism by IFN-stimulated genes","REACTOME_ANTIVIRAL_MECHANISM_BY_IFN_STIMULATED_GENES","UP",0.225,5.71,0.000968,0.00466
+"(Reactome) Insulin Synthesis and Processing","REACTOME_INSULIN_SYNTHESIS_AND_PROCESSING","UP",0.176,5.71,0.000972,0.00466
+"(KEGG) Phenylalanine metabolism","KEGG_PHENYLALANINE_METABOLISM","UP",0.523,5.71,0.000973,0.00466
+"(KEGG) Tyrosine metabolism","KEGG_TYROSINE_METABOLISM","UP",0.291,5.69,0.000985,0.0047
+"(KEGG) Glioma","KEGG_GLIOMA","DOWN",-0.219,-5.69,0.000992,0.00471
+"(Reactome) Signaling by NOTCH3","REACTOME_SIGNALING_BY_NOTCH3","UP",0.189,5.65,0.00103,0.00485
+"(Reactome) Lagging Strand Synthesis","REACTOME_LAGGING_STRAND_SYNTHESIS","DOWN",-0.146,-5.61,0.00107,0.00503
+"(PID) Syndecan-3-mediated signaling events","PID_SYNDECAN_3_PATHWAY","UP",0.109,5.61,0.00107,0.00503
+"(PID) FOXA2 and FOXA3 transcription factor networks","PID_HNF3B_PATHWAY","UP",0.215,5.59,0.00109,0.00511
+"(Reactome) Packaging Of Telomere Ends","REACTOME_PACKAGING_OF_TELOMERE_ENDS","UP",0.237,5.56,0.00113,0.00523
+"(Naba) Genes encoding proteoglycans","NABA_PROTEOGLYCANS","UP",0.115,5.55,0.00113,0.00525
+"(KEGG) Axon guidance","KEGG_AXON_GUIDANCE","UP",0.124,5.54,0.00115,0.00529
+"(KEGG) Circadian rhythm - mammal","KEGG_CIRCADIAN_RHYTHM_MAMMAL","UP",0.266,5.51,0.00117,0.00539
+"(KEGG) Proximal tubule bicarbonate reclamation","KEGG_PROXIMAL_TUBULE_BICARBONATE_RECLAMATION","UP",0.102,5.46,0.00125,0.0057
+"(BioCarta) Effects of calcineurin in Keratinocyte Differentiation","BIOCARTA_CALCINEURIN_PATHWAY","DOWN",-0.129,-5.44,0.00126,0.00575
+"(Reactome) G alpha (12/13) signalling events","REACTOME_G_ALPHA1213_SIGNALLING_EVENTS","UP",0.141,5.43,0.00127,0.00578
+"(Reactome) RORA Activates Circadian Expression","REACTOME_RORA_ACTIVATES_CIRCADIAN_EXPRESSION","UP",0.221,5.43,0.00128,0.00579
+"(KEGG) Retinol metabolism","KEGG_RETINOL_METABOLISM","UP",0.233,5.39,0.00133,0.00599
+"(BioCarta) Acetylation and Deacetylation of RelA in The Nucleus","BIOCARTA_RELA_PATHWAY","UP",0.246,5.38,0.00134,0.00602
+"(Reactome) NCAM signaling for neurite out-growth","REACTOME_NCAM_SIGNALING_FOR_NEURITE_OUT_GROWTH","DOWN",-0.1,-5.37,0.00136,0.00608
+"(Reactome) Ras activation uopn Ca2+ infux through NMDA receptor","REACTOME_RAS_ACTIVATION_UOPN_CA2_INFUX_THROUGH_NMDA_RECEPTOR","UP",0.192,5.35,0.00138,0.00614
+"(PID) E-cadherin signaling in the nascent adherens junction","PID_ECADHERIN_NASCENT_AJ_PATHWAY","DOWN",-0.095,-5.35,0.00139,0.00614
+"(PID) ATM pathway","PID_ATM_PATHWAY","DOWN",-0.126,-5.33,0.00142,0.00626
+"(Reactome) Cell-Cell communication","REACTOME_CELL_CELL_COMMUNICATION","UP",0.0884,5.32,0.00142,0.00626
+"(STKE) G alpha 12 Pathway","ST_GA12_PATHWAY","DOWN",-0.12,-5.29,0.00147,0.00642
+"(Signaling Gateway) Members of the BCR signaling pathway","SIG_BCR_SIGNALING_PATHWAY","DOWN",-0.119,-5.29,0.00147,0.00642
+"(KEGG) Melanoma","KEGG_MELANOMA","DOWN",-0.199,-5.28,0.00149,0.00645
+"(Reactome) Metabolism of non-coding RNA","REACTOME_METABOLISM_OF_NON_CODING_RNA","DOWN",-0.126,-5.27,0.0015,0.00645
+"(BioCarta) Pertussis toxin-insensitive CCR5 Signaling in Macrophage","BIOCARTA_CCR5_PATHWAY","DOWN",-0.203,-5.27,0.0015,0.00645
+"(Reactome) Nuclear Events (kinase and transcription factor activation)","REACTOME_NUCLEAR_EVENTS_KINASE_AND_TRANSCRIPTION_FACTOR_ACTIVATION","UP",0.132,5.26,0.00151,0.00647
+"(PID) Canonical NF-kappaB pathway","PID_NFKAPPAB_CANONICAL_PATHWAY","UP",0.184,5.26,0.00151,0.00647
+"(BioCarta) Eukaryotic protein translation","BIOCARTA_EIF_PATHWAY","DOWN",-0.104,-5.25,0.00154,0.00656
+"(PID) Signaling events mediated by TCPTP","PID_TCPTP_PATHWAY","UP",0.127,5.23,0.00157,0.00666
+"(PID) Class I PI3K signaling events","PID_PI3KCI_PATHWAY","DOWN",-0.129,-5.2,0.00161,0.00679
+"(Reactome) Meiotic Synapsis","REACTOME_MEIOTIC_SYNAPSIS","UP",0.129,5.19,0.00163,0.00685
+"(PID) Beta1 integrin cell surface interactions","PID_INTEGRIN1_PATHWAY","UP",0.0906,5.18,0.00165,0.00691
+"(Reactome) BMAL1:CLOCK/NPAS2 Activates Circadian Expression","REACTOME_BMAL1_CLOCK_NPAS2_ACTIVATES_CIRCADIAN_EXPRESSION","UP",0.22,5.17,0.00166,0.00694
+"(BioCarta) CDK Regulation of DNA Replication","BIOCARTA_MCM_PATHWAY","DOWN",-0.169,-5.16,0.00168,0.00698
+"(BioCarta) Oxidative Stress Induced Gene Expression Via Nrf2","BIOCARTA_ARENRF2_PATHWAY","DOWN",-0.268,-5.16,0.00168,0.00698
+"(PID) Degradation of beta catenin","PID_BETA_CATENIN_DEG_PATHWAY","UP",0.141,5.15,0.0017,0.00703
+"(Reactome) N-Glycan antennae elongation","REACTOME_N_GLYCAN_ANTENNAE_ELONGATION","DOWN",-0.242,-5.15,0.00171,0.00703
+"(Reactome) Semaphorin interactions","REACTOME_SEMAPHORIN_INTERACTIONS","UP",0.122,5.14,0.00172,0.00704
+"(Reactome) p75NTR signals via NF-kB","REACTOME_P75NTR_SIGNALS_VIA_NFKB","UP",0.145,5.1,0.00179,0.00727
+"(Reactome) Thrombin signalling through proteinase activated receptors (PARs)","REACTOME_THROMBIN_SIGNALLING_THROUGH_PROTEINASE_ACTIVATED_RECEPTORS_PARS","DOWN",-0.142,-5.1,0.00179,0.00727
+"(STKE) G alpha s Pathway","ST_G_ALPHA_S_PATHWAY","DOWN",-0.15,-5.1,0.00179,0.00727
+"(PID) Endogenous TLR signaling","PID_TOLL_ENDOGENOUS_PATHWAY","UP",0.12,5.1,0.0018,0.00727
+"(PID) CDC42 signaling events","PID_CDC42_PATHWAY","UP",0.0925,5.08,0.00183,0.00738
+"(KEGG) Regulation of actin cytoskeleton","KEGG_REGULATION_OF_ACTIN_CYTOSKELETON","UP",0.107,5.07,0.00184,0.00738
+"(PID) TNF receptor signaling pathway","PID_TNF_PATHWAY","UP",0.0985,5.07,0.00185,0.00739
+"(BioCarta) Role of MAL in Rho-Mediated Activation of SRF","BIOCARTA_MAL_PATHWAY","DOWN",-0.106,-5.06,0.00186,0.00741
+"(PID) Retinoic acid receptors-mediated signaling","PID_RETINOIC_ACID_PATHWAY","DOWN",-0.126,-5.06,0.00187,0.00744
+"(BioCarta) CBL mediated ligand-induced downregulation of EGF receptors","BIOCARTA_CBL_PATHWAY","DOWN",-0.205,-5.05,0.00188,0.00744
+"(PID) IFN-gamma pathway","PID_IFNG_PATHWAY","UP",0.104,5.04,0.0019,0.00752
+"(BioCarta) Trefoil Factors Initiate Mucosal Healing","BIOCARTA_TFF_PATHWAY","UP",0.154,5.03,0.00193,0.00758
+"(PID) Signaling mediated by p38-alpha and p38-beta","PID_P38_ALPHA_BETA_DOWNSTREAM_PATHWAY","UP",0.0964,4.99,0.00201,0.00789
+"(Reactome) Heparan sulfate/heparin (HS-GAG) metabolism","REACTOME_HEPARAN_SULFATE_HEPARIN_HS_GAG_METABOLISM","UP",0.133,4.98,0.00203,0.00792
+"(PID) Syndecan-1-mediated signaling events","PID_SYNDECAN_1_PATHWAY","UP",0.222,4.98,0.00204,0.00792
+"(Reactome) Circadian Repression of Expression by REV-ERBA","REACTOME_CIRCADIAN_REPRESSION_OF_EXPRESSION_BY_REV_ERBA","UP",0.216,4.97,0.00205,0.00793
+"(Reactome) Inhibition of replication initiation of damaged DNA by RB1/E2F1","REACTOME_INHIBITION_OF_REPLICATION_INITIATION_OF_DAMAGED_DNA_BY_RB1_E2F1","DOWN",-0.175,-4.97,0.00206,0.00793
+"(BioCarta) AKAP95 role in mitosis and chromosome dynamics","BIOCARTA_AKAP95_PATHWAY","DOWN",-0.0957,-4.97,0.00206,0.00793
+"(Reactome) Circadian Clock","REACTOME_CIRCADIAN_CLOCK","UP",0.188,4.94,0.00211,0.00809
+"(Reactome) Pre-NOTCH Expression and Processing","REACTOME_PRE_NOTCH_EXPRESSION_AND_PROCESSING","DOWN",-0.188,-4.93,0.00215,0.00823
+"(Reactome) Glycogen breakdown (glycogenolysis)","REACTOME_GLYCOGEN_BREAKDOWN_GLYCOGENOLYSIS","UP",0.135,4.89,0.00223,0.00849
+"(Reactome) Activated AMPK stimulates fatty-acid oxidation in muscle","REACTOME_ACTIVATED_AMPK_STIMULATES_FATTY_ACID_OXIDATION_IN_MUSCLE","UP",0.136,4.89,0.00224,0.0085
+"(PID) Validated targets of C-MYC transcriptional repression","PID_MYC_REPRESS_PATHWAY","UP",0.1,4.88,0.00226,0.00855
+"(KEGG) Leukocyte transendothelial migration","KEGG_LEUKOCYTE_TRANSENDOTHELIAL_MIGRATION","DOWN",-0.0868,-4.87,0.00228,0.0086
+"(Reactome) Glycerophospholipid biosynthesis","REACTOME_GLYCEROPHOSPHOLIPID_BIOSYNTHESIS","DOWN",-0.108,-4.86,0.00231,0.0087
+"(PID) IL2-mediated signaling events","PID_IL2_1PATHWAY","UP",0.106,4.86,0.00232,0.0087
+"(PID) Syndecan-4-mediated signaling events","PID_SYNDECAN_4_PATHWAY","UP",0.0848,4.83,0.00238,0.00888
+"(PID) p53 pathway","PID_P53_REGULATION_PATHWAY","DOWN",-0.0948,-4.83,0.00238,0.00888
+"(PID) Hedgehog signaling events mediated by Gli proteins","PID_HEDGEHOG_GLI_PATHWAY","UP",0.0951,4.82,0.00242,0.00899
+"(PID) E-cadherin signaling in keratinocytes","PID_ECADHERIN_KERATINOCYTE_PATHWAY","DOWN",-0.13,-4.79,0.0025,0.00924
+"(Reactome) Keratan sulfate biosynthesis","REACTOME_KERATAN_SULFATE_BIOSYNTHESIS","DOWN",-0.104,-4.78,0.00252,0.00927
+"(Reactome) Formation of transcription-coupled NER (TC-NER) repair complex","REACTOME_FORMATION_OF_TRANSCRIPTION_COUPLED_NER_TC_NER_REPAIR_COMPLEX","UP",0.0895,4.78,0.00253,0.00927
+"(Reactome) Adaptive Immune System","REACTOME_ADAPTIVE_IMMUNE_SYSTEM","UP",0.0815,4.78,0.00253,0.00927
+"(Reactome) Intrinsic Pathway for Apoptosis","REACTOME_INTRINSIC_PATHWAY_FOR_APOPTOSIS","DOWN",-0.144,-4.77,0.00254,0.00928
+"(Reactome) DNA Replication","REACTOME_DNA_REPLICATION","DOWN",-0.0922,-4.76,0.00257,0.00937
+"(BioCarta) Attenuation of GPCR Signaling","BIOCARTA_AGPCR_PATHWAY","DOWN",-0.133,-4.75,0.00261,0.00946
+"(Reactome) Oxygen-dependent Proline Hydroxylation of Hypoxia-inducible Factor Alpha","REACTOME_OXYGEN_DEPENDENT_PROLINE_HYDROXYLATION_OF_HYPOXIA_INDUCIBLE_FACTOR_ALPHA","UP",0.122,4.73,0.00264,0.00956
+"(PID) FGF signaling pathway","PID_FGF_PATHWAY","UP",0.0977,4.73,0.00266,0.00956
+"(Reactome) GPCR ligand binding","REACTOME_GPCR_LIGAND_BINDING","DOWN",-0.112,-4.73,0.00266,0.00956
+"(Reactome) Processive synthesis on the lagging strand","REACTOME_PROCESSIVE_SYNTHESIS_ON_THE_LAGGING_STRAND","DOWN",-0.149,-4.72,0.00268,0.00959
+"(Reactome) Platelet sensitization by LDL","REACTOME_PLATELET_SENSITIZATION_BY_LDL","UP",0.108,4.72,0.0027,0.00963
+"(BioCarta) Aspirin Blocks Signaling Pathway Involved in Platelet Activation","BIOCARTA_SPPA_PATHWAY","DOWN",-0.107,-4.71,0.00271,0.00966
+"(Reactome) MHC class II antigen presentation","REACTOME_MHC_CLASS_II_ANTIGEN_PRESENTATION","UP",0.162,4.7,0.00274,0.00972
+"(BioCarta) Telomeres, Telomerase, Cellular Aging, and Immortality","BIOCARTA_TEL_PATHWAY","DOWN",-0.101,-4.69,0.00277,0.0098
+"(Reactome) ERK/MAPK targets","REACTOME_ERK_MAPK_TARGETS","UP",0.121,4.69,0.00278,0.0098
+"(Reactome) Repair synthesis for gap-filling by DNA polymerase in TC-NER","REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER","NONE",-0.142,-4.66,0.00288,0.0101
+"(Reactome) Mitotic M-M/G1 phases","REACTOME_MITOTIC_M_M_G1_PHASES","NONE",-0.0911,-4.64,0.00292,0.0102
+"(Reactome) Potassium Channels","REACTOME_POTASSIUM_CHANNELS","NONE",-0.125,-4.63,0.00297,0.0104
+"(Reactome) Base Excision Repair","REACTOME_BASE_EXCISION_REPAIR","NONE",-0.117,-4.61,0.00305,0.0106
+"(KEGG) Selenoamino acid metabolism","KEGG_SELENOAMINO_ACID_METABOLISM","NONE",-0.162,-4.6,0.00307,0.0107
+"(Reactome) NOD1/2 Signaling Pathway","REACTOME_NOD1_2_SIGNALING_PATHWAY","NONE",0.114,4.59,0.00311,0.0108
+"(KEGG) Antigen processing and presentation","KEGG_ANTIGEN_PROCESSING_AND_PRESENTATION","NONE",0.174,4.58,0.00312,0.0108
+"(BioCarta) Ras-Independent pathway in NK cell-mediated cytotoxicity","BIOCARTA_NKCELLS_PATHWAY","NONE",0.0985,4.56,0.00321,0.011
+"(KEGG) p53 signaling pathway","KEGG_P53_SIGNALING_PATHWAY","NONE",-0.391,-4.55,0.00325,0.0112
+"(Reactome) CREB phosphorylation through the activation of Ras","REACTOME_CREB_PHOSPHORYLATION_THROUGH_THE_ACTIVATION_OF_RAS","NONE",0.158,4.54,0.00329,0.0112
+"(BioCarta) Role of BRCA1, BRCA2 and ATR in Cancer Susceptibility","BIOCARTA_ATRBRCA_PATHWAY","NONE",-0.0926,-4.54,0.00329,0.0112
+"(STKE) Fas Signaling Pathway","ST_FAS_SIGNALING_PATHWAY","NONE",-0.0752,-4.53,0.00331,0.0113
+"(Reactome) Calnexin/calreticulin cycle","REACTOME_CALNEXIN_CALRETICULIN_CYCLE","NONE",-0.146,-4.53,0.00333,0.0113
+"(Reactome) p75 NTR receptor-mediated signalling","REACTOME_P75_NTR_RECEPTOR_MEDIATED_SIGNALLING","NONE",0.116,4.52,0.00336,0.0113
+"(BioCarta) IL-10 Anti-inflammatory Signaling Pathway","BIOCARTA_IL10_PATHWAY","NONE",0.232,4.51,0.00338,0.0114
+"(Reactome) Fatty acid, triacylglycerol, and ketone body metabolism","REACTOME_FATTY_ACID_TRIACYLGLYCEROL_AND_KETONE_BODY_METABOLISM","NONE",0.126,4.5,0.00341,0.0115
+"(Reactome) Peroxisomal lipid metabolism","REACTOME_PEROXISOMAL_LIPID_METABOLISM","NONE",0.194,4.49,0.00345,0.0115
+"(PID) p73 transcription factor network","PID_P73PATHWAY","NONE",-0.165,-4.49,0.00346,0.0115
+"(BioCarta) Role of Mitochondria in Apoptotic Signaling","BIOCARTA_MITOCHONDRIA_PATHWAY","NONE",-0.0906,-4.49,0.00347,0.0115
+"(Reactome) Branched-chain amino acid catabolism","REACTOME_BRANCHED_CHAIN_AMINO_ACID_CATABOLISM","NONE",-0.217,-4.48,0.0035,0.0116
+"(PID) Direct p53 effectors","PID_P53_DOWNSTREAM_PATHWAY","NONE",-0.249,-4.47,0.00353,0.0117
+"(Reactome) mRNA Splicing - Minor Pathway","REACTOME_MRNA_SPLICING_MINOR_PATHWAY","NONE",-0.0835,-4.46,0.0036,0.0119
+"(Reactome) SLBP Dependent Processing of Replication-Dependent Histone Pre-mRNAs","REACTOME_SLBP_DEPENDENT_PROCESSING_OF_REPLICATION_DEPENDENT_HISTONE_PRE_MRNAS","NONE",-0.151,-4.45,0.00361,0.0119
+"(Reactome) Trafficking of GluR2-containing AMPA receptors","REACTOME_TRAFFICKING_OF_GLUR2_CONTAINING_AMPA_RECEPTORS","NONE",-0.106,-4.45,0.00363,0.0119
+"(Reactome) activated TAK1 mediates p38 MAPK activation","REACTOME_ACTIVATED_TAK1_MEDIATES_P38_MAPK_ACTIVATION","NONE",0.121,4.43,0.00372,0.0122
+"(Reactome) Smooth Muscle Contraction","REACTOME_SMOOTH_MUSCLE_CONTRACTION","NONE",0.256,4.42,0.00374,0.0122
+"(Reactome) Meiosis","REACTOME_MEIOSIS","NONE",0.113,4.42,0.00374,0.0122
+"(Reactome) alpha-linolenic acid (ALA) metabolism","REACTOME_ALPHA_LINOLENIC_ACID_ALA_METABOLISM","NONE",0.223,4.42,0.00377,0.0122
+"(Reactome) Metabolism of nucleotides","REACTOME_METABOLISM_OF_NUCLEOTIDES","NONE",-0.256,-4.4,0.00384,0.0124
+"(BioCarta) CTCF: First Multivalent Nuclear Factor","BIOCARTA_CTCF_PATHWAY","NONE",-0.252,-4.39,0.00388,0.0125
+"(BioCarta) Rab GTPases Mark Targets In The Endocytotic Machinery","BIOCARTA_RAB_PATHWAY","NONE",0.108,4.39,0.00388,0.0125
+"(Reactome) Antigen Presentation: Folding, assembly and peptide loading of class I MHC","REACTOME_ANTIGEN_PRESENTATION_FOLDING_ASSEMBLY_AND_PEPTIDE_LOADING_OF_CLASS_I_MHC","NONE",0.234,4.38,0.00392,0.0126
+"(KEGG) Endocytosis","KEGG_ENDOCYTOSIS","NONE",0.0804,4.38,0.00395,0.0126
+"(PID) Regulation of RhoA activity","PID_RHOA_REG_PATHWAY","NONE",0.115,4.36,0.00402,0.0128
+"(Reactome) G0 and Early G1","REACTOME_G0_AND_EARLY_G1","NONE",-0.162,-4.34,0.00412,0.0131
+"(Reactome) Processing of Capped Intronless Pre-mRNA","REACTOME_PROCESSING_OF_CAPPED_INTRONLESS_PRE_MRNA","NONE",-0.111,-4.34,0.00412,0.0131
+"(Reactome) Early Phase of HIV Life Cycle","REACTOME_EARLY_PHASE_OF_HIV_LIFE_CYCLE","NONE",-0.202,-4.32,0.00422,0.0133
+"(Reactome) PI Metabolism","REACTOME_PI_METABOLISM","NONE",0.0759,4.32,0.00423,0.0133
+"(Reactome) Class I MHC mediated antigen processing & presentation","REACTOME_CLASS_I_MHC_MEDIATED_ANTIGEN_PROCESSING_PRESENTATION","NONE",0.0758,4.3,0.00428,0.0135
+"(PID) IL12-mediated signaling events","PID_IL12_2PATHWAY","NONE",0.0935,4.29,0.00434,0.0136
+"(Reactome) SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription","REACTOME_SMAD2_SMAD3_SMAD4_HETEROTRIMER_REGULATES_TRANSCRIPTION","NONE",-0.193,-4.29,0.00437,0.0137
+"(Reactome) Synthesis of glycosylphosphatidylinositol (GPI)","REACTOME_SYNTHESIS_OF_GLYCOSYLPHOSPHATIDYLINOSITOL_GPI","NONE",0.0939,4.27,0.00445,0.0139
+"(PID) Reelin signaling pathway","PID_REELIN_PATHWAY","NONE",0.213,4.27,0.00446,0.0139
+"(Reactome) Pre-NOTCH Transcription and Translation","REACTOME_PRE_NOTCH_TRANSCRIPTION_AND_TRANSLATION","NONE",-0.22,-4.24,0.00463,0.0143
+"(Reactome) S Phase","REACTOME_S_PHASE","NONE",-0.1,-4.24,0.00464,0.0143
+"(BioCarta) Growth Hormone Signaling Pathway","BIOCARTA_GH_PATHWAY","NONE",-0.102,-4.23,0.00469,0.0144
+"(Reactome) SHC-mediated cascade","REACTOME_SHC_MEDIATED_CASCADE","NONE",0.113,4.22,0.0047,0.0145
+"(Reactome) cGMP effects","REACTOME_CGMP_EFFECTS","NONE",0.158,4.22,0.00474,0.0145
+"(Reactome) Membrane Trafficking","REACTOME_MEMBRANE_TRAFFICKING","NONE",0.0913,4.21,0.0048,0.0147
+"(Reactome) Netrin-1 signaling","REACTOME_NETRIN1_SIGNALING","NONE",0.139,4.2,0.00481,0.0147
+"(PID) Ephrin B reverse signaling","PID_EPHRINB_REV_PATHWAY","NONE",-0.146,-4.2,0.00482,0.0147
+"(BioCarta) Regulation of ck1/cdk5 by type 1 glutamate receptors","BIOCARTA_CK1_PATHWAY","NONE",0.218,4.2,0.00485,0.0147
+"(BioCarta) ATM Signaling Pathway","BIOCARTA_ATM_PATHWAY","NONE",-0.0924,-4.19,0.00488,0.0148
+"(Reactome) Mitochondrial Protein Import","REACTOME_MITOCHONDRIAL_PROTEIN_IMPORT","NONE",-0.191,-4.18,0.00496,0.015
+"(BioCarta) Bioactive Peptide Induced Signaling Pathway","BIOCARTA_BIOPEPTIDES_PATHWAY","NONE",0.11,4.14,0.00518,0.0156
+"(Reactome) Muscle contraction","REACTOME_MUSCLE_CONTRACTION","NONE",0.158,4.13,0.00523,0.0157
+"(Reactome) Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell","REACTOME_IMMUNOREGULATORY_INTERACTIONS_BETWEEN_A_LYMPHOID_AND_A_NON_LYMPHOID_CELL","NONE",0.128,4.13,0.00527,0.0158
+"(Reactome) M/G1 Transition","REACTOME_M_G1_TRANSITION","NONE",-0.115,-4.12,0.00532,0.0159
+"(BioCarta) Double Stranded RNA Induced Gene Expression","BIOCARTA_RNA_PATHWAY","NONE",0.198,4.1,0.00546,0.0163
+"(Reactome) Signaling by TGF-beta Receptor Complex","REACTOME_SIGNALING_BY_TGF_BETA_RECEPTOR_COMPLEX","NONE",-0.182,-4.09,0.00554,0.0164
+"(Reactome) Effects of PIP2 hydrolysis","REACTOME_EFFECTS_OF_PIP2_HYDROLYSIS","NONE",-0.132,-4.08,0.0056,0.0166
+"(KEGG) Peroxisome","KEGG_PEROXISOME","NONE",0.196,4.07,0.00562,0.0166
+"(Reactome) Resolution of AP sites via the multiple-nucleotide patch replacement pathway","REACTOME_RESOLUTION_OF_AP_SITES_VIA_THE_MULTIPLE_NUCLEOTIDE_PATCH_REPLACEMENT_PATHWAY","NONE",-0.109,-4.06,0.00568,0.0167
+"(PID) TCR signaling in na&#xef;ve CD8+ T cells","PID_CD8_TCR_PATHWAY","NONE",0.108,4.06,0.00569,0.0167
+"(Reactome) Signalling to p38 via RIT and RIN","REACTOME_SIGNALLING_TO_P38_VIA_RIT_AND_RIN","NONE",0.118,4.03,0.00591,0.0173
+"(KEGG) Arrhythmogenic right ventricular cardiomyopathy (ARVC)","KEGG_ARRHYTHMOGENIC_RIGHT_VENTRICULAR_CARDIOMYOPATHY_ARVC","NONE",-0.159,-4.01,0.00603,0.0176
+"(Reactome) Other semaphorin interactions","REACTOME_OTHER_SEMAPHORIN_INTERACTIONS","NONE",0.0891,4,0.00614,0.0179
+"(KEGG) Arginine and proline metabolism","KEGG_ARGININE_AND_PROLINE_METABOLISM","NONE",0.27,4,0.00616,0.0179
+"(PID) Calcineurin-regulated NFAT-dependent transcription in lymphocytes","PID_NFAT_TFPATHWAY","NONE",-0.14,-3.99,0.00617,0.0179
+"(BioCarta) Roles of fl-arrestin-dependent Recruitment of Src Kinases in GPCR Signaling","BIOCARTA_BARRESTIN_SRC_PATHWAY","NONE",-0.122,-3.99,0.00619,0.0179
+"(KEGG) Colorectal cancer","KEGG_COLORECTAL_CANCER","NONE",-0.198,-3.98,0.00631,0.0182
+"(KEGG) Systemic lupus erythematosus","KEGG_SYSTEMIC_LUPUS_ERYTHEMATOSUS","NONE",0.101,3.95,0.00652,0.0187
+"(Reactome) Metabolism of proteins","REACTOME_METABOLISM_OF_PROTEINS","NONE",-0.112,-3.95,0.00652,0.0187
+"(BioCarta) PTEN dependent cell cycle arrest and apoptosis","BIOCARTA_PTEN_PATHWAY","NONE",0.169,3.94,0.00659,0.0189
+"(PID) p75(NTR)-mediated signaling","PID_P75_NTR_PATHWAY","NONE",0.152,3.93,0.00664,0.0189
+"(PID) Alpha4 beta1 integrin signaling events","PID_INTEGRIN_A4B1_PATHWAY","NONE",0.165,3.93,0.00666,0.019
+"(Reactome) N-glycan antennae elongation in the medial/trans-Golgi","REACTOME_N_GLYCAN_ANTENNAE_ELONGATION_IN_THE_MEDIAL_TRANS_GOLGI","NONE",-0.153,-3.93,0.00667,0.019
+"(STKE) Myocyte Adrenergic Pathway is a specific case of the generalized Adrenergic Pathway.","ST_MYOCYTE_AD_PATHWAY","NONE",-0.147,-3.93,0.00669,0.019
+"(KEGG) Glycine, serine and threonine metabolism","KEGG_GLYCINE_SERINE_AND_THREONINE_METABOLISM","NONE",0.328,3.92,0.00674,0.019
+"(Reactome) G beta:gamma signalling through PLC beta","REACTOME_G_BETA_GAMMA_SIGNALLING_THROUGH_PLC_BETA","NONE",0.0924,3.9,0.00693,0.0195
+"(PID) Nongenotropic Androgen signaling","PID_AR_NONGENOMIC_PATHWAY","NONE",0.0696,3.88,0.00705,0.0198
+"(PID) Beta5 beta6 beta7 and beta8 integrin cell surface interactions","PID_INTEGRIN5_PATHWAY","NONE",0.177,3.87,0.00717,0.0201
+"(PID) Urokinase-type plasminogen activator (uPA) and uPAR-mediated signaling","PID_UPA_UPAR_PATHWAY","NONE",-0.0698,-3.84,0.00741,0.0207
+"(Reactome) NRIF signals cell death from the nucleus","REACTOME_NRIF_SIGNALS_CELL_DEATH_FROM_THE_NUCLEUS","NONE",0.085,3.83,0.00754,0.0211
+"(KEGG) Prostate cancer","KEGG_PROSTATE_CANCER","NONE",-0.0732,-3.82,0.00759,0.0211
+"(Reactome) Axon guidance","REACTOME_AXON_GUIDANCE","NONE",0.0651,3.82,0.00766,0.0213
+"(PID) HIF-1-alpha transcription factor network","PID_HIF1_TFPATHWAY","NONE",-0.0893,-3.8,0.00784,0.0217
+"(Naba) Genes encoding structural components of basement membranes","NABA_BASEMENT_MEMBRANES","NONE",-0.0814,-3.79,0.0079,0.0218
+"(STKE) Wnt/beta-catenin Pathway","ST_WNT_BETA_CATENIN_PATHWAY","NONE",0.117,3.77,0.00814,0.0224
+"(Reactome) Cell Cycle Checkpoints","REACTOME_CELL_CYCLE_CHECKPOINTS","NONE",-0.0951,-3.77,0.00816,0.0224
+"(Reactome) HDL-mediated lipid transport","REACTOME_HDL_MEDIATED_LIPID_TRANSPORT","NONE",-0.108,-3.75,0.00828,0.0227
+"(Reactome) mTORC1-mediated signalling","REACTOME_MTORC1_MEDIATED_SIGNALLING","NONE",-0.156,-3.75,0.00828,0.0227
+"(KEGG) Biosynthesis of unsaturated fatty acids","KEGG_BIOSYNTHESIS_OF_UNSATURATED_FATTY_ACIDS","NONE",0.28,3.74,0.00846,0.0231
+"(PID) Hypoxic and oxygen homeostasis regulation of HIF-1-alpha","PID_HIF1A_PATHWAY","NONE",0.0867,3.73,0.00848,0.0231
+"(KEGG) Cysteine and methionine metabolism","KEGG_CYSTEINE_AND_METHIONINE_METABOLISM","NONE",-0.188,-3.73,0.00855,0.0232
+"(KEGG) Pyrimidine metabolism","KEGG_PYRIMIDINE_METABOLISM","NONE",-0.143,-3.72,0.00866,0.0235
+"(Reactome) Interleukin receptor SHC signaling","REACTOME_IL_RECEPTOR_SHC_SIGNALING","NONE",0.0869,3.71,0.00872,0.0236
+"(Reactome) Developmental Biology","REACTOME_DEVELOPMENTAL_BIOLOGY","NONE",0.0677,3.69,0.00898,0.0242
+"(KEGG) Fc gamma R-mediated phagocytosis","KEGG_FC_GAMMA_R_MEDIATED_PHAGOCYTOSIS","NONE",0.0877,3.68,0.00911,0.0245
+"(Reactome) Ionotropic activity of Kainate Receptors","REACTOME_IONOTROPIC_ACTIVITY_OF_KAINATE_RECEPTORS","NONE",-0.231,-3.66,0.00929,0.025
+"(Reactome) Global Genomic NER (GG-NER)","REACTOME_GLOBAL_GENOMIC_NER_GG_NER","NONE",-0.118,-3.65,0.00945,0.0252
+"(PID) Neurotrophic factor-mediated Trk receptor signaling","PID_TRKR_PATHWAY","NONE",0.0716,3.65,0.00946,0.0252
+"(Reactome) Cytochrome P450 - arranged by substrate type","REACTOME_CYTOCHROME_P450_ARRANGED_BY_SUBSTRATE_TYPE","NONE",-0.242,-3.65,0.00947,0.0252
+"(KEGG) Steroid hormone biosynthesis","KEGG_STEROID_HORMONE_BIOSYNTHESIS","NONE",0.126,3.65,0.00948,0.0252
+"(SigmaAldrich) Antigen binding to B cell receptors activates protein tyrosine kinases, such as the Src family, which ultimate activate MAP kinases.","SA_B_CELL_RECEPTOR_COMPLEXES","NONE",-0.0875,-3.64,0.00951,0.0252
+"(Reactome) DCC mediated attractive signaling","REACTOME_DCC_MEDIATED_ATTRACTIVE_SIGNALING","NONE",-0.145,-3.64,0.0096,0.0254
+"(PID) Signaling events mediated by VEGFR1 and VEGFR2","PID_VEGFR1_2_PATHWAY","NONE",0.0878,3.63,0.00967,0.0255
+"(Reactome) COPI Mediated Transport","REACTOME_COPI_MEDIATED_TRANSPORT","NONE",0.21,3.63,0.00972,0.0256
+"(Reactome) Lysosome Vesicle Biogenesis","REACTOME_LYSOSOME_VESICLE_BIOGENESIS","NONE",0.11,3.62,0.00978,0.0257
+"(PID) Insulin-mediated glucose transport","PID_INSULIN_GLUCOSE_PATHWAY","NONE",-0.119,-3.62,0.0098,0.0257
+"(KEGG) Steroid biosynthesis","KEGG_STEROID_BIOSYNTHESIS","NONE",0.827,3.62,0.00984,0.0257
+"(Reactome) Interleukin-2 signaling","REACTOME_IL_2_SIGNALING","NONE",0.103,3.61,0.00994,0.0259
+"(BioCarta) MAPKinase Signaling Pathway","BIOCARTA_MAPK_PATHWAY","NONE",0.118,3.58,0.0102,0.0267
+"(Reactome) Regulation of beta-cell development","REACTOME_REGULATION_OF_BETA_CELL_DEVELOPMENT","NONE",-0.0897,-3.58,0.0103,0.0269
+"(KEGG) Toll-like receptor signaling pathway","KEGG_TOLL_LIKE_RECEPTOR_SIGNALING_PATHWAY","NONE",0.1,3.57,0.0104,0.0271
+"(KEGG) Wnt signaling pathway","KEGG_WNT_SIGNALING_PATHWAY","NONE",-0.122,-3.56,0.0105,0.0272
+"(BioCarta) Control of Gene Expression by Vitamin D Receptor","BIOCARTA_VDR_PATHWAY","NONE",0.196,3.56,0.0106,0.0272
+"(Reactome) Neurotransmitter Receptor Binding And Downstream Transmission In The  Postsynaptic Cell","REACTOME_NEUROTRANSMITTER_RECEPTOR_BINDING_AND_DOWNSTREAM_TRANSMISSION_IN_THE_POSTSYNAPTIC_CELL","NONE",-0.111,-3.53,0.011,0.0284
+"(PID) GMCSF-mediated signaling events","PID_GMCSF_PATHWAY","NONE",0.0759,3.52,0.0111,0.0284
+"(Reactome) Cell Cycle, Mitotic","REACTOME_CELL_CYCLE_MITOTIC","NONE",-0.0612,-3.51,0.0112,0.0287
+"(Reactome) Conversion from APC/C:Cdc20 to APC/C:Cdh1 in late anaphase","REACTOME_CONVERSION_FROM_APC_C_CDC20_TO_APC_C_CDH1_IN_LATE_ANAPHASE","NONE",-0.0774,-3.51,0.0112,0.0287
+"(PID) VEGFR1 specific signals","PID_VEGFR1_PATHWAY","NONE",-0.0956,-3.51,0.0113,0.0288
+"(PID) PDGFR-beta signaling pathway","PID_PDGFRB_PATHWAY","NONE",0.0589,3.5,0.0114,0.0291
+"(PID) Regulation of Androgen receptor activity","PID_AR_TF_PATHWAY","NONE",-0.189,-3.5,0.0115,0.0291
+"(Reactome) G1/S Transition","REACTOME_G1_S_TRANSITION","NONE",-0.0792,-3.48,0.0117,0.0295
+"(KEGG) Regulation of autophagy","KEGG_REGULATION_OF_AUTOPHAGY","NONE",0.139,3.47,0.0118,0.0299
+"(PID) IL2 signaling events mediated by PI3K","PID_IL2_PI3K_PATHWAY","NONE",-0.0976,-3.47,0.0118,0.0299
+"(Reactome) Myogenesis","REACTOME_MYOGENESIS","NONE",0.0677,3.46,0.0119,0.03
+"(Reactome) Cholesterol biosynthesis","REACTOME_CHOLESTEROL_BIOSYNTHESIS","NONE",0.853,3.46,0.012,0.0302
+"(STKE) p38 MAPK Pathway","ST_P38_MAPK_PATHWAY","NONE",-0.0633,-3.44,0.0124,0.031
+"(KEGG) One carbon pool by folate","KEGG_ONE_CARBON_POOL_BY_FOLATE","NONE",-0.188,-3.43,0.0124,0.031
+"(Reactome) RNA Polymerase I Transcription","REACTOME_RNA_POL_I_TRANSCRIPTION","NONE",0.0664,3.42,0.0126,0.0314
+"(KEGG) Fc epsilon RI signaling pathway","KEGG_FC_EPSILON_RI_SIGNALING_PATHWAY","NONE",-0.0809,-3.42,0.0126,0.0314
+"(SuperArray) Genes related to Wnt-mediated signal transduction","WNT_SIGNALING","NONE",-0.0962,-3.42,0.0127,0.0314
+"(Reactome) Antigen processing: Ubiquitination & Proteasome degradation","REACTOME_ANTIGEN_PROCESSING_UBIQUITINATION_PROTEASOME_DEGRADATION","NONE",0.0593,3.42,0.0127,0.0315
+"(KEGG) Jak-STAT signaling pathway","KEGG_JAK_STAT_SIGNALING_PATHWAY","NONE",-0.0689,-3.4,0.0129,0.0318
+"(BioCarta) Sonic Hedgehog (Shh) Pathway","BIOCARTA_SHH_PATHWAY","NONE",0.147,3.4,0.0129,0.0318
+"(KEGG) Tryptophan metabolism","KEGG_TRYPTOPHAN_METABOLISM","NONE",0.299,3.4,0.0129,0.0318
+"(Reactome) Signaling by SCF-KIT","REACTOME_SIGNALING_BY_SCF_KIT","NONE",-0.0685,-3.4,0.013,0.032
+"(BioCarta) IL 6 signaling pathway","BIOCARTA_IL6_PATHWAY","NONE",0.0801,3.38,0.0132,0.0324
+"(BioCarta) Inactivation of Gsk3 by AKT causes accumulation of b-catenin in Alveolar Macrophages","BIOCARTA_GSK3_PATHWAY","NONE",-0.167,-3.38,0.0133,0.0326
+"(Reactome) Phosphorylation of the APC/C","REACTOME_PHOSPHORYLATION_OF_THE_APC_C","NONE",-0.072,-3.37,0.0134,0.0327
+"(PID) Regulation of nuclear beta catenin signaling and target gene transcription","PID_BETA_CATENIN_NUC_PATHWAY","NONE",-0.15,-3.36,0.0137,0.0333
+"(PID) Signaling events mediated by the Hedgehog family","PID_HEDGEHOG_2PATHWAY","NONE",-0.149,-3.35,0.0137,0.0334
+"(Reactome) Meiotic Recombination","REACTOME_MEIOTIC_RECOMBINATION","NONE",0.102,3.35,0.0138,0.0334
+"(Reactome) Latent infection of Homo sapiens with Mycobacterium tuberculosis","REACTOME_LATENT_INFECTION_OF_HOMO_SAPIENS_WITH_MYCOBACTERIUM_TUBERCULOSIS","NONE",0.076,3.35,0.0138,0.0334
+"(BioCarta) Human Cytomegalovirus and Map Kinase Pathways","BIOCARTA_HCMV_PATHWAY","NONE",-0.067,-3.35,0.0139,0.0336
+"(Reactome) Transcriptional Regulation of White Adipocyte Differentiation","REACTOME_TRANSCRIPTIONAL_REGULATION_OF_WHITE_ADIPOCYTE_DIFFERENTIATION","NONE",0.102,3.33,0.0141,0.034
+"(Reactome) Extracellular matrix organization","REACTOME_EXTRACELLULAR_MATRIX_ORGANIZATION","NONE",0.0977,3.33,0.0141,0.034
+"(KEGG) Terpenoid backbone biosynthesis","KEGG_TERPENOID_BACKBONE_BIOSYNTHESIS","NONE",0.545,3.32,0.0144,0.0347
+"(Reactome) Signaling by PDGF","REACTOME_SIGNALING_BY_PDGF","NONE",0.0619,3.3,0.0147,0.0352
+"(PID) Glypican 1 network","PID_GLYPICAN_1PATHWAY","NONE",-0.121,-3.3,0.0148,0.0353
+"(BioCarta) Agrin in Postsynaptic Differentiation","BIOCARTA_AGR_PATHWAY","NONE",0.0688,3.28,0.0151,0.0361
+"(Reactome) Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer","REACTOME_TRANSCRIPTIONAL_ACTIVITY_OF_SMAD2_SMAD3_SMAD4_HETEROTRIMER","NONE",-0.169,-3.28,0.0152,0.0361
+"(Reactome) Metabolism of lipids and lipoproteins","REACTOME_METABOLISM_OF_LIPIDS_AND_LIPOPROTEINS","NONE",0.108,3.27,0.0154,0.0365
+"(KEGG) T cell receptor signaling pathway","KEGG_T_CELL_RECEPTOR_SIGNALING_PATHWAY","NONE",0.0907,3.26,0.0155,0.0368
+"(KEGG) Natural killer cell mediated cytotoxicity","KEGG_NATURAL_KILLER_CELL_MEDIATED_CYTOTOXICITY","NONE",-0.0826,-3.25,0.0157,0.0372
+"(Reactome) MAPK targets/ Nuclear events mediated by MAP kinases","REACTOME_MAPK_TARGETS_NUCLEAR_EVENTS_MEDIATED_BY_MAP_KINASES","NONE",0.0793,3.25,0.0158,0.0373
+"(BioCarta) TGF beta signaling pathway","BIOCARTA_TGFB_PATHWAY","NONE",-0.187,-3.23,0.0162,0.0382
+"(STKE) B Cell Antigen Receptor","ST_B_CELL_ANTIGEN_RECEPTOR","NONE",-0.108,-3.22,0.0164,0.0386
+"(Reactome) Nef-mediates down modulation of cell surface receptors by recruiting them to clathrin adapters","REACTOME_NEF_MEDIATES_DOWN_MODULATION_OF_CELL_SURFACE_RECEPTORS_BY_RECRUITING_THEM_TO_CLATHRIN_ADAPTERS","NONE",0.147,3.22,0.0165,0.0386
+"(Reactome) Phase 1 - Functionalization of compounds","REACTOME_PHASE1_FUNCTIONALIZATION_OF_COMPOUNDS","NONE",0.104,3.21,0.0165,0.0387
+"(KEGG) Oocyte meiosis","KEGG_OOCYTE_MEIOSIS","NONE",-0.0697,-3.21,0.0166,0.0387
+"(Reactome) Cell Cycle","REACTOME_CELL_CYCLE","NONE",-0.0572,-3.21,0.0167,0.0388
+"(KEGG) Other glycan degradation","KEGG_OTHER_GLYCAN_DEGRADATION","NONE",-0.171,-3.18,0.0173,0.0401
+"(Reactome) Assembly of the pre-replicative complex","REACTOME_ASSEMBLY_OF_THE_PRE_REPLICATIVE_COMPLEX","NONE",-0.0986,-3.18,0.0174,0.0403
+"(Reactome) Biological oxidations","REACTOME_BIOLOGICAL_OXIDATIONS","NONE",0.0701,3.17,0.0174,0.0403
+"(Reactome) The role of Nef in HIV-1 replication and disease pathogenesis","REACTOME_THE_ROLE_OF_NEF_IN_HIV1_REPLICATION_AND_DISEASE_PATHOGENESIS","NONE",0.0823,3.17,0.0176,0.0407
+"(BioCarta) Hypoxia and p53 in the Cardiovascular system","BIOCARTA_P53HYPOXIA_PATHWAY","NONE",-0.141,-3.16,0.0177,0.0409
+"(PID) Posttranslational regulation of adherens junction stability and dissassembly","PID_AJDISS_2PATHWAY","NONE",-0.0713,-3.16,0.0178,0.0409
+"(SigmaAldrich) Programmed cell death, or apoptosis, eliminates damaged or unneeded cells.","SA_PROGRAMMED_CELL_DEATH","NONE",-0.122,-3.15,0.0179,0.0411
+"(Reactome) Platelet activation, signaling and aggregation","REACTOME_PLATELET_ACTIVATION_SIGNALING_AND_AGGREGATION","NONE",-0.0618,-3.15,0.0181,0.0414
+"(Reactome) FRS2-mediated cascade","REACTOME_FRS2_MEDIATED_CASCADE","NONE",0.0607,3.14,0.0183,0.0419
+"(Reactome) Transport of inorganic cations/anions and amino acids/oligopeptides","REACTOME_TRANSPORT_OF_INORGANIC_CATIONS_ANIONS_AND_AMINO_ACIDS_OLIGOPEPTIDES","NONE",-0.109,-3.12,0.0186,0.0425
+"(PID) TRAIL signaling pathway","PID_TRAIL_PATHWAY","NONE",-0.0727,-3.12,0.0188,0.0429
+"(KEGG) Purine metabolism","KEGG_PURINE_METABOLISM","NONE",-0.0558,-3.11,0.0189,0.0429
+"(Reactome) Synthesis of PIPs at the late endosome membrane","REACTOME_SYNTHESIS_OF_PIPS_AT_THE_LATE_ENDOSOME_MEMBRANE","NONE",0.0697,3.09,0.0195,0.0443
+"(KEGG) Lysosome","KEGG_LYSOSOME","NONE",0.0836,3.09,0.0195,0.0443
+"(Reactome) Regulation of AMPK activity via LKB1","REACTOME_REGULATION_OF_AMPK_ACTIVITY_VIA_LKB1","NONE",-0.0561,-3.08,0.0196,0.0443
+"(PID) IL27-mediated signaling events","PID_IL27_PATHWAY","NONE",0.158,3.08,0.0197,0.0443
+"(Reactome) Activation of Chaperones by ATF6-alpha","REACTOME_ACTIVATION_OF_CHAPERONES_BY_ATF6_ALPHA","NONE",0.084,3.08,0.0197,0.0443
+"(Reactome) Downregulation of ERBB2:ERBB3 signaling","REACTOME_DOWNREGULATION_OF_ERBB2_ERBB3_SIGNALING","NONE",-0.0646,-3.08,0.0197,0.0443
+"(KEGG) Base excision repair","KEGG_BASE_EXCISION_REPAIR","NONE",-0.0781,-3.06,0.0203,0.0454
+"(Reactome) Hemostasis","REACTOME_HEMOSTASIS","NONE",0.0514,3.06,0.0203,0.0454
+"(Reactome) PLC beta mediated events","REACTOME_PLC_BETA_MEDIATED_EVENTS","NONE",0.0859,3.06,0.0204,0.0455
+"(BioCarta) Protein Kinase A at the Centrosome","BIOCARTA_AKAPCENTROSOME_PATHWAY","NONE",0.057,3.05,0.0206,0.0459
+"(Reactome) DSCAM interactions","REACTOME_DSCAM_INTERACTIONS","NONE",-0.128,-3.05,0.0207,0.0459
+"(Signaling Gateway) Genes related to PIP3 signaling in B lymphocytes","SIG_PIP3_SIGNALING_IN_B_LYMPHOCYTES","NONE",-0.143,-3.04,0.0207,0.046
+"(KEGG) Nucleotide excision repair","KEGG_NUCLEOTIDE_EXCISION_REPAIR","NONE",-0.0752,-3.04,0.0208,0.046
+"(BioCarta) NFAT and Hypertrophy of the heart (Transcription in the broken heart)","BIOCARTA_NFAT_PATHWAY","NONE",0.0726,3.04,0.0209,0.0461
+"(Reactome) p38MAPK events","REACTOME_P38MAPK_EVENTS","NONE",-0.087,-3.03,0.021,0.0463
+"(Reactome) Insulin receptor recycling","REACTOME_INSULIN_RECEPTOR_RECYCLING","NONE",0.0614,3.02,0.0214,0.047
+"(BioCarta) Apoptotic Signaling in Response to DNA Damage","BIOCARTA_CHEMICAL_PATHWAY","NONE",-0.0606,-3.02,0.0214,0.0471
+"(Reactome) HS-GAG degradation","REACTOME_HS_GAG_DEGRADATION","NONE",-0.161,-3.02,0.0215,0.0471
+"(BioCarta) How does salmonella hijack a cell","BIOCARTA_SALMONELLA_PATHWAY","NONE",0.112,3.01,0.0216,0.0472
+"(Naba) Genes encoding collagen proteins","NABA_COLLAGENS","NONE",0.118,3.01,0.0218,0.0477
+"(Reactome) Synthesis of DNA","REACTOME_SYNTHESIS_OF_DNA","NONE",-0.0829,-3,0.022,0.0479
+"(BioCarta) Role of Tob in T-cell activation","BIOCARTA_TOB1_PATHWAY","NONE",-0.243,-2.98,0.0226,0.0491
+"(Signaling Gateway) Genes related to chemotaxis","SIG_CHEMOTAXIS","NONE",0.0776,2.97,0.0229,0.0498
+"(BioCarta) Integrin Signaling Pathway","BIOCARTA_INTEGRIN_PATHWAY","NONE",-0.0602,-2.97,0.023,0.0498
+"(Reactome) Activated NOTCH1 Transmits Signal to the Nucleus","REACTOME_ACTIVATED_NOTCH1_TRANSMITS_SIGNAL_TO_THE_NUCLEUS","NONE",0.138,2.97,0.023,0.0498
+"(Reactome) Factors involved in megakaryocyte development and platelet production","REACTOME_FACTORS_INVOLVED_IN_MEGAKARYOCYTE_DEVELOPMENT_AND_PLATELET_PRODUCTION","NONE",0.0541,2.95,0.0237,0.0511
+"(Reactome) Regulation of Apoptosis","REACTOME_REGULATION_OF_APOPTOSIS","NONE",0.0869,2.94,0.0237,0.0512
+"(Reactome) Amino acid synthesis and interconversion (transamination)","REACTOME_AMINO_ACID_SYNTHESIS_AND_INTERCONVERSION_TRANSAMINATION","NONE",-0.192,-2.93,0.0242,0.0521
+"(Reactome) Synthesis of PIPs at the Golgi membrane","REACTOME_SYNTHESIS_OF_PIPS_AT_THE_GOLGI_MEMBRANE","NONE",0.0563,2.93,0.0243,0.0522
+"(Reactome) Glycolysis","REACTOME_GLYCOLYSIS","NONE",0.282,2.92,0.0245,0.0525
+"(KEGG) Basal cell carcinoma","KEGG_BASAL_CELL_CARCINOMA","NONE",-0.125,-2.91,0.0249,0.0532
+"(Reactome) ARMS-mediated activation","REACTOME_ARMS_MEDIATED_ACTIVATION","NONE",0.052,2.9,0.0251,0.0535
+"(KEGG) NOD-like receptor signaling pathway","KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY","NONE",0.0928,2.9,0.0253,0.054
+"(Signaling Gateway) Genes related to CD40 signaling","SIG_CD40PATHWAYMAP","NONE",0.12,2.88,0.0258,0.0549
+"(Reactome) Telomere Maintenance","REACTOME_TELOMERE_MAINTENANCE","NONE",-0.0819,-2.88,0.026,0.0551
+"(Reactome) Regulation of Hypoxia-inducible Factor (HIF) by Oxygen","REACTOME_REGULATION_OF_HYPOXIA_INDUCIBLE_FACTOR_HIF_BY_OXYGEN","NONE",0.0975,2.87,0.0263,0.0556
+"(Reactome) CD28 co-stimulation","REACTOME_CD28_CO_STIMULATION","NONE",-0.092,-2.87,0.0263,0.0557
+"(KEGG) Focal adhesion","KEGG_FOCAL_ADHESION","NONE",-0.0536,-2.86,0.0265,0.0559
+"(Reactome) Downstream Signaling Events Of B Cell Receptor (BCR)","REACTOME_DOWNSTREAM_SIGNALING_EVENTS_OF_B_CELL_RECEPTOR_BCR","NONE",0.0507,2.85,0.0268,0.0565
+"(BioCarta) GATA3 participate in activating the Th2 cytokine genes expression","BIOCARTA_GATA3_PATHWAY","NONE",-0.0833,-2.85,0.027,0.0567
+"(Reactome) Transmission across Chemical Synapses","REACTOME_TRANSMISSION_ACROSS_CHEMICAL_SYNAPSES","NONE",-0.0901,-2.84,0.0272,0.0571
+"(PID) PAR1-mediated thrombin signaling events","PID_THROMBIN_PAR1_PATHWAY","NONE",-0.0577,-2.84,0.0273,0.0571
+"(Reactome) Chromosome Maintenance","REACTOME_CHROMOSOME_MAINTENANCE","NONE",-0.0571,-2.84,0.0274,0.0573
+"(Reactome) Downstream TCR signaling","REACTOME_DOWNSTREAM_TCR_SIGNALING","NONE",0.187,2.84,0.0275,0.0573
+"(KEGG) VEGF signaling pathway","KEGG_VEGF_SIGNALING_PATHWAY","NONE",-0.0581,-2.84,0.0275,0.0573
+"(Reactome) Sphingolipid metabolism","REACTOME_SPHINGOLIPID_METABOLISM","NONE",0.0486,2.83,0.0276,0.0573
+"(PID) IL4-mediated signaling events","PID_IL4_2PATHWAY","NONE",-0.0772,-2.83,0.0278,0.0578
+"(Reactome) Transport to the Golgi and subsequent modification","REACTOME_TRANSPORT_TO_THE_GOLGI_AND_SUBSEQUENT_MODIFICATION","NONE",0.0692,2.81,0.0284,0.0587
+"(PID) Alpha9 beta1 integrin signaling events","PID_INTEGRIN_A9B1_PATHWAY","NONE",0.149,2.81,0.0286,0.0592
+"(Reactome) Downregulation of SMAD2/3:SMAD4 transcriptional activity","REACTOME_DOWNREGULATION_OF_SMAD2_3_SMAD4_TRANSCRIPTIONAL_ACTIVITY","NONE",-0.178,-2.79,0.0292,0.0602
+"(BioCarta) Hypoxia-Inducible Factor in the Cardiovascular System","BIOCARTA_HIF_PATHWAY","NONE",0.0514,2.79,0.0292,0.0603
+"(KEGG) Adherens junction","KEGG_ADHERENS_JUNCTION","NONE",-0.088,-2.77,0.0299,0.0616
+"(BioCarta) IL 3 signaling pathway","BIOCARTA_IL3_PATHWAY","NONE",0.101,2.77,0.0302,0.062
+"(Reactome) Ion channel transport","REACTOME_ION_CHANNEL_TRANSPORT","NONE",-0.112,-2.76,0.0307,0.0629
+"(Signaling Gateway) Genes related to IL4 rceptor signaling in B lymphocytes","SIG_IL4RECEPTOR_IN_B_LYPHOCYTES","NONE",0.0733,2.75,0.0307,0.0629
+"(Reactome) Post-translational modification: synthesis of GPI-anchored proteins","REACTOME_POST_TRANSLATIONAL_MODIFICATION_SYNTHESIS_OF_GPI_ANCHORED_PROTEINS","NONE",0.0718,2.75,0.0309,0.0632
+"(BioCarta) Skeletal muscle hypertrophy is regulated via AKT/mTOR pathway","BIOCARTA_IGF1MTOR_PATHWAY","NONE",-0.0677,-2.74,0.0312,0.0637
+"(Reactome) N-glycan trimming in the ER and Calnexin/Calreticulin cycle","REACTOME_N_GLYCAN_TRIMMING_IN_THE_ER_AND_CALNEXIN_CALRETICULIN_CYCLE","NONE",-0.124,-2.74,0.0313,0.0637
+"(BioCarta) TNFR1 Signaling Pathway","BIOCARTA_TNFR1_PATHWAY","NONE",-0.0658,-2.73,0.0316,0.0642
+"(BioCarta) Rac 1 cell motility signaling pathway","BIOCARTA_RAC1_PATHWAY","NONE",-0.0702,-2.73,0.0317,0.0643
+"(Reactome) mRNA Capping","REACTOME_MRNA_CAPPING","NONE",0.0488,2.73,0.0318,0.0643
+"(PID) IL5-mediated signaling events","PID_IL5_PATHWAY","NONE",-0.0973,-2.72,0.0324,0.0654
+"(Reactome) Insulin receptor signalling cascade","REACTOME_INSULIN_RECEPTOR_SIGNALLING_CASCADE","NONE",-0.0592,-2.71,0.0325,0.0656
+"(Reactome) Activation of NF-kappaB in B Cells","REACTOME_ACTIVATION_OF_NF_KAPPAB_IN_B_CELLS","NONE",0.0666,2.71,0.0326,0.0656
+"(Reactome) Synthesis and interconversion of nucleotide di- and triphosphates","REACTOME_SYNTHESIS_AND_INTERCONVERSION_OF_NUCLEOTIDE_DI_AND_TRIPHOSPHATES","NONE",-0.168,-2.71,0.0326,0.0656
+"(KEGG) Olfactory transduction","KEGG_OLFACTORY_TRANSDUCTION","NONE",-0.127,-2.7,0.033,0.0663
+"(Reactome) Cell junction organization","REACTOME_CELL_JUNCTION_ORGANIZATION","NONE",0.0638,2.7,0.0332,0.0665
+"(KEGG) Drug metabolism - other enzymes","KEGG_DRUG_METABOLISM_OTHER_ENZYMES","NONE",-0.104,-2.69,0.0334,0.0668
+"(BioCarta) Transcription Regulation by Methyltransferase of CARM1","BIOCARTA_CARM1_PATHWAY","NONE",0.145,2.69,0.0335,0.0668
+"(BioCarta) Regulation of BAD phosphorylation","BIOCARTA_BAD_PATHWAY","NONE",-0.0849,-2.69,0.0335,0.0668
+"(Reactome) DNA Repair","REACTOME_DNA_REPAIR","NONE",-0.063,-2.68,0.0342,0.0679
+"(Reactome) Metal ion SLC transporters","REACTOME_METAL_ION_SLC_TRANSPORTERS","NONE",0.0767,2.67,0.0343,0.0681
+"(PID) p38 signaling mediated by MAPKAP kinases","PID_P38_MK2_PATHWAY","NONE",0.121,2.67,0.0345,0.0684
+"(KEGG) Pathogenic Escherichia coli infection","KEGG_PATHOGENIC_ESCHERICHIA_COLI_INFECTION","NONE",0.113,2.67,0.0346,0.0685
+"(BioCarta) Regulation of eIF4e and p70 S6 Kinase","BIOCARTA_EIF4_PATHWAY","NONE",-0.0821,-2.67,0.0347,0.0685
+"(BioCarta) TPO Signaling Pathway","BIOCARTA_TPO_PATHWAY","NONE",0.0522,2.66,0.0348,0.0685
+"(Reactome) Synthesis of PA","REACTOME_SYNTHESIS_OF_PA","NONE",-0.18,-2.66,0.035,0.0689
+"(Reactome) Formation of ATP by chemiosmotic coupling","REACTOME_FORMATION_OF_ATP_BY_CHEMIOSMOTIC_COUPLING","NONE",-0.24,-2.65,0.0353,0.0693
+"(KEGG) Type II diabetes mellitus","KEGG_TYPE_II_DIABETES_MELLITUS","NONE",-0.0964,-2.65,0.0357,0.0699
+"(Reactome) A tetrasaccharide linker sequence is required for GAG synthesis","REACTOME_A_TETRASACCHARIDE_LINKER_SEQUENCE_IS_REQUIRED_FOR_GAG_SYNTHESIS","NONE",0.0906,2.63,0.0366,0.0717
+"(PID) S1P3 pathway","PID_S1P_S1P3_PATHWAY","NONE",0.0584,2.62,0.0372,0.0727
+"(KEGG) Ubiquitin mediated proteolysis","KEGG_UBIQUITIN_MEDIATED_PROTEOLYSIS","NONE",0.0456,2.6,0.0379,0.0737
+"(BioCarta) Signal transduction through IL1R","BIOCARTA_IL1R_PATHWAY","NONE",-0.0836,-2.6,0.0379,0.0737
+"(BioCarta) IL 2 signaling pathway","BIOCARTA_IL2_PATHWAY","NONE",0.0501,2.6,0.0383,0.0744
+"(Reactome) Prolonged ERK activation events","REACTOME_PROLONGED_ERK_ACTIVATION_EVENTS","NONE",0.0432,2.58,0.0389,0.0755
+"(Reactome) RNA Polymerase II Transcription Pre-Initiation And Promoter Opening","REACTOME_RNA_POL_II_TRANSCRIPTION_PRE_INITIATION_AND_PROMOTER_OPENING","NONE",0.0522,2.57,0.0398,0.077
+"(Reactome) Neurotransmitter Release Cycle","REACTOME_NEUROTRANSMITTER_RELEASE_CYCLE","NONE",0.0482,2.56,0.0404,0.0781
+"(Reactome) Transport of Ribonucleoproteins into the Host Nucleus","REACTOME_TRANSPORT_OF_RIBONUCLEOPROTEINS_INTO_THE_HOST_NUCLEUS","NONE",-0.0496,-2.55,0.0408,0.0787
+"(KEGG) Endometrial cancer","KEGG_ENDOMETRIAL_CANCER","NONE",-0.127,-2.53,0.042,0.081
+"(Reactome) Post-chaperonin tubulin folding pathway","REACTOME_POST_CHAPERONIN_TUBULIN_FOLDING_PATHWAY","NONE",0.225,2.52,0.0425,0.0817
+"(BioCarta) fMLP induced chemokine gene expression in HMC-1 cells","BIOCARTA_FMLP_PATHWAY","NONE",0.0489,2.52,0.0427,0.082
+"(PID) ErbB receptor signaling network","PID_ERBB_NETWORK_PATHWAY","NONE",0.124,2.51,0.0434,0.0831
+"(PID) ErbB4 signaling events","PID_ERBB4_PATHWAY","NONE",0.0472,2.51,0.0435,0.0832
+"(Reactome) Mitotic Prometaphase","REACTOME_MITOTIC_PROMETAPHASE","NONE",-0.0617,-2.5,0.0438,0.0836
+"(Reactome) Cytosolic tRNA aminoacylation","REACTOME_CYTOSOLIC_TRNA_AMINOACYLATION","NONE",-0.166,-2.5,0.0439,0.0836
+"(Reactome) Endosomal Sorting Complex Required For Transport (ESCRT)","REACTOME_ENDOSOMAL_SORTING_COMPLEX_REQUIRED_FOR_TRANSPORT_ESCRT","NONE",0.0495,2.5,0.044,0.0838
+"(Reactome) RNA Polymerase I, RNA Polymerase III, and Mitochondrial Transcription","REACTOME_RNA_POL_I_RNA_POL_III_AND_MITOCHONDRIAL_TRANSCRIPTION","NONE",-0.0437,-2.49,0.0444,0.0843
+"(Reactome) ADP signalling through P2Y purinoceptor 1","REACTOME_ADP_SIGNALLING_THROUGH_P2RY1","NONE",-0.102,-2.49,0.0446,0.0847
+"(Reactome) Kinesins","REACTOME_KINESINS","NONE",0.0684,2.48,0.045,0.0852
+"(KEGG) Melanogenesis","KEGG_MELANOGENESIS","NONE",-0.0629,-2.48,0.0453,0.0857
+"(Reactome) Cleavage of Growing Transcript in the Termination Region ","REACTOME_CLEAVAGE_OF_GROWING_TRANSCRIPT_IN_THE_TERMINATION_REGION_","NONE",-0.083,-2.46,0.0462,0.0871
+"(Reactome) Interaction between L1 and Ankyrins","REACTOME_INTERACTION_BETWEEN_L1_AND_ANKYRINS","NONE",0.078,2.46,0.0462,0.0871
+"(Reactome) MAP kinase activation in TLR cascade","REACTOME_MAP_KINASE_ACTIVATION_IN_TLR_CASCADE","NONE",0.0458,2.46,0.0464,0.0874
+"(PID) IL8- and CXCR2-mediated signaling events","PID_IL8_CXCR2_PATHWAY","NONE",-0.0833,-2.45,0.0467,0.0878
+"(KEGG) Fatty acid metabolism","KEGG_FATTY_ACID_METABOLISM","NONE",0.133,2.45,0.0471,0.0883
+"(Reactome) Facilitative Na+-independent glucose transporters","REACTOME_FACILITATIVE_NA_INDEPENDENT_GLUCOSE_TRANSPORTERS","NONE",0.125,2.44,0.0478,0.0895
+"(Reactome) EGFR downregulation","REACTOME_EGFR_DOWNREGULATION","NONE",-0.0468,-2.43,0.0483,0.0903
+"(Reactome) G-protein beta:gamma signalling","REACTOME_G_PROTEIN_BETA_GAMMA_SIGNALLING","NONE",0.0554,2.42,0.0488,0.0911
+"(PID) C-MYC pathway","PID_MYC_PATHWAY","NONE",0.0502,2.41,0.05,0.0929
+"(Reactome) SHC1 events in EGFR signaling","REACTOME_SHC1_EVENTS_IN_EGFR_SIGNALING","NONE",0.158,2.41,0.05,0.0929
+"(Reactome) Growth hormone receptor signaling","REACTOME_GROWTH_HORMONE_RECEPTOR_SIGNALING","NONE",0.0473,2.4,0.0501,0.093
+"(Reactome) Transport of glucose and other sugars, bile salts and organic acids, metal ions and amine compounds","REACTOME_TRANSPORT_OF_GLUCOSE_AND_OTHER_SUGARS_BILE_SALTS_AND_ORGANIC_ACIDS_METAL_IONS_AND_AMINE_COMPOUNDS","NONE",0.045,2.4,0.0502,0.093
+"(Reactome) Unblocking of NMDA receptor, glutamate binding and activation","REACTOME_UNBLOCKING_OF_NMDA_RECEPTOR_GLUTAMATE_BINDING_AND_ACTIVATION","NONE",0.196,2.4,0.0503,0.093
+"(Reactome) Processing of Intronless Pre-mRNAs","REACTOME_PROCESSING_OF_INTRONLESS_PRE_MRNAS","NONE",-0.0606,-2.39,0.051,0.0942
+"(PID) a6b1 and a6b4 Integrin signaling","PID_A6B1_A6B4_INTEGRIN_PATHWAY","NONE",0.0756,2.38,0.0519,0.0957
+"(Reactome) Formation of the HIV-1 Early Elongation Complex","REACTOME_FORMATION_OF_THE_HIV1_EARLY_ELONGATION_COMPLEX","NONE",0.0515,2.38,0.052,0.0957
+"(Reactome) Glucose metabolism","REACTOME_GLUCOSE_METABOLISM","NONE",0.185,2.36,0.0533,0.0979
+"(BioCarta) Phosphoinositides and their downstream targets.","BIOCARTA_PTDINS_PATHWAY","NONE",0.047,2.35,0.0538,0.0987
+"(Reactome) Bile acid and bile salt metabolism","REACTOME_BILE_ACID_AND_BILE_SALT_METABOLISM","NONE",0.121,2.35,0.054,0.0989
+"(BioCarta) Rho cell motility signaling pathway","BIOCARTA_RHO_PATHWAY","NONE",0.0906,2.35,0.0545,0.0996
+"(Reactome) Nuclear Receptor transcription pathway","REACTOME_NUCLEAR_RECEPTOR_TRANSCRIPTION_PATHWAY","NONE",0.14,2.34,0.0547,0.0999
+"(BioCarta) Stathmin and breast cancer resistance to antimicrotubule agents","BIOCARTA_STATHMIN_PATHWAY","NONE",0.0897,2.34,0.0548,0.0999
+"(BioCarta) CARM1 and Regulation of the Estrogen Receptor","BIOCARTA_CARM_ER_PATHWAY","NONE",-0.063,-2.34,0.0549,0.0999
+"(Reactome) Synthesis of substrates in N-glycan biosythesis","REACTOME_SYNTHESIS_OF_SUBSTRATES_IN_N_GLYCAN_BIOSYTHESIS","NONE",0.104,2.34,0.0552,0.1
+"(Reactome) Glycosphingolipid metabolism","REACTOME_GLYCOSPHINGOLIPID_METABOLISM","NONE",0.0581,2.34,0.0552,0.1
+"(STKE) PI3K Pathway","ST_PHOSPHOINOSITIDE_3_KINASE_PATHWAY","NONE",-0.073,-2.34,0.0552,0.1
+"(BioCarta) Ca++/ Calmodulin-dependent Protein Kinase Activation","BIOCARTA_CACAM_PATHWAY","NONE",0.0741,2.31,0.0569,0.103
+"(BioCarta) Caspase Cascade in Apoptosis","BIOCARTA_CASPASE_PATHWAY","NONE",0.0749,2.3,0.058,0.105
+"(BioCarta) Multi-step Regulation of Transcription by Pitx2","BIOCARTA_PITX2_PATHWAY","NONE",0.173,2.29,0.0591,0.106
+"(Reactome) PKA-mediated phosphorylation of CREB","REACTOME_PKA_MEDIATED_PHOSPHORYLATION_OF_CREB","NONE",0.164,2.29,0.0593,0.107
+"(BioCarta) Fc Epsilon Receptor I Signaling in Mast Cells","BIOCARTA_FCER1_PATHWAY","NONE",-0.0595,-2.28,0.0595,0.107
+"(Reactome) Integrin cell surface interactions","REACTOME_INTEGRIN_CELL_SURFACE_INTERACTIONS","NONE",0.0397,2.26,0.0616,0.111
+"(Reactome) Receptor-ligand binding initiates the second proteolytic cleavage of Notch receptor","REACTOME_RECEPTOR_LIGAND_BINDING_INITIATES_THE_SECOND_PROTEOLYTIC_CLEAVAGE_OF_NOTCH_RECEPTOR","NONE",-0.0935,-2.24,0.0628,0.112
+"(PID) FOXA1 transcription factor network","PID_HNF3A_PATHWAY","NONE",-0.0572,-2.24,0.0629,0.112
+"(Reactome) Amyloids","REACTOME_AMYLOIDS","NONE",0.076,2.24,0.063,0.112
+"(Reactome) Formation of RNA Pol II elongation complex ","REACTOME_FORMATION_OF_RNA_POL_II_ELONGATION_COMPLEX_","NONE",0.0525,2.24,0.0631,0.112
+"(Reactome) Signalling to ERKs","REACTOME_SIGNALLING_TO_ERKS","NONE",-0.0479,-2.24,0.0636,0.113
+"(Reactome) Removal of the Flap Intermediate from the C-strand","REACTOME_REMOVAL_OF_THE_FLAP_INTERMEDIATE_FROM_THE_C_STRAND","NONE",-0.123,-2.23,0.0641,0.114
+"(PID) Arf6 trafficking events","PID_ARF6_TRAFFICKING_PATHWAY","NONE",-0.0487,-2.23,0.0642,0.114
+"(BioCarta) Multiple antiapoptotic pathways from IGF-1R signaling lead to BAD phosphorylation","BIOCARTA_IGF1R_PATHWAY","NONE",0.0832,2.23,0.0643,0.114
+"(KEGG) Glycosphingolipid biosynthesis - lacto and neolacto series","KEGG_GLYCOSPHINGOLIPID_BIOSYNTHESIS_LACTO_AND_NEOLACTO_SERIES","NONE",0.047,2.22,0.0655,0.116
+"(PID) Thromboxane A2 receptor signaling","PID_TXA2PATHWAY","NONE",-0.0379,-2.21,0.0659,0.116
+"(Reactome) Generation of second messenger molecules","REACTOME_GENERATION_OF_SECOND_MESSENGER_MOLECULES","NONE",0.045,2.21,0.0665,0.117
+"(Reactome) Signaling by BMP","REACTOME_SIGNALING_BY_BMP","NONE",0.122,2.19,0.0675,0.119
+"(Reactome) PI3K events in ERBB4 signaling","REACTOME_PI3K_EVENTS_IN_ERBB4_SIGNALING","NONE",-0.0776,-2.19,0.0681,0.12
+"(BioCarta) Cell Cycle: G2/M Checkpoint","BIOCARTA_G2_PATHWAY","NONE",-0.0992,-2.19,0.0682,0.12
+"(Reactome) RNA Polymerase II Pre-transcription Events","REACTOME_RNA_POL_II_PRE_TRANSCRIPTION_EVENTS","NONE",0.0488,2.18,0.069,0.121
+"(Reactome) Activation of Chaperone Genes by XBP1(S)","REACTOME_ACTIVATION_OF_CHAPERONE_GENES_BY_XBP1S","NONE",0.0775,2.17,0.07,0.123
+"(Reactome) TAK1 activates NFkB by phosphorylation and activation of IKKs complex","REACTOME_TAK1_ACTIVATES_NFKB_BY_PHOSPHORYLATION_AND_ACTIVATION_OF_IKKS_COMPLEX","NONE",0.0528,2.16,0.0708,0.124
+"(Reactome) Signalling to RAS","REACTOME_SIGNALLING_TO_RAS","NONE",-0.0835,-2.16,0.071,0.124
+"(BioCarta) Signaling of Hepatocyte Growth Factor Receptor","BIOCARTA_MET_PATHWAY","NONE",0.0657,2.16,0.071,0.124
+"(Reactome) Inhibition of Insulin Secretion by Adrenaline/Noradrenaline","REACTOME_INHIBITION_OF_INSULIN_SECRETION_BY_ADRENALINE_NORADRENALINE","NONE",-0.0487,-2.15,0.0721,0.125
+"(Reactome) SHC-related events","REACTOME_SHC_RELATED_EVENTS","NONE",-0.0591,-2.15,0.0724,0.126
+"(BioCarta) Induction of apoptosis through DR3 and DR4/5 Death Receptors","BIOCARTA_DEATH_PATHWAY","NONE",0.0714,2.14,0.0729,0.126
+"(BioCarta) Presenilin action in Notch and Wnt signaling","BIOCARTA_PS1_PATHWAY","NONE",0.109,2.14,0.0732,0.127
+"(PID) TGF-beta receptor signaling","PID_TGFBR_PATHWAY","NONE",-0.068,-2.14,0.0733,0.127
+"(Reactome) CS/DS degradation","REACTOME_CS_DS_DEGRADATION","NONE",-0.072,-2.13,0.0737,0.127
+"(BioCarta) Bone Remodelling","BIOCARTA_RANKL_PATHWAY","NONE",0.0637,2.13,0.0741,0.128
+"(BioCarta) Angiotensin II mediated activation of JNK Pathway via Pyk2 dependent signaling","BIOCARTA_AT1R_PATHWAY","NONE",-0.0381,-2.12,0.0747,0.129
+"(KEGG) Glycosylphosphatidylinositol(GPI)-anchor biosynthesis","KEGG_GLYCOSYLPHOSPHATIDYLINOSITOL_GPI_ANCHOR_BIOSYNTHESIS","NONE",0.0647,2.12,0.0754,0.13
+"(KEGG) Acute myeloid leukemia","KEGG_ACUTE_MYELOID_LEUKEMIA","NONE",-0.0434,-2.12,0.0756,0.13
+"(STKE) Differentiation Pathway in PC12 Cells; this is a specific case of PAC1 Receptor Pathway.","ST_DIFFERENTIATION_PATHWAY_IN_PC12_CELLS","NONE",-0.117,-2.11,0.0762,0.131
+"(Reactome) ABCA transporters in lipid homeostasis","REACTOME_ABCA_TRANSPORTERS_IN_LIPID_HOMEOSTASIS","NONE",-0.09,-2.11,0.0764,0.131
+"(KEGG) Glycosaminoglycan biosynthesis - keratan sulfate","KEGG_GLYCOSAMINOGLYCAN_BIOSYNTHESIS_KERATAN_SULFATE","NONE",-0.0517,-2.09,0.0789,0.135
+"(Reactome) HIV Life Cycle","REACTOME_HIV_LIFE_CYCLE","NONE",-0.0461,-2.08,0.0796,0.136
+"(Reactome) Class A/1 (Rhodopsin-like receptors)","REACTOME_CLASS_A1_RHODOPSIN_LIKE_RECEPTORS","NONE",-0.0554,-2.07,0.0809,0.138
+"(PID) HIV-1 Nef: Negative effector of Fas and TNF-alpha","PID_HIV_NEF_PATHWAY","NONE",0.0906,2.06,0.0816,0.139
+"(Reactome) Association of TriC/CCT with target proteins during biosynthesis","REACTOME_ASSOCIATION_OF_TRIC_CCT_WITH_TARGET_PROTEINS_DURING_BIOSYNTHESIS","NONE",-0.0794,-2.06,0.0819,0.139
+"(Reactome) Opioid Signalling","REACTOME_OPIOID_SIGNALLING","NONE",0.0523,2.05,0.0825,0.14
+"(BioCarta) Role of PI3K subunit p85 in regulation of Actin Organization and Cell Migration","BIOCARTA_CDC42RAC_PATHWAY","NONE",0.0719,2.05,0.083,0.14
+"(BioCarta) Regulation of PGC-1a","BIOCARTA_PGC1A_PATHWAY","NONE",0.0559,2.05,0.0832,0.141
+"(Reactome) Beta-catenin phosphorylation cascade","REACTOME_CTNNB1_PHOSPHORYLATION_CASCADE","NONE",0.0704,2.05,0.0835,0.141
+"(BioCarta) Keratinocyte Differentiation","BIOCARTA_KERATINOCYTE_PATHWAY","NONE",-0.0464,-2.04,0.0845,0.142
+"(PID) Presenilin action in Notch and Wnt signaling","PID_PS1_PATHWAY","NONE",0.07,2.03,0.0849,0.143
+"(KEGG) Glyoxylate and dicarboxylate metabolism","KEGG_GLYOXYLATE_AND_DICARBOXYLATE_METABOLISM","NONE",-0.157,-2.03,0.0851,0.143
+"(Reactome) Cell-extracellular matrix interactions","REACTOME_CELL_EXTRACELLULAR_MATRIX_INTERACTIONS","NONE",0.154,2.03,0.0851,0.143
+"(BioCarta) p38 MAPK Signaling Pathway","BIOCARTA_P38MAPK_PATHWAY","NONE",0.0527,2.03,0.0855,0.143
+"(PID) Regulation of cytoplasmic and nuclear SMAD2/3 signaling","PID_SMAD2_3PATHWAY","NONE",-0.0715,-2.01,0.0877,0.147
+"(Reactome) Signaling by NOTCH1","REACTOME_SIGNALING_BY_NOTCH1","NONE",0.0771,2,0.0889,0.148
+"(Reactome) Recycling pathway of L1","REACTOME_RECYCLING_PATHWAY_OF_L1","NONE",-0.0552,-2,0.0893,0.149
+"(PID) Signaling events mediated by Hepatocyte Growth Factor Receptor (c-Met)","PID_MET_PATHWAY","NONE",-0.0492,-1.99,0.0907,0.151
+"(Reactome) Signaling by the B Cell Receptor (BCR)","REACTOME_SIGNALING_BY_THE_B_CELL_RECEPTOR_BCR","NONE",0.0356,1.98,0.0917,0.152
+"(Reactome) Processing of Capped Intron-Containing Pre-mRNA","REACTOME_PROCESSING_OF_CAPPED_INTRON_CONTAINING_PRE_MRNA","NONE",-0.0456,-1.95,0.095,0.158
+"(PID) Class I PI3K signaling events mediated by Akt","PID_PI3KCI_AKT_PATHWAY","NONE",-0.0651,-1.95,0.0951,0.158
+"(BioCarta) Erk1/Erk2 Mapk Signaling pathway","BIOCARTA_ERK_PATHWAY","NONE",0.0487,1.92,0.0998,0.165
+"(PID) N-cadherin signaling events","PID_NCADHERIN_PATHWAY","NONE",0.0874,1.92,0.1,0.166
+"(Reactome) TCR signaling","REACTOME_TCR_SIGNALING","NONE",0.0837,1.91,0.102,0.167
+"(PID) Validated nuclear estrogen receptor beta network","PID_ERB_GENOMIC_PATHWAY","NONE",0.0345,1.91,0.102,0.167
+"(KEGG) Long-term potentiation","KEGG_LONG_TERM_POTENTIATION","NONE",-0.0763,-1.9,0.103,0.169
+"(Reactome) mRNA Processing","REACTOME_MRNA_PROCESSING","NONE",-0.0408,-1.9,0.103,0.169
+"(Reactome) PI3K/AKT activation","REACTOME_PI3K_AKT_ACTIVATION","NONE",-0.0653,-1.9,0.103,0.169
+"(PID) Arf6 downstream pathway","PID_ARF6_DOWNSTREAM_PATHWAY","NONE",0.061,1.89,0.104,0.17
+"(Reactome) tRNA Aminoacylation","REACTOME_TRNA_AMINOACYLATION","NONE",-0.131,-1.89,0.104,0.171
+"(Reactome) Neuronal System","REACTOME_NEURONAL_SYSTEM","NONE",-0.0644,-1.89,0.105,0.171
+"(Naba) Genes encoding structural ECM glycoproteins","NABA_ECM_GLYCOPROTEINS","NONE",-0.0629,-1.88,0.105,0.171
+"(PID) Regulation of CDC42 activity","PID_CDC42_REG_PATHWAY","NONE",-0.046,-1.88,0.105,0.171
+"(Reactome) TRIF mediated TLR3 signaling","REACTOME_TRIF_MEDIATED_TLR3_SIGNALING","NONE",0.0345,1.88,0.105,0.171
+"(Reactome) Mitochondrial tRNA aminoacylation","REACTOME_MITOCHONDRIAL_TRNA_AMINOACYLATION","NONE",-0.135,-1.88,0.106,0.173
+"(Reactome) Energy dependent regulation of mTOR by LKB1-AMPK","REACTOME_ENERGY_DEPENDENT_REGULATION_OF_MTOR_BY_LKB1_AMPK","NONE",-0.039,-1.87,0.107,0.173
+"(Reactome) Transmembrane transport of small molecules","REACTOME_TRANSMEMBRANE_TRANSPORT_OF_SMALL_MOLECULES","NONE",-0.042,-1.87,0.107,0.173
+"(PID) PLK1 signaling events","PID_PLK1_PATHWAY","NONE",-0.0364,-1.85,0.11,0.178
+"(Reactome) Activation of the AP-1 family of transcription factors","REACTOME_ACTIVATION_OF_THE_AP1_FAMILY_OF_TRANSCRIPTION_FACTORS","NONE",0.11,1.85,0.111,0.179
+"(Reactome) Signalling by NGF","REACTOME_SIGNALLING_BY_NGF","NONE",0.0394,1.85,0.111,0.179
+"(PID) Nectin adhesion pathway","PID_NECTIN_PATHWAY","NONE",-0.0349,-1.84,0.113,0.181
+"(KEGG) Cardiac muscle contraction","KEGG_CARDIAC_MUSCLE_CONTRACTION","NONE",-0.105,-1.83,0.114,0.183
+"(Reactome) Signaling by FGFR1 fusion mutants","REACTOME_SIGNALING_BY_FGFR1_FUSION_MUTANTS","NONE",-0.0658,-1.83,0.114,0.183
+"(Reactome) E2F-enabled inhibition of pre-replication complex formation","REACTOME_E2F_ENABLED_INHIBITION_OF_PRE_REPLICATION_COMPLEX_FORMATION","NONE",-0.0587,-1.82,0.115,0.184
+"(Reactome) PIP3 activates AKT signaling","REACTOME_PIP3_ACTIVATES_AKT_SIGNALING","NONE",-0.059,-1.82,0.116,0.185
+"(PID) EPHB forward signaling","PID_EPHB_FWD_PATHWAY","NONE",0.0393,1.81,0.116,0.186
+"(Reactome) NEP/NS2 Interacts with the Cellular Export Machinery","REACTOME_NEP_NS2_INTERACTS_WITH_THE_CELLULAR_EXPORT_MACHINERY","NONE",-0.0359,-1.81,0.117,0.186
+"(Reactome) GPVI-mediated activation cascade","REACTOME_GPVI_MEDIATED_ACTIVATION_CASCADE","NONE",-0.0724,-1.8,0.119,0.19
+"(Reactome) mRNA Splicing","REACTOME_MRNA_SPLICING","NONE",-0.0418,-1.78,0.121,0.193
+"(KEGG) Renal cell carcinoma","KEGG_RENAL_CELL_CARCINOMA","NONE",0.0438,1.78,0.122,0.193
+"(KEGG) Vasopressin-regulated water reabsorption","KEGG_VASOPRESSIN_REGULATED_WATER_REABSORPTION","NONE",0.036,1.78,0.123,0.195
+"(Reactome) RAF/MAP kinase cascade","REACTOME_RAF_MAP_KINASE_CASCADE","NONE",0.0841,1.77,0.124,0.196
+"(BioCarta) Erk and PI-3 Kinase Are Necessary for Collagen Binding in Corneal Epithelia","BIOCARTA_ECM_PATHWAY","NONE",0.0487,1.77,0.124,0.196
+"(Reactome) GAB1 signalosome","REACTOME_GAB1_SIGNALOSOME","NONE",-0.0526,-1.77,0.124,0.196
+"(Reactome) Glutathione conjugation","REACTOME_GLUTATHIONE_CONJUGATION","NONE",0.151,1.76,0.125,0.197
+"(KEGG) Progesterone-mediated oocyte maturation","KEGG_PROGESTERONE_MEDIATED_OOCYTE_MATURATION","NONE",-0.05,-1.75,0.127,0.201
+"(Reactome) Transcription","REACTOME_TRANSCRIPTION","NONE",-0.0377,-1.75,0.128,0.201
+"(Reactome) Gastrin-CREB signalling pathway via PKC and MAPK","REACTOME_GASTRIN_CREB_SIGNALLING_PATHWAY_VIA_PKC_AND_MAPK","NONE",-0.0439,-1.74,0.128,0.202
+"(BioCarta) NFkB activation by Nontypeable Hemophilus influenzae","BIOCARTA_NTHI_PATHWAY","NONE",0.116,1.74,0.129,0.202
+"(PID) BCR signaling pathway","PID_BCR_5PATHWAY","NONE",-0.0511,-1.74,0.129,0.203
+"(Reactome) Activation of Kainate Receptors upon glutamate binding","REACTOME_ACTIVATION_OF_KAINATE_RECEPTORS_UPON_GLUTAMATE_BINDING","NONE",-0.05,-1.73,0.131,0.206
+"(Reactome) Host Interactions of HIV factors","REACTOME_HOST_INTERACTIONS_OF_HIV_FACTORS","NONE",-0.0513,-1.72,0.134,0.209
+"(Reactome) SHC1 events in ERBB4 signaling","REACTOME_SHC1_EVENTS_IN_ERBB4_SIGNALING","NONE",0.0626,1.71,0.134,0.209
+"(Reactome) Apoptosis","REACTOME_APOPTOSIS","NONE",0.0382,1.71,0.134,0.21
+"(Reactome) Unfolded Protein Response","REACTOME_UNFOLDED_PROTEIN_RESPONSE","NONE",0.0427,1.69,0.138,0.214
+"(PID) RhoA signaling pathway","PID_RHOA_PATHWAY","NONE",0.0472,1.69,0.138,0.214
+"(Reactome) Acyl chain remodelling of PC","REACTOME_ACYL_CHAIN_REMODELLING_OF_PC","NONE",-0.117,-1.69,0.138,0.214
+"(Reactome) Metabolism of steroid hormones and vitamins A and D","REACTOME_METABOLISM_OF_STEROID_HORMONES_AND_VITAMINS_A_AND_D","NONE",0.113,1.69,0.139,0.215
+"(Reactome) Orc1 removal from chromatin","REACTOME_ORC1_REMOVAL_FROM_CHROMATIN","NONE",-0.0562,-1.68,0.14,0.217
+"(PID) Beta3 integrin cell surface interactions","PID_INTEGRIN3_PATHWAY","NONE",-0.0308,-1.67,0.143,0.221
+"(KEGG) Spliceosome","KEGG_SPLICEOSOME","NONE",-0.0418,-1.66,0.145,0.224
+"(KEGG) Basal transcription factors","KEGG_BASAL_TRANSCRIPTION_FACTORS","NONE",0.0327,1.64,0.148,0.228
+"(Reactome) NFkB and MAP kinases activation mediated by TLR4 signaling repertoire","REACTOME_NFKB_AND_MAP_KINASES_ACTIVATION_MEDIATED_BY_TLR4_SIGNALING_REPERTOIRE","NONE",0.0321,1.64,0.149,0.229
+"(Reactome) PI3K Cascade","REACTOME_PI3K_CASCADE","NONE",-0.0523,-1.63,0.15,0.23
+"(Reactome) Post NMDA receptor activation events","REACTOME_POST_NMDA_RECEPTOR_ACTIVATION_EVENTS","NONE",0.103,1.63,0.15,0.23
+"(PID) Alpha-synuclein signaling","PID_ALPHA_SYNUCLEIN_PATHWAY","NONE",0.101,1.62,0.153,0.234
+"(Reactome) Synthesis of PIPs at the early endosome membrane","REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE","NONE",0.0463,1.62,0.154,0.235
+"(Reactome) mRNA Decay by 5' to 3' Exoribonuclease","REACTOME_MRNA_DECAY_BY_5_TO_3_EXORIBONUCLEASE","NONE",0.0486,1.62,0.154,0.235
+"(BioCarta) Role of nicotinic acetylcholine receptors in the regulation of apoptosis","BIOCARTA_ACH_PATHWAY","NONE",-0.068,-1.61,0.156,0.238
+"(Reactome) Hormone-sensitive lipase (HSL)-mediated triacylglycerol hydrolysis","REACTOME_HORMONE_SENSITIVE_LIPASE_HSL_MEDIATED_TRIACYLGLYCEROL_HYDROLYSIS","NONE",-0.0602,-1.6,0.157,0.239
+"(BioCarta) Neuropeptides VIP and PACAP inhibit the apoptosis of activated T cells","BIOCARTA_VIP_PATHWAY","NONE",-0.0848,-1.6,0.157,0.239
+"(PID) EPHA forward signaling","PID_EPHA_FWDPATHWAY","NONE",-0.0324,-1.59,0.16,0.243
+"(PID) IGF1 pathway","PID_IGF1_PATHWAY","NONE",0.0632,1.59,0.16,0.243
+"(BioCarta) Nuclear receptors coordinate the activities of chromatin remodeling complexes and coactivators to facilitate initiation of transcription in carcinoma cells","BIOCARTA_RARRXR_PATHWAY","NONE",0.0531,1.58,0.161,0.244
+"(PID) Angiopoietin receptor Tie2-mediated signaling","PID_ANGIOPOIETIN_RECEPTOR_PATHWAY","NONE",-0.044,-1.58,0.162,0.246
+"(KEGG) Hypertrophic cardiomyopathy (HCM)","KEGG_HYPERTROPHIC_CARDIOMYOPATHY_HCM","NONE",-0.0334,-1.58,0.163,0.246
+"(Reactome) Metabolism of vitamins and cofactors","REACTOME_METABOLISM_OF_VITAMINS_AND_COFACTORS","NONE",0.0531,1.57,0.163,0.246
+"(BioCarta) Y branching of actin filaments","BIOCARTA_ACTINY_PATHWAY","NONE",0.048,1.57,0.163,0.246
+"(Reactome) Iron uptake and transport","REACTOME_IRON_UPTAKE_AND_TRANSPORT","NONE",0.0431,1.57,0.165,0.248
+"(BioCarta) FAS signaling pathway ( CD95 )","BIOCARTA_FAS_PATHWAY","NONE",-0.0381,-1.57,0.165,0.248
+"(Reactome) Cell-cell junction organization","REACTOME_CELL_CELL_JUNCTION_ORGANIZATION","NONE",-0.0368,-1.57,0.165,0.248
+"(KEGG) Insulin signaling pathway","KEGG_INSULIN_SIGNALING_PATHWAY","NONE",-0.0281,-1.56,0.165,0.248
+"(KEGG) MAPK signaling pathway","KEGG_MAPK_SIGNALING_PATHWAY","NONE",-0.0333,-1.56,0.166,0.249
+"(BioCarta) Electron Transport Reaction in Mitochondria","BIOCARTA_ETC_PATHWAY","NONE",-0.176,-1.56,0.167,0.25
+"(Reactome) Signaling by FGFR1 mutants","REACTOME_SIGNALING_BY_FGFR1_MUTANTS","NONE",-0.0642,-1.55,0.168,0.251
+"(KEGG) B cell receptor signaling pathway","KEGG_B_CELL_RECEPTOR_SIGNALING_PATHWAY","NONE",-0.0364,-1.55,0.169,0.252
+"(Reactome) Response to elevated platelet cytosolic Ca2+","REACTOME_RESPONSE_TO_ELEVATED_PLATELET_CYTOSOLIC_CA2_","NONE",-0.036,-1.54,0.171,0.254
+"(Reactome) Adherens junctions interactions","REACTOME_ADHERENS_JUNCTIONS_INTERACTIONS","NONE",-0.0375,-1.53,0.172,0.257
+"(PID) Arf1 pathway","PID_ARF_3PATHWAY","NONE",0.0544,1.53,0.173,0.257
+"(BioCarta) Ceramide Signaling Pathway","BIOCARTA_CERAMIDE_PATHWAY","NONE",-0.0638,-1.53,0.174,0.259
+"(KEGG) Cytosolic DNA-sensing pathway","KEGG_CYTOSOLIC_DNA_SENSING_PATHWAY","NONE",0.0422,1.53,0.174,0.259
+"(Reactome) Gluconeogenesis","REACTOME_GLUCONEOGENESIS","NONE",0.17,1.52,0.175,0.259
+"(Reactome) Extrinsic Pathway for Apoptosis","REACTOME_EXTRINSIC_PATHWAY_FOR_APOPTOSIS","NONE",0.0992,1.52,0.176,0.26
+"(PID) Ceramide signaling pathway","PID_CERAMIDE_PATHWAY","NONE",-0.0448,-1.51,0.179,0.264
+"(Reactome) mRNA 3'-end processing","REACTOME_MRNA_3_END_PROCESSING","NONE",-0.0521,-1.5,0.181,0.267
+"(Reactome) Signaling by Insulin receptor","REACTOME_SIGNALING_BY_INSULIN_RECEPTOR","NONE",-0.0287,-1.49,0.184,0.271
+"(KEGG) Mismatch repair","KEGG_MISMATCH_REPAIR","NONE",-0.0481,-1.48,0.185,0.272
+"(KEGG) Vascular smooth muscle contraction","KEGG_VASCULAR_SMOOTH_MUSCLE_CONTRACTION","NONE",0.0468,1.48,0.186,0.273
+"(KEGG) Glycolysis / Gluconeogenesis","KEGG_GLYCOLYSIS_GLUCONEOGENESIS","NONE",0.131,1.48,0.186,0.273
+"(Reactome) Post-translational protein modification","REACTOME_POST_TRANSLATIONAL_PROTEIN_MODIFICATION","NONE",-0.0297,-1.48,0.187,0.274
+"(Reactome) Regulation of Glucokinase by Glucokinase Regulatory Protein","REACTOME_REGULATION_OF_GLUCOKINASE_BY_GLUCOKINASE_REGULATORY_PROTEIN","NONE",-0.0311,-1.46,0.19,0.278
+"(Reactome) Deadenylation-dependent mRNA decay","REACTOME_DEADENYLATION_DEPENDENT_MRNA_DECAY","NONE",-0.0509,-1.46,0.191,0.279
+"(PID) ErbB1 downstream signaling","PID_ERBB1_DOWNSTREAM_PATHWAY","NONE",0.0261,1.46,0.192,0.279
+"(Reactome) Regulation of mitotic cell cycle","REACTOME_REGULATION_OF_MITOTIC_CELL_CYCLE","NONE",-0.0382,-1.46,0.192,0.279
+"(STKE) Granule Cell Survival Pathway is a specific case of more general PAC1 Receptor Pathway.","ST_GRANULE_CELL_SURVIVAL_PATHWAY","NONE",-0.103,-1.45,0.193,0.281
+"(KEGG) Propanoate metabolism","KEGG_PROPANOATE_METABOLISM","NONE",0.0743,1.45,0.194,0.282
+"(Reactome) Metabolism of carbohydrates","REACTOME_METABOLISM_OF_CARBOHYDRATES","NONE",0.0413,1.44,0.195,0.284
+"(Reactome) AKT phosphorylates targets in the cytosol","REACTOME_AKT_PHOSPHORYLATES_TARGETS_IN_THE_CYTOSOL","NONE",0.0458,1.44,0.196,0.284
+"(Reactome) Activation of NMDA receptor upon glutamate binding and postsynaptic events","REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS","NONE",0.105,1.44,0.197,0.285
+"(Reactome) Tight junction interactions","REACTOME_TIGHT_JUNCTION_INTERACTIONS","NONE",-0.036,-1.43,0.198,0.286
+"(KEGG) Pentose phosphate pathway","KEGG_PENTOSE_PHOSPHATE_PATHWAY","NONE",0.132,1.43,0.199,0.288
+"(Reactome) G alpha (i) signalling events","REACTOME_G_ALPHA_I_SIGNALLING_EVENTS","NONE",0.0481,1.42,0.203,0.293
+"(Reactome) GRB2 events in ERBB2 signaling","REACTOME_GRB2_EVENTS_IN_ERBB2_SIGNALING","NONE",0.0645,1.41,0.205,0.296
+"(Reactome) G alpha (q) signalling events","REACTOME_G_ALPHA_Q_SIGNALLING_EVENTS","NONE",-0.0446,-1.41,0.206,0.296
+"(KEGG) Aminoacyl-tRNA biosynthesis","KEGG_AMINOACYL_TRNA_BIOSYNTHESIS","NONE",-0.0903,-1.4,0.207,0.298
+"(KEGG) Dilated cardiomyopathy","KEGG_DILATED_CARDIOMYOPATHY","NONE",-0.0439,-1.4,0.208,0.298
+"(Reactome) Mitochondrial Fatty Acid Beta-Oxidation","REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION","NONE",0.102,1.4,0.209,0.299
+"(Reactome) Sphingolipid de novo biosynthesis","REACTOME_SPHINGOLIPID_DE_NOVO_BIOSYNTHESIS","NONE",0.0368,1.4,0.209,0.299
+"(STKE) Interleukin 4 (IL-4) Pathway","ST_INTERLEUKIN_4_PATHWAY","NONE",-0.0308,-1.39,0.209,0.299
+"(Reactome) Glucose transport","REACTOME_GLUCOSE_TRANSPORT","NONE",-0.0489,-1.39,0.211,0.301
+"(BioCarta) ALK in cardiac myocytes","BIOCARTA_ALK_PATHWAY","NONE",-0.0938,-1.39,0.211,0.301
+"(Reactome) PI3K events in ERBB2 signaling","REACTOME_PI3K_EVENTS_IN_ERBB2_SIGNALING","NONE",0.0329,1.39,0.212,0.301
+"(Reactome) Transport of Mature Transcript to Cytoplasm","REACTOME_TRANSPORT_OF_MATURE_TRANSCRIPT_TO_CYTOPLASM","NONE",-0.0442,-1.38,0.212,0.301
+"(Reactome) APC/C:Cdc20 mediated degradation of mitotic proteins","REACTOME_APC_C_CDC20_MEDIATED_DEGRADATION_OF_MITOTIC_PROTEINS","NONE",-0.0448,-1.38,0.212,0.301
+"(BioCarta) METS affect on Macrophage Differentiation","BIOCARTA_ETS_PATHWAY","NONE",-0.0823,-1.38,0.212,0.301
+"(KEGG) Riboflavin metabolism","KEGG_RIBOFLAVIN_METABOLISM","NONE",0.0453,1.38,0.213,0.301
+"(KEGG) Adipocytokine signaling pathway","KEGG_ADIPOCYTOKINE_SIGNALING_PATHWAY","NONE",0.0243,1.38,0.213,0.302
+"(Reactome) Hyaluronan metabolism","REACTOME_HYALURONAN_METABOLISM","NONE",-0.0308,-1.37,0.216,0.305
+"(KEGG) Amyotrophic lateral sclerosis (ALS)","KEGG_AMYOTROPHIC_LATERAL_SCLEROSIS_ALS","NONE",-0.0378,-1.36,0.219,0.309
+"(KEGG) Sphingolipid metabolism","KEGG_SPHINGOLIPID_METABOLISM","NONE",-0.0239,-1.36,0.219,0.309
+"(Reactome) Viral Messenger RNA Synthesis","REACTOME_VIRAL_MESSENGER_RNA_SYNTHESIS","NONE",0.0443,1.36,0.221,0.311
+"(Reactome) Spry regulation of FGF signaling","REACTOME_SPRY_REGULATION_OF_FGF_SIGNALING","NONE",-0.0325,-1.35,0.221,0.311
+"(KEGG) RNA degradation","KEGG_RNA_DEGRADATION","NONE",-0.0294,-1.35,0.222,0.312
+"(KEGG) Glycosphingolipid biosynthesis - ganglio series","KEGG_GLYCOSPHINGOLIPID_BIOSYNTHESIS_GANGLIO_SERIES","NONE",0.0305,1.35,0.224,0.314
+"(Reactome) Transport of Mature mRNA Derived from an Intronless Transcript","REACTOME_TRANSPORT_OF_MATURE_MRNA_DERIVED_FROM_AN_INTRONLESS_TRANSCRIPT","NONE",-0.0358,-1.34,0.225,0.315
+"(STKE) JNK MAPK Pathway","ST_JNK_MAPK_PATHWAY","NONE",0.0478,1.34,0.225,0.315
+"(Reactome) Advanced glycosylation endproduct receptor signaling","REACTOME_ADVANCED_GLYCOSYLATION_ENDPRODUCT_RECEPTOR_SIGNALING","NONE",0.138,1.34,0.226,0.316
+"(BioCarta) TNFR2 Signaling Pathway","BIOCARTA_TNFR2_PATHWAY","NONE",-0.0706,-1.34,0.226,0.316
+"(KEGG) Glutathione metabolism","KEGG_GLUTATHIONE_METABOLISM","NONE",0.101,1.33,0.229,0.319
+"(BioCarta) Thrombin signaling and protease-activated receptors","BIOCARTA_PAR1_PATHWAY","NONE",-0.0652,-1.32,0.231,0.321
+"(Reactome) Sema3A PAK dependent Axon repulsion","REACTOME_SEMA3A_PAK_DEPENDENT_AXON_REPULSION","NONE",-0.105,-1.32,0.231,0.321
+"(Reactome) Downstream signaling of activated FGFR","REACTOME_DOWNSTREAM_SIGNALING_OF_ACTIVATED_FGFR","NONE",0.0411,1.32,0.232,0.322
+"(Reactome) SLC-mediated transmembrane transport","REACTOME_SLC_MEDIATED_TRANSMEMBRANE_TRANSPORT","NONE",-0.0279,-1.31,0.236,0.327
+"(Reactome) Pyrimidine metabolism","REACTOME_PYRIMIDINE_METABOLISM","NONE",-0.0743,-1.31,0.236,0.327
+"(PID) Wnt signaling network","PID_WNT_SIGNALING_PATHWAY","NONE",0.0281,1.29,0.241,0.333
+"(KEGG) Glycosaminoglycan biosynthesis - chondroitin sulfate","KEGG_GLYCOSAMINOGLYCAN_BIOSYNTHESIS_CHONDROITIN_SULFATE","NONE",-0.0938,-1.29,0.241,0.333
+"(Reactome) SOS-mediated signalling","REACTOME_SOS_MEDIATED_SIGNALLING","NONE",0.0384,1.29,0.241,0.333
+"(Reactome) Interleukin-3, 5 and GM-CSF signaling","REACTOME_IL_3_5_AND_GM_CSF_SIGNALING","NONE",0.0288,1.29,0.242,0.334
+"(PID) Signaling events mediated by PTP1B","PID_PTP1B_PATHWAY","NONE",0.0324,1.26,0.251,0.346
+"(Reactome) DAG and IP3 signaling","REACTOME_DAG_AND_IP3_SIGNALING","NONE",0.054,1.25,0.253,0.348
+"(BioCarta) CXCR4 Signaling Pathway","BIOCARTA_CXCR4_PATHWAY","NONE",-0.0544,-1.25,0.254,0.349
+"(BioCarta) Phospholipids as signalling intermediaries","BIOCARTA_EDG1_PATHWAY","NONE",-0.0261,-1.25,0.256,0.351
+"(Reactome) Lipid digestion, mobilization, and transport","REACTOME_LIPID_DIGESTION_MOBILIZATION_AND_TRANSPORT","NONE",-0.0604,-1.24,0.258,0.353
+"(BioCarta) ADP-Ribosylation Factor","BIOCARTA_ARAP_PATHWAY","NONE",0.0395,1.24,0.259,0.354
+"(Reactome) CTLA4 inhibitory signaling","REACTOME_CTLA4_INHIBITORY_SIGNALING","NONE",-0.0407,-1.24,0.259,0.355
+"(STKE) Adrenergic Pathway","ST_ADRENERGIC","NONE",-0.0652,-1.22,0.266,0.363
+"(BioCarta) Ras Signaling Pathway","BIOCARTA_RAS_PATHWAY","NONE",0.0548,1.21,0.267,0.365
+"(PID) Beta2 integrin cell surface interactions","PID_INTEGRIN2_PATHWAY","NONE",-0.0388,-1.21,0.268,0.365
+"(Reactome) Signaling by FGFR mutants","REACTOME_SIGNALING_BY_FGFR_MUTANTS","NONE",0.0467,1.21,0.27,0.367
+"(Reactome) CRMPs in Sema3A signaling","REACTOME_CRMPS_IN_SEMA3A_SIGNALING","NONE",-0.102,-1.21,0.27,0.367
+"(Reactome) Regulation of Insulin Secretion by Glucagon-like Peptide-1","REACTOME_REGULATION_OF_INSULIN_SECRETION_BY_GLUCAGON_LIKE_PEPTIDE1","NONE",0.042,1.21,0.27,0.367
+"(Reactome) Deadenylation of mRNA","REACTOME_DEADENYLATION_OF_MRNA","NONE",-0.0538,-1.2,0.274,0.371
+"(KEGG) Taste transduction","KEGG_TASTE_TRANSDUCTION","NONE",-0.0516,-1.2,0.274,0.371
+"(Reactome) Retrograde neurotrophin signalling","REACTOME_RETROGRADE_NEUROTROPHIN_SIGNALLING","NONE",0.0543,1.19,0.276,0.373
+"(Reactome) Elongation arrest and recovery","REACTOME_ELONGATION_ARREST_AND_RECOVERY","NONE",0.0352,1.19,0.276,0.373
+"(KEGG) Calcium signaling pathway","KEGG_CALCIUM_SIGNALING_PATHWAY","NONE",-0.0261,-1.19,0.277,0.373
+"(Reactome) G beta:gamma signalling through PI3Kgamma","REACTOME_G_BETA_GAMMA_SIGNALLING_THROUGH_PI3KGAMMA","NONE",-0.0356,-1.19,0.277,0.373
+"(KEGG) Butanoate metabolism","KEGG_BUTANOATE_METABOLISM","NONE",0.0882,1.19,0.277,0.373
+"(KEGG) Ether lipid metabolism","KEGG_ETHER_LIPID_METABOLISM","NONE",-0.0782,-1.18,0.278,0.374
+"(PID) Fanconi anemia pathway","PID_FANCONI_PATHWAY","NONE",-0.0211,-1.18,0.28,0.376
+"(Reactome) Activation of Genes by ATF4","REACTOME_ACTIVATION_OF_GENES_BY_ATF4","NONE",0.0247,1.18,0.28,0.376
+"(BioCarta) Inhibition of Cellular Proliferation by Gleevec","BIOCARTA_GLEEVEC_PATHWAY","NONE",-0.0448,-1.18,0.28,0.376
+"(BioCarta) uCalpain and friends in Cell spread","BIOCARTA_UCALPAIN_PATHWAY","NONE",-0.0472,-1.18,0.281,0.376
+"(KEGG) Chemokine signaling pathway","KEGG_CHEMOKINE_SIGNALING_PATHWAY","NONE",-0.0384,-1.17,0.282,0.376
+"(Reactome) Phospholipase C-mediated cascade","REACTOME_PHOSPHOLIPASE_C_MEDIATED_CASCADE","NONE",0.0502,1.17,0.283,0.378
+"(KEGG) ECM-receptor interaction","KEGG_ECM_RECEPTOR_INTERACTION","NONE",0.0205,1.17,0.284,0.378
+"(KEGG) Starch and sucrose metabolism","KEGG_STARCH_AND_SUCROSE_METABOLISM","NONE",0.0822,1.16,0.286,0.381
+"(Reactome) Rap1 signalling","REACTOME_RAP1_SIGNALLING","NONE",0.0417,1.16,0.288,0.384
+"(KEGG) Fructose and mannose metabolism","KEGG_FRUCTOSE_AND_MANNOSE_METABOLISM","NONE",0.0885,1.16,0.289,0.384
+"(Reactome) Late Phase of HIV Life Cycle","REACTOME_LATE_PHASE_OF_HIV_LIFE_CYCLE","NONE",-0.0243,-1.15,0.292,0.387
+"(PID) LPA receptor mediated events","PID_LYSOPHOSPHOLIPID_PATHWAY","NONE",0.0661,1.14,0.296,0.393
+"(Reactome) Ion transport by P-type ATPases","REACTOME_ION_TRANSPORT_BY_P_TYPE_ATPASES","NONE",-0.0511,-1.13,0.3,0.397
+"(Reactome) Cyclin E associated events during G1/S transition ","REACTOME_CYCLIN_E_ASSOCIATED_EVENTS_DURING_G1_S_TRANSITION_","NONE",0.0379,1.12,0.302,0.399
+"(Reactome) Metabolism of polyamines","REACTOME_METABOLISM_OF_POLYAMINES","NONE",0.0415,1.12,0.304,0.401
+"(Reactome) Ca-dependent events","REACTOME_CA_DEPENDENT_EVENTS","NONE",0.0457,1.11,0.306,0.404
+"(Naba) Ensemble of genes encoding ECM-associated proteins including ECM-affilaited proteins, ECM regulators and secreted factors","NABA_MATRISOME_ASSOCIATED","NONE",0.0232,1.11,0.307,0.404
+"(Reactome) Activated TLR4 signalling","REACTOME_ACTIVATED_TLR4_SIGNALLING","NONE",0.0232,1.1,0.309,0.407
+"(Reactome) Synthesis of PC","REACTOME_SYNTHESIS_OF_PC","NONE",-0.0469,-1.1,0.309,0.407
+"(Reactome) Signaling by ERBB2","REACTOME_SIGNALING_BY_ERBB2","NONE",0.0243,1.09,0.316,0.415
+"(BioCarta) Control of skeletal myogenesis by HDAC and calcium/calmodulin-dependent kinase (CaMK)","BIOCARTA_HDAC_PATHWAY","NONE",0.037,1.08,0.317,0.416
+"(Reactome) Thromboxane signalling through TP receptor","REACTOME_THROMBOXANE_SIGNALLING_THROUGH_TP_RECEPTOR","NONE",-0.0454,-1.08,0.319,0.418
+"(BioCarta) The IGF-1 Receptor and Longevity","BIOCARTA_LONGEVITY_PATHWAY","NONE",0.0392,1.08,0.321,0.42
+"(PID) Validated transcriptional targets of TAp63 isoforms","PID_TAP63_PATHWAY","NONE",-0.0841,-1.07,0.321,0.42
+"(Reactome) Deposition of New CENPA-containing Nucleosomes at the Centromere","REACTOME_DEPOSITION_OF_NEW_CENPA_CONTAINING_NUCLEOSOMES_AT_THE_CENTROMERE","NONE",-0.0331,-1.07,0.322,0.42
+"(Reactome) Regulatory RNA pathways","REACTOME_REGULATORY_RNA_PATHWAYS","NONE",-0.0325,-1.07,0.325,0.423
+"(KEGG) N-Glycan biosynthesis","KEGG_N_GLYCAN_BIOSYNTHESIS","NONE",-0.0282,-1.06,0.326,0.424
+"(Reactome) Lipoprotein metabolism","REACTOME_LIPOPROTEIN_METABOLISM","NONE",-0.0605,-1.06,0.326,0.425
+"(BioCarta) PDGF Signaling Pathway","BIOCARTA_PDGF_PATHWAY","NONE",-0.0207,-1.06,0.327,0.425
+"(Reactome) Signal amplification","REACTOME_SIGNAL_AMPLIFICATION","NONE",-0.0399,-1.05,0.329,0.427
+"(KEGG) Glycerolipid metabolism","KEGG_GLYCEROLIPID_METABOLISM","NONE",-0.0297,-1.05,0.33,0.428
+"(BioCarta) Nitric Oxide Signaling Pathway","BIOCARTA_NOS1_PATHWAY","NONE",0.0457,1.04,0.335,0.434
+"(KEGG) Apoptosis","KEGG_APOPTOSIS","NONE",0.0259,1.04,0.338,0.436
+"(Reactome) Glucagon-type ligand receptors","REACTOME_GLUCAGON_TYPE_LIGAND_RECEPTORS","NONE",-0.022,-1.03,0.338,0.436
+"(BioCarta) B Cell Survival Pathway","BIOCARTA_BCELLSURVIVAL_PATHWAY","NONE",0.0341,1.03,0.338,0.436
+"(Reactome) Nucleotide Excision Repair","REACTOME_NUCLEOTIDE_EXCISION_REPAIR","NONE",-0.0314,-1.03,0.338,0.436
+"(Reactome) Aquaporin-mediated transport","REACTOME_AQUAPORIN_MEDIATED_TRANSPORT","NONE",0.057,1.03,0.339,0.436
+"(Reactome) Regulation of Water Balance by Renal Aquaporins","REACTOME_REGULATION_OF_WATER_BALANCE_BY_RENAL_AQUAPORINS","NONE",0.057,1.03,0.339,0.436
+"(PID) Fc-epsilon receptor I signaling in mast cells","PID_FCER1_PATHWAY","NONE",-0.0296,-1.03,0.339,0.436
+"(PID) Plasma membrane estrogen receptor signaling","PID_ER_NONGENOMIC_PATHWAY","NONE",0.0283,1.02,0.343,0.44
+"(BioCarta) Sonic Hedgehog (SHH) Receptor Ptc1 Regulates cell cycle","BIOCARTA_PTC1_PATHWAY","NONE",0.0407,1.02,0.344,0.441
+"(Reactome) MicroRNA (miRNA) Biogenesis","REACTOME_MICRORNA_MIRNA_BIOGENESIS","NONE",-0.0289,-1.02,0.346,0.443
+"(BioCarta) Cadmium induces DNA synthesis and proliferation in macrophages","BIOCARTA_CDMAC_PATHWAY","NONE",0.0372,1.01,0.347,0.443
+"(Reactome) Downstream signal transduction","REACTOME_DOWNSTREAM_SIGNAL_TRANSDUCTION","NONE",0.0244,1.01,0.347,0.443
+"(Reactome) SHC-mediated signalling","REACTOME_SHC_MEDIATED_SIGNALLING","NONE",-0.0391,-1.01,0.347,0.443
+"(PID) IL1-mediated signaling events","PID_IL1_PATHWAY","NONE",0.0462,1.01,0.351,0.447
+"(Reactome) Platelet Aggregation (Plug Formation)","REACTOME_PLATELET_AGGREGATION_PLUG_FORMATION","NONE",-0.0435,-1.01,0.351,0.447
+"(BioCarta) Role of fl-arrestins in the activation and targeting of MAP kinases","BIOCARTA_BARR_MAPK_PATHWAY","NONE",-0.0355,-1,0.353,0.449
+"(Reactome) Regulation of ornithine decarboxylase (ODC)","REACTOME_REGULATION_OF_ORNITHINE_DECARBOXYLASE_ODC","NONE",0.0425,0.998,0.354,0.45
+"(KEGG) Cytokine-cytokine receptor interaction","KEGG_CYTOKINE_CYTOKINE_RECEPTOR_INTERACTION","NONE",-0.0264,-0.988,0.359,0.455
+"(Reactome) Antigen processing-Cross presentation","REACTOME_ANTIGEN_PROCESSING_CROSS_PRESENTATION","NONE",0.0377,0.986,0.36,0.456
+"(Reactome) Proteolytic cleavage of SNARE complex proteins","REACTOME_PROTEOLYTIC_CLEAVAGE_OF_SNARE_COMPLEX_PROTEINS","NONE",-0.0541,-0.985,0.36,0.456
+"(Reactome) Integrin alphaIIb beta3 signaling","REACTOME_INTEGRIN_ALPHAIIB_BETA3_SIGNALING","NONE",-0.0441,-0.983,0.361,0.457
+"(KEGG) Huntington's disease","KEGG_HUNTINGTONS_DISEASE","NONE",-0.0574,-0.981,0.362,0.457
+"(Reactome) Destabilization of mRNA by Butyrate Response Factor 1 (BRF1)","REACTOME_DESTABILIZATION_OF_MRNA_BY_BRF1","NONE",-0.0233,-0.971,0.366,0.462
+"(PID) Signaling events mediated by HDAC Class III","PID_HDAC_CLASSIII_PATHWAY","NONE",-0.0327,-0.959,0.372,0.469
+"(Reactome) Prostacyclin signalling through prostacyclin receptor","REACTOME_PROSTACYCLIN_SIGNALLING_THROUGH_PROSTACYCLIN_RECEPTOR","NONE",-0.0228,-0.956,0.373,0.47
+"(Reactome) Generic Transcription Pathway","REACTOME_GENERIC_TRANSCRIPTION_PATHWAY","NONE",0.0453,0.949,0.377,0.474
+"(PID) PAR4-mediated thrombin signaling events","PID_THROMBIN_PAR4_PATHWAY","NONE",0.0507,0.947,0.378,0.474
+"(BioCarta) TNF/Stress Related Signaling","BIOCARTA_STRESS_PATHWAY","NONE",-0.0403,-0.946,0.378,0.474
+"(Reactome) Glucagon signaling in metabolic regulation","REACTOME_GLUCAGON_SIGNALING_IN_METABOLIC_REGULATION","NONE",0.0475,0.936,0.383,0.479
+"(Reactome) Steroid hormones","REACTOME_STEROID_HORMONES","NONE",-0.0711,-0.936,0.383,0.479
+"(Reactome) PERK regulated gene expression","REACTOME_PERK_REGULATED_GENE_EXPRESSION","NONE",0.0174,0.927,0.387,0.484
+"(Reactome) Fatty Acyl-CoA Biosynthesis","REACTOME_FATTY_ACYL_COA_BIOSYNTHESIS","NONE",0.109,0.925,0.388,0.485
+"(STKE) G alpha 13 Pathway","ST_GA13_PATHWAY","NONE",0.0398,0.923,0.389,0.486
+"(Reactome) HIV Infection","REACTOME_HIV_INFECTION","NONE",-0.0237,-0.92,0.391,0.487
+"(PID) S1P2 pathway","PID_S1P_S1P2_PATHWAY","NONE",-0.0448,-0.919,0.391,0.487
+"(Reactome) Pyruvate metabolism","REACTOME_PYRUVATE_METABOLISM","NONE",0.0571,0.907,0.397,0.494
+"(BioCarta) Sprouty regulation of tyrosine kinase signals","BIOCARTA_SPRY_PATHWAY","NONE",-0.0466,-0.906,0.398,0.494
+"(Reactome) Signaling by Wnt","REACTOME_SIGNALING_BY_WNT","NONE",0.0248,0.899,0.401,0.497
+"(Reactome) Chondroitin sulfate/dermatan sulfate metabolism","REACTOME_CHONDROITIN_SULFATE_DERMATAN_SULFATE_METABOLISM","NONE",-0.0414,-0.897,0.402,0.498
+"(Reactome) SCF(Skp2)-mediated degradation of p27/p21","REACTOME_SCFSKP2_MEDIATED_DEGRADATION_OF_P27_P21","NONE",0.0381,0.896,0.402,0.498
+"(Reactome) eNOS activation and regulation","REACTOME_ENOS_ACTIVATION_AND_REGULATION","NONE",0.03,0.891,0.405,0.5
+"(KEGG) Primary immunodeficiency","KEGG_PRIMARY_IMMUNODEFICIENCY","NONE",-0.0353,-0.891,0.405,0.5
+"(Reactome) Destabilization of mRNA by Tristetraprolin (TTP)","REACTOME_DESTABILIZATION_OF_MRNA_BY_TRISTETRAPROLIN_TTP","NONE",-0.0221,-0.889,0.406,0.501
+"(PID) Notch-mediated HES/HEY network","PID_HES_HEY_PATHWAY","NONE",0.0308,0.886,0.407,0.502
+"(Reactome) Pre-NOTCH Processing in Golgi","REACTOME_PRE_NOTCH_PROCESSING_IN_GOLGI","NONE",-0.0197,-0.886,0.407,0.502
+"(Reactome) Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways","REACTOME_NUCLEOTIDE_BINDING_DOMAIN_LEUCINE_RICH_REPEAT_CONTAINING_RECEPTOR_NLR_SIGNALING_PATHWAYS","NONE",-0.019,-0.883,0.409,0.503
+"(Reactome) Regulation of mRNA Stability by Proteins that Bind AU-rich Elements","REACTOME_REGULATION_OF_MRNA_STABILITY_BY_PROTEINS_THAT_BIND_AU_RICH_ELEMENTS","NONE",-0.0287,-0.882,0.41,0.503
+"(KEGG) Porphyrin and chlorophyll metabolism","KEGG_PORPHYRIN_AND_CHLOROPHYLL_METABOLISM","NONE",0.0713,0.878,0.411,0.505
+"(Reactome) Sulfur amino acid metabolism","REACTOME_SULFUR_AMINO_ACID_METABOLISM","NONE",-0.039,-0.876,0.413,0.506
+"(Reactome) Formation of incision complex in GG-NER","REACTOME_FORMATION_OF_INCISION_COMPLEX_IN_GG_NER","NONE",-0.0355,-0.874,0.413,0.506
+"(PID) RAC1 signaling pathway","PID_RAC1_PATHWAY","NONE",0.0163,0.873,0.414,0.506
+"(BioCarta) mTOR Signaling Pathway","BIOCARTA_MTOR_PATHWAY","NONE",-0.0331,-0.872,0.415,0.506
+"(STKE) Integrin Signaling Pathway","ST_INTEGRIN_SIGNALING_PATHWAY","NONE",-0.0185,-0.872,0.415,0.506
+"(BioCarta) Downregulated of MTA-3 in ER-negative Breast Tumors","BIOCARTA_MTA3_PATHWAY","NONE",-0.0362,-0.867,0.417,0.509
+"(PID) BMP receptor signaling","PID_BMP_PATHWAY","NONE",0.05,0.863,0.419,0.51
+"(Reactome) G alpha (z) signalling events","REACTOME_G_ALPHA_Z_SIGNALLING_EVENTS","NONE",-0.0335,-0.857,0.422,0.514
+"(KEGG) mTOR signaling pathway","KEGG_MTOR_SIGNALING_PATHWAY","NONE",-0.0319,-0.855,0.423,0.514
+"(BioCarta) EPO Signaling Pathway","BIOCARTA_EPO_PATHWAY","NONE",-0.0151,-0.854,0.424,0.514
+"(Reactome) Glycosaminoglycan metabolism","REACTOME_GLYCOSAMINOGLYCAN_METABOLISM","NONE",0.0225,0.849,0.426,0.517
+"(Reactome) Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.","REACTOME_RESPIRATORY_ELECTRON_TRANSPORT_ATP_SYNTHESIS_BY_CHEMIOSMOTIC_COUPLING_AND_HEAT_PRODUCTION_BY_UNCOUPLING_PROTEINS_","NONE",-0.0861,-0.832,0.435,0.527
+"(Reactome) Regulation of signaling by CBL","REACTOME_REGULATION_OF_SIGNALING_BY_CBL","NONE",-0.0344,-0.829,0.436,0.528
+"(KEGG) Neurotrophin signaling pathway","KEGG_NEUROTROPHIN_SIGNALING_PATHWAY","NONE",0.0211,0.823,0.44,0.531
+"(KEGG) Protein export","KEGG_PROTEIN_EXPORT","NONE",0.0296,0.815,0.444,0.536
+"(KEGG) Phosphatidylinositol signaling system","KEGG_PHOSPHATIDYLINOSITOL_SIGNALING_SYSTEM","NONE",0.015,0.81,0.447,0.539
+"(Reactome) Regulation of pyruvate dehydrogenase (PDH) complex","REACTOME_REGULATION_OF_PYRUVATE_DEHYDROGENASE_PDH_COMPLEX","NONE",0.0553,0.806,0.449,0.541
+"(BioCarta) CCR3 signaling in Eosinophils","BIOCARTA_CCR3_PATHWAY","NONE",-0.0151,-0.804,0.45,0.541
+"(Reactome) Signaling by NOTCH","REACTOME_SIGNALING_BY_NOTCH","NONE",-0.0296,-0.798,0.453,0.545
+"(Reactome) Synthesis of very long-chain fatty acyl-CoAs","REACTOME_SYNTHESIS_OF_VERY_LONG_CHAIN_FATTY_ACYL_COAS","NONE",0.0898,0.795,0.455,0.546
+"(PID) Sphingosine 1-phosphate (S1P) pathway","PID_S1P_META_PATHWAY","NONE",0.0443,0.793,0.456,0.547
+"(BioCarta) IGF-1 Signaling Pathway","BIOCARTA_IGF1_PATHWAY","NONE",0.0322,0.788,0.459,0.549
+"(Reactome) Costimulation by the CD28 family","REACTOME_COSTIMULATION_BY_THE_CD28_FAMILY","NONE",-0.0226,-0.788,0.459,0.549
+"(PID) RXR and RAR heterodimerization with other nuclear receptor","PID_RXR_VDR_PATHWAY","NONE",-0.022,-0.786,0.46,0.549
+"(KEGG) Limonene and pinene degradation","KEGG_LIMONENE_AND_PINENE_DEGRADATION","NONE",0.0291,0.786,0.46,0.549
+"(KEGG) TGF-beta signaling pathway","KEGG_TGF_BETA_SIGNALING_PATHWAY","NONE",-0.0334,-0.782,0.462,0.551
+"(BioCarta) CD40L Signaling Pathway","BIOCARTA_CD40_PATHWAY","NONE",-0.0442,-0.78,0.463,0.552
+"(Reactome) Abortive elongation of HIV-1 transcript in the absence of Tat","REACTOME_ABORTIVE_ELONGATION_OF_HIV1_TRANSCRIPT_IN_THE_ABSENCE_OF_TAT","NONE",0.0215,0.78,0.463,0.552
+"(KEGG) Aldosterone-regulated sodium reabsorption","KEGG_ALDOSTERONE_REGULATED_SODIUM_REABSORPTION","NONE",-0.0216,-0.775,0.466,0.554
+"(KEGG) Galactose metabolism","KEGG_GALACTOSE_METABOLISM","NONE",-0.0595,-0.769,0.469,0.557
+"(BioCarta) Regulation of p27 Phosphorylation during Cell Cycle Progression","BIOCARTA_P27_PATHWAY","NONE",0.0205,0.745,0.482,0.573
+"(KEGG) GnRH signaling pathway","KEGG_GNRH_SIGNALING_PATHWAY","NONE",-0.0204,-0.735,0.488,0.578
+"(BioCarta) Mechanism of Gene Regulation by Peroxisome Proliferators via PPARa(alpha)","BIOCARTA_PPARA_PATHWAY","NONE",-0.0231,-0.735,0.488,0.578
+"(BioCarta) Acute Myocardial Infarction","BIOCARTA_AMI_PATHWAY","NONE",0.0367,0.731,0.49,0.58
+"(Reactome) MyD88:Mal cascade initiated on plasma membrane","REACTOME_MYD88_MAL_CASCADE_INITIATED_ON_PLASMA_MEMBRANE","NONE",0.015,0.73,0.491,0.58
+"(Signaling Gateway) Genes related to PIP3 signaling in cardiac myocytes","SIG_PIP3_SIGNALING_IN_CARDIAC_MYOCTES","NONE",0.0186,0.721,0.496,0.585
+"(KEGG) Amino sugar and nucleotide sugar metabolism","KEGG_AMINO_SUGAR_AND_NUCLEOTIDE_SUGAR_METABOLISM","NONE",-0.0311,-0.718,0.498,0.587
+"(Signaling Gateway) Genes related to the insulin receptor pathway","SIG_INSULIN_RECEPTOR_PATHWAY_IN_CARDIAC_MYOCYTES","NONE",0.0186,0.705,0.506,0.596
+"(BioCarta) Corticosteroids and cardioprotection","BIOCARTA_GCR_PATHWAY","NONE",0.0285,0.699,0.509,0.599
+"(Reactome) Antigen Activates B Cell Receptor Leading to Generation of Second Messengers","REACTOME_ANTIGEN_ACTIVATES_B_CELL_RECEPTOR_LEADING_TO_GENERATION_OF_SECOND_MESSENGERS","NONE",-0.0163,-0.698,0.51,0.599
+"(Reactome) Triglyceride Biosynthesis","REACTOME_TRIGLYCERIDE_BIOSYNTHESIS","NONE",-0.0514,-0.697,0.51,0.599
+"(Reactome) GPCR downstream signaling","REACTOME_GPCR_DOWNSTREAM_SIGNALING","NONE",0.0217,0.691,0.514,0.602
+"(Reactome) Signaling by FGFR","REACTOME_SIGNALING_BY_FGFR","NONE",0.0216,0.68,0.52,0.609
+"(Reactome) Signaling by NODAL","REACTOME_SIGNALING_BY_NODAL","NONE",0.0381,0.677,0.522,0.611
+"(BioCarta) TACI and BCMA stimulation of B cell immune responses.","BIOCARTA_TALL1_PATHWAY","NONE",-0.0349,-0.674,0.523,0.612
+"(PID) Nephrin/Neph1 signaling in the kidney podocyte","PID_NEPHRIN_NEPH1_PATHWAY","NONE",-0.0383,-0.673,0.524,0.613
+"(BioCarta) EGF Signaling Pathway","BIOCARTA_EGF_PATHWAY","NONE",0.0145,0.663,0.53,0.619
+"(Reactome) ADP signalling through P2Y purinoceptor 12","REACTOME_ADP_SIGNALLING_THROUGH_P2RY12","NONE",0.0145,0.657,0.534,0.623
+"(PID) EPO signaling pathway","PID_EPO_PATHWAY","NONE",-0.0116,-0.651,0.538,0.626
+"(KEGG) Vibrio cholerae infection","KEGG_VIBRIO_CHOLERAE_INFECTION","NONE",0.021,0.629,0.551,0.641
+"(BioCarta) Intrinsic Prothrombin Activation Pathway","BIOCARTA_INTRINSIC_PATHWAY","NONE",-0.0148,-0.627,0.552,0.641
+"(Reactome) Formation of tubulin folding intermediates by CCT/TriC","REACTOME_FORMATION_OF_TUBULIN_FOLDING_INTERMEDIATES_BY_CCT_TRIC","NONE",0.0636,0.619,0.557,0.647
+"(BioCarta) Nerve growth factor pathway (NGF)","BIOCARTA_NGF_PATHWAY","NONE",0.0201,0.611,0.562,0.652
+"(KEGG) Proteasome","KEGG_PROTEASOME","NONE",0.0267,0.595,0.572,0.663
+"(Reactome) Signaling by ERBB4","REACTOME_SIGNALING_BY_ERBB4","NONE",0.0103,0.594,0.573,0.663
+"(KEGG) Oxidative phosphorylation","KEGG_OXIDATIVE_PHOSPHORYLATION","NONE",-0.0519,-0.59,0.575,0.665
+"(PID) Atypical NF-kappaB pathway","PID_NFKAPPAB_ATYPICAL_PATHWAY","NONE",-0.0189,-0.584,0.579,0.669
+"(BioCarta) T Cell Receptor Signaling Pathway","BIOCARTA_TCR_PATHWAY","NONE",-0.018,-0.58,0.582,0.671
+"(Reactome) Protein folding","REACTOME_PROTEIN_FOLDING","NONE",0.0323,0.578,0.583,0.672
+"(BioCarta) Insulin Signaling Pathway","BIOCARTA_INSULIN_PATHWAY","NONE",-0.0267,-0.577,0.583,0.672
+"(KEGG) Tight junction","KEGG_TIGHT_JUNCTION","NONE",-0.0125,-0.575,0.585,0.673
+"(Reactome) Glutamate Neurotransmitter Release Cycle","REACTOME_GLUTAMATE_NEUROTRANSMITTER_RELEASE_CYCLE","NONE",-0.0141,-0.574,0.586,0.673
+"(Reactome) Signaling by Rho GTPases","REACTOME_SIGNALING_BY_RHO_GTPASES","NONE",0.0145,0.573,0.586,0.673
+"(BioCarta) RB Tumor Suppressor/Checkpoint Signaling in response to DNA damage","BIOCARTA_RB_PATHWAY","NONE",0.0186,0.571,0.587,0.674
+"(PID) FoxO family signaling","PID_FOXO_PATHWAY","NONE",0.0222,0.563,0.592,0.679
+"(PID) IL3-mediated signaling events","PID_IL3_PATHWAY","NONE",0.011,0.56,0.594,0.679
+"(Reactome) The citric acid (TCA) cycle and respiratory electron transport","REACTOME_TCA_CYCLE_AND_RESPIRATORY_ELECTRON_TRANSPORT","NONE",-0.0558,-0.56,0.594,0.679
+"(Reactome) Metabolism of porphyrins","REACTOME_METABOLISM_OF_PORPHYRINS","NONE",0.051,0.559,0.595,0.679
+"(PID) Regulation of Telomerase","PID_TELOMERASE_PATHWAY","NONE",-0.00944,-0.55,0.601,0.686
+"(PID) Insulin Pathway","PID_INSULIN_PATHWAY","NONE",-0.00908,-0.549,0.601,0.686
+"(PID) Signaling events mediated by HDAC Class II","PID_HDAC_CLASSII_PATHWAY","NONE",0.0113,0.546,0.604,0.687
+"(Reactome) Basigin interactions","REACTOME_BASIGIN_INTERACTIONS","NONE",0.0288,0.543,0.605,0.689
+"(Reactome) Phase II conjugation","REACTOME_PHASE_II_CONJUGATION","NONE",0.0279,0.539,0.608,0.691
+"(Reactome) G alpha (s) signalling events","REACTOME_G_ALPHA_S_SIGNALLING_EVENTS","NONE",-0.0223,-0.535,0.61,0.693
+"(Reactome) NOTCH1 Intracellular Domain Regulates Transcription","REACTOME_NOTCH1_INTRACELLULAR_DOMAIN_REGULATES_TRANSCRIPTION","NONE",0.0175,0.531,0.613,0.695
+"(SigmaAldrich) The TrkA receptor binds nerve growth factor to activate MAP kinase pathways and promote cell growth.","SA_TRKA_RECEPTOR","NONE",-0.0146,-0.53,0.614,0.695
+"(Reactome) Destabilization of mRNA by KSRP","REACTOME_DESTABILIZATION_OF_MRNA_BY_KSRP","NONE",-0.0109,-0.53,0.614,0.695
+"(Naba) Ensemble of genes encoding core extracellular matrix including ECM glycoproteins, collagens and proteoglycans","NABA_CORE_MATRISOME","NONE",-0.013,-0.529,0.614,0.695
+"(Reactome) RIP-mediated NFkB activation via DAI","REACTOME_RIP_MEDIATED_NFKB_ACTIVATION_VIA_DAI","NONE",0.0211,0.525,0.617,0.697
+"(Reactome) G-protein activation","REACTOME_G_PROTEIN_ACTIVATION","NONE",0.0119,0.513,0.625,0.705
+"(KEGG) Alanine, aspartate and glutamate metabolism","KEGG_ALANINE_ASPARTATE_AND_GLUTAMATE_METABOLISM","NONE",0.0293,0.512,0.626,0.705
+"(Reactome) Cyclin A/B1 associated events during G2/M transition","REACTOME_CYCLIN_A_B1_ASSOCIATED_EVENTS_DURING_G2_M_TRANSITION","NONE",0.0119,0.508,0.629,0.708
+"(Naba) Ensemble of genes encoding extracellular matrix and extracellular matrix-associated proteins ","NABA_MATRISOME","NONE",0.011,0.501,0.633,0.711
+"(Reactome) RNA Polymerase II Transcription","REACTOME_RNA_POL_II_TRANSCRIPTION","NONE",-0.0118,-0.501,0.633,0.711
+"(PID) Endothelins","PID_ENDOTHELIN_PATHWAY","NONE",-0.017,-0.501,0.633,0.711
+"(Reactome) Cross-presentation of soluble exogenous antigens (endosomes)","REACTOME_CROSS_PRESENTATION_OF_SOLUBLE_EXOGENOUS_ANTIGENS_ENDOSOMES","NONE",0.0224,0.499,0.634,0.711
+"(Reactome) Prefoldin mediated transfer of substrate  to CCT/TriC","REACTOME_PREFOLDIN_MEDIATED_TRANSFER_OF_SUBSTRATE_TO_CCT_TRIC","NONE",0.0339,0.491,0.64,0.716
+"(Reactome) ER-Phagosome pathway","REACTOME_ER_PHAGOSOME_PATHWAY","NONE",0.0227,0.491,0.64,0.716
+"(Reactome) APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1","REACTOME_APC_C_CDH1_MEDIATED_DEGRADATION_OF_CDC20_AND_OTHER_APC_C_CDH1_TARGETED_PROTEINS_IN_LATE_MITOSIS_EARLY_G1","NONE",-0.0143,-0.487,0.643,0.719
+"(BioCarta) HIV-I Nef: negative effector of Fas and TNF","BIOCARTA_HIVNEF_PATHWAY","NONE",0.0139,0.479,0.648,0.724
+"(Reactome) Diabetes pathways","REACTOME_DIABETES_PATHWAYS","NONE",0.00916,0.476,0.65,0.725
+"(Reactome) Chondroitin sulfate biosynthesis","REACTOME_CHONDROITIN_SULFATE_BIOSYNTHESIS","NONE",0.027,0.468,0.656,0.731
+"(Reactome) JNK (c-Jun kinases) phosphorylation and  activation mediated by activated human TAK1","REACTOME_JNK_C_JUN_KINASES_PHOSPHORYLATION_AND_ACTIVATION_MEDIATED_BY_ACTIVATED_HUMAN_TAK1","NONE",0.0239,0.465,0.657,0.732
+"(BioCarta) IL-2 Receptor Beta Chain in T cell Activation","BIOCARTA_IL2RB_PATHWAY","NONE",-0.0085,-0.462,0.659,0.733
+"(Reactome) Respiratory electron transport","REACTOME_RESPIRATORY_ELECTRON_TRANSPORT","NONE",-0.0502,-0.461,0.66,0.733
+"(Reactome) Collagen formation","REACTOME_COLLAGEN_FORMATION","NONE",0.0176,0.453,0.666,0.739
+"(Reactome) Phospholipid metabolism","REACTOME_PHOSPHOLIPID_METABOLISM","NONE",-0.00799,-0.442,0.673,0.746
+"(PID) EPHA2 forward signaling","PID_EPHA2_FWD_PATHWAY","NONE",-0.0112,-0.435,0.678,0.751
+"(PID) PDGFR-alpha signaling pathway","PID_PDGFRA_PATHWAY","NONE",-0.0125,-0.431,0.68,0.753
+"(STKE) G alpha i Pathway","ST_G_ALPHA_I_PATHWAY","NONE",-0.00946,-0.426,0.684,0.757
+"(Reactome) Cell surface interactions at the vascular wall","REACTOME_CELL_SURFACE_INTERACTIONS_AT_THE_VASCULAR_WALL","NONE",0.0115,0.422,0.686,0.759
+"(PID) Aurora B signaling","PID_AURORA_B_PATHWAY","NONE",0.0083,0.411,0.694,0.766
+"(Reactome) CDT1 association with the CDC6:ORC:origin complex","REACTOME_CDT1_ASSOCIATION_WITH_THE_CDC6_ORC_ORIGIN_COMPLEX","NONE",-0.0151,-0.406,0.698,0.77
+"(PID) Trk receptor signaling mediated by the MAPK pathway","PID_MAPK_TRK_PATHWAY","NONE",-0.0114,-0.4,0.702,0.774
+"(PID) Signaling events mediated by HDAC Class I","PID_HDAC_CLASSI_PATHWAY","NONE",-0.00974,-0.397,0.704,0.775
+"(PID) LPA4-mediated signaling events","PID_LPA4_PATHWAY","NONE",-0.0367,-0.392,0.708,0.779
+"(PID) Glucocorticoid receptor regulatory network","PID_REG_GR_PATHWAY","NONE",-0.00798,-0.389,0.71,0.78
+"(Reactome) Voltage gated Potassium channels","REACTOME_VOLTAGE_GATED_POTASSIUM_CHANNELS","NONE",-0.0214,-0.387,0.712,0.78
+"(KEGG) Citrate cycle (TCA cycle)","KEGG_CITRATE_CYCLE_TCA_CYCLE","NONE",-0.0546,-0.386,0.712,0.78
+"(PID) JNK signaling in the CD4+ TCR pathway","PID_TCR_JNK_PATHWAY","NONE",0.0205,0.385,0.713,0.78
+"(Reactome) Striated Muscle Contraction","REACTOME_STRIATED_MUSCLE_CONTRACTION","NONE",0.0109,0.384,0.713,0.78
+"(BioCarta) Proteasome Complex","BIOCARTA_PROTEASOME_PATHWAY","NONE",0.0184,0.38,0.716,0.783
+"(BioCarta) Endocytotic role of NDK, Phosphins and Dynamin","BIOCARTA_NDKDYNAMIN_PATHWAY","NONE",0.013,0.376,0.719,0.785
+"(STKE) Wnt/Ca2+/cyclic GMP signaling.","ST_WNT_CA2_CYCLIC_GMP_PATHWAY","NONE",0.0106,0.376,0.719,0.785
+"(KEGG) Homologous recombination","KEGG_HOMOLOGOUS_RECOMBINATION","NONE",0.0109,0.373,0.721,0.786
+"(PID) DNA-PK pathway in nonhomologous end joining","PID_DNA_PK_PATHWAY","NONE",0.0126,0.372,0.722,0.786
+"(Reactome) Homologous recombination repair of replication-independent double-strand breaks","REACTOME_HOMOLOGOUS_RECOMBINATION_REPAIR_OF_REPLICATION_INDEPENDENT_DOUBLE_STRAND_BREAKS","NONE",-0.0102,-0.37,0.724,0.787
+"(STKE) T Cell Signal Transduction","ST_T_CELL_SIGNAL_TRANSDUCTION","NONE",-0.0105,-0.368,0.725,0.787
+"(Reactome) Metabolism of amino acids and derivatives","REACTOME_METABOLISM_OF_AMINO_ACIDS_AND_DERIVATIVES","NONE",0.0173,0.367,0.725,0.787
+"(KEGG) Intestinal immune network for IgA production","KEGG_INTESTINAL_IMMUNE_NETWORK_FOR_IGA_PRODUCTION","NONE",0.0105,0.367,0.725,0.787
+"(PID) Stabilization and expansion of the E-cadherin adherens junction","PID_ECADHERIN_STABILIZATION_PATHWAY","NONE",-0.0139,-0.365,0.726,0.787
+"(BioCarta) Vitamin C in the Brain","BIOCARTA_VITCB_PATHWAY","NONE",0.0147,0.357,0.732,0.793
+"(KEGG) Valine, leucine and isoleucine degradation","KEGG_VALINE_LEUCINE_AND_ISOLEUCINE_DEGRADATION","NONE",0.0212,0.354,0.734,0.794
+"(KEGG) Alzheimer's disease","KEGG_ALZHEIMERS_DISEASE","NONE",-0.0202,-0.354,0.735,0.794
+"(KEGG) Pantothenate and CoA biosynthesis","KEGG_PANTOTHENATE_AND_COA_BIOSYNTHESIS","NONE",-0.0256,-0.352,0.736,0.795
+"(BioCarta) WNT Signaling Pathway","BIOCARTA_WNT_PATHWAY","NONE",0.0172,0.35,0.737,0.795
+"(Reactome) Destabilization of mRNA by AUF1 (hnRNP D0)","REACTOME_DESTABILIZATION_OF_MRNA_BY_AUF1_HNRNP_D0","NONE",-0.0179,-0.349,0.738,0.795
+"(Reactome) Regulation of Insulin Secretion","REACTOME_REGULATION_OF_INSULIN_SECRETION","NONE",-0.00719,-0.349,0.739,0.795
+"(PID) Ras signaling in the CD4+ TCR pathway","PID_TCR_RAS_PATHWAY","NONE",0.00614,0.347,0.739,0.795
+"(Reactome) Signaling by GPCR","REACTOME_SIGNALING_BY_GPCR","NONE",0.00874,0.342,0.743,0.799
+"(Reactome) Notch-HLH transcription pathway","REACTOME_NOTCH_HLH_TRANSCRIPTION_PATHWAY","NONE",0.0143,0.34,0.744,0.799
+"(KEGG) Non-homologous end-joining","KEGG_NON_HOMOLOGOUS_END_JOINING","NONE",0.00916,0.332,0.75,0.805
+"(PID) Alpha6 beta4 integrin-ligand interactions","PID_INTEGRIN4_PATHWAY","NONE",0.0219,0.32,0.759,0.813
+"(KEGG) Neuroactive ligand-receptor interaction","KEGG_NEUROACTIVE_LIGAND_RECEPTOR_INTERACTION","NONE",-0.0193,-0.316,0.762,0.816
+"(PID) Canonical Wnt signaling pathway","PID_WNT_CANONICAL_PATHWAY","NONE",-0.00604,-0.312,0.765,0.818
+"(KEGG) Pyruvate metabolism","KEGG_PYRUVATE_METABOLISM","NONE",0.027,0.309,0.767,0.819
+"(PID) Noncanonical Wnt signaling pathway","PID_WNT_NONCANONICAL_PATHWAY","NONE",-0.0129,-0.306,0.769,0.821
+"(PID) ALK1 signaling events","PID_ALK1_PATHWAY","NONE",0.00776,0.304,0.771,0.822
+"(Reactome) PI-3K cascade","REACTOME_PI_3K_CASCADE","NONE",0.013,0.297,0.775,0.826
+"(Reactome) Vif-mediated degradation of APOBEC3G","REACTOME_VIF_MEDIATED_DEGRADATION_OF_APOBEC3G","NONE",0.0139,0.292,0.779,0.83
+"(PID) Regulation of RAC1 activity","PID_RAC1_REG_PATHWAY","NONE",-0.00692,-0.29,0.781,0.83
+"(PID) Caspase cascade in apoptosis","PID_CASPASE_PATHWAY","NONE",0.00669,0.283,0.786,0.835
+"(KEGG) Epithelial cell signaling in Helicobacter pylori infection","KEGG_EPITHELIAL_CELL_SIGNALING_IN_HELICOBACTER_PYLORI_INFECTION","NONE",-0.00672,-0.283,0.786,0.835
+"(BioCarta) Signaling Pathway from G-Protein Families","BIOCARTA_GPCR_PATHWAY","NONE",-0.00928,-0.281,0.788,0.835
+"(Reactome) RNA Polymerase I Transcription Initiation","REACTOME_RNA_POL_I_TRANSCRIPTION_INITIATION","NONE",-0.00702,-0.273,0.793,0.84
+"(Reactome) Resolution of AP sites via the single-nucleotide replacement pathway","REACTOME_RESOLUTION_OF_AP_SITES_VIA_THE_SINGLE_NUCLEOTIDE_REPLACEMENT_PATHWAY","NONE",-0.00809,-0.273,0.794,0.84
+"(Naba) Genes encoding secreted soluble factors","NABA_SECRETED_FACTORS","NONE",-0.00887,-0.271,0.795,0.84
+"(PID) CXCR3-mediated signaling events","PID_CXCR3_PATHWAY","NONE",0.00514,0.271,0.795,0.84
+"(Reactome) Signaling by EGFR in Cancer","REACTOME_SIGNALING_BY_EGFR_IN_CANCER","NONE",-0.00669,-0.27,0.796,0.84
+"(Reactome) Signaling by FGFR in disease","REACTOME_SIGNALING_BY_FGFR_IN_DISEASE","NONE",0.00816,0.265,0.799,0.843
+"(Reactome) Toll Receptor Cascades","REACTOME_TOLL_RECEPTOR_CASCADES","NONE",-0.00467,-0.263,0.801,0.844
+"(PID) IL8- and CXCR1-mediated signaling events","PID_IL8_CXCR1_PATHWAY","NONE",-0.00825,-0.257,0.805,0.847
+"(Reactome) p53-Dependent G1 DNA Damage Response","REACTOME_P53_DEPENDENT_G1_DNA_DAMAGE_RESPONSE","NONE",-0.0116,-0.253,0.808,0.85
+"(KEGG) Cell adhesion molecules (CAMs)","KEGG_CELL_ADHESION_MOLECULES_CAMS","NONE",0.0057,0.248,0.812,0.853
+"(Reactome) Signal transduction by L1","REACTOME_SIGNAL_TRANSDUCTION_BY_L1","NONE",-0.00591,-0.236,0.821,0.862
+"(Reactome) Integration of energy metabolism","REACTOME_INTEGRATION_OF_ENERGY_METABOLISM","NONE",-0.00418,-0.225,0.829,0.869
+"(KEGG) ErbB signaling pathway","KEGG_ERBB_SIGNALING_PATHWAY","NONE",0.00464,0.223,0.831,0.87
+"(Reactome) SCF-beta-TrCP mediated degradation of Emi1","REACTOME_SCF_BETA_TRCP_MEDIATED_DEGRADATION_OF_EMI1","NONE",0.00863,0.215,0.837,0.875
+"(PID) Aurora A signaling","PID_AURORA_A_PATHWAY","NONE",0.00567,0.214,0.837,0.875
+"(Reactome) Autodegradation of the E3 ubiquitin ligase COP1","REACTOME_AUTODEGRADATION_OF_THE_E3_UBIQUITIN_LIGASE_COP1","NONE",-0.00935,-0.21,0.84,0.878
+"(KEGG) Lysine degradation","KEGG_LYSINE_DEGRADATION","NONE",0.00607,0.205,0.844,0.881
+"(PID) Signaling events mediated by focal adhesion kinase","PID_FAK_PATHWAY","NONE",-0.00834,-0.2,0.848,0.884
+"(Reactome) SEMA3A-Plexin repulsion signaling by inhibiting Integrin adhesion","REACTOME_SEMA3A_PLEXIN_REPULSION_SIGNALING_BY_INHIBITING_INTEGRIN_ADHESION","NONE",-0.0207,-0.198,0.849,0.885
+"(Reactome) Citric acid cycle (TCA cycle)","REACTOME_CITRIC_ACID_CYCLE_TCA_CYCLE","NONE",-0.0276,-0.192,0.854,0.888
+"(BioCarta) IL-7 Signal Transduction","BIOCARTA_IL7_PATHWAY","NONE",0.00653,0.187,0.857,0.891
+"(Reactome) Transferrin endocytosis and recycling","REACTOME_TRANSFERRIN_ENDOCYTOSIS_AND_RECYCLING","NONE",-0.00473,-0.186,0.858,0.891
+"(Reactome) PTM: gamma carboxylation, hypusine formation and arylsulfatase activation","REACTOME_PTM_GAMMA_CARBOXYLATION_HYPUSINE_FORMATION_AND_ARYLSULFATASE_ACTIVATION","NONE",-0.00471,-0.178,0.864,0.896
+"(PID) Signaling events mediated by Stem cell factor receptor (c-Kit)","PID_KIT_PATHWAY","NONE",0.00502,0.178,0.865,0.896
+"(Reactome) Nuclear signaling by ERBB4","REACTOME_NUCLEAR_SIGNALING_BY_ERBB4","NONE",-0.00394,-0.175,0.866,0.898
+"(BioCarta) AKT Signaling Pathway","BIOCARTA_AKT_PATHWAY","NONE",0.0174,0.174,0.867,0.898
+"(PID) CXCR4-mediated signaling events","PID_CXCR4_PATHWAY","NONE",-0.00298,-0.172,0.869,0.898
+"(Reactome) Botulinum neurotoxicity","REACTOME_BOTULINUM_NEUROTOXICITY","NONE",0.00923,0.162,0.876,0.905
+"(KEGG) Parkinson's disease","KEGG_PARKINSONS_DISEASE","NONE",-0.0135,-0.161,0.877,0.905
+"(Reactome) GABA synthesis, release, reuptake and degradation","REACTOME_GABA_SYNTHESIS_RELEASE_REUPTAKE_AND_DEGRADATION","NONE",-0.00746,-0.149,0.886,0.914
+"(Reactome) Asparagine N-linked glycosylation","REACTOME_ASPARAGINE_N_LINKED_GLYCOSYLATION","NONE",0.00377,0.147,0.888,0.914
+"(PID) Netrin-mediated signaling events","PID_NETRIN_PATHWAY","NONE",-0.00442,-0.139,0.894,0.92
+"(Reactome) Transport of vitamins, nucleosides, and related molecules","REACTOME_TRANSPORT_OF_VITAMINS_NUCLEOSIDES_AND_RELATED_MOLECULES","NONE",0.00395,0.133,0.898,0.923
+"(BioCarta) PKC-catalyzed phosphorylation of inhibitory phosphoprotein of myosin phosphatase","BIOCARTA_MYOSIN_PATHWAY","NONE",0.00324,0.121,0.907,0.932
+"(Reactome) Adenylate cyclase inhibitory pathway","REACTOME_ADENYLATE_CYCLASE_INHIBITORY_PATHWAY","NONE",0.00962,0.119,0.909,0.933
+"(PID) mTOR signaling pathway","PID_MTOR_4PATHWAY","NONE",0.00201,0.118,0.91,0.933
+"(PID) LKB1 signaling events","PID_LKB1_PATHWAY","NONE",-0.00305,-0.114,0.912,0.935
+"(PID) Arf6 signaling events","PID_ARF6_PATHWAY","NONE",-0.00253,-0.104,0.92,0.942
+"(BioCarta) The 4-1BB-dependent immune response","BIOCARTA_41BB_PATHWAY","NONE",0.00817,0.101,0.922,0.942
+"(STKE) ERK1/ERK2 MAPK Pathway","ST_ERK1_ERK2_MAPK_PATHWAY","NONE",0.00224,0.101,0.922,0.942
+"(Reactome) CDK-mediated phosphorylation and removal of Cdc6","REACTOME_CDK_MEDIATED_PHOSPHORYLATION_AND_REMOVAL_OF_CDC6","NONE",-0.00447,-0.101,0.923,0.942
+"(BioCarta) Toll-Like Receptor Pathway","BIOCARTA_TOLL_PATHWAY","NONE",-0.00373,-0.0964,0.926,0.945
+"(Reactome) CD28 dependent PI3K/Akt signaling","REACTOME_CD28_DEPENDENT_PI3K_AKT_SIGNALING","NONE",-0.00345,-0.0932,0.929,0.946
+"(BioCarta) Activation of Csk by cAMP-dependent Protein Kinase Inhibits Signaling through the T Cell Receptor","BIOCARTA_CSK_PATHWAY","NONE",0.00722,0.092,0.929,0.946
+"(STKE) G alpha q Pathway","ST_GAQ_PATHWAY","NONE",0.00199,0.0702,0.946,0.962
+"(Reactome) p53-Independent G1/S DNA damage checkpoint","REACTOME_P53_INDEPENDENT_G1_S_DNA_DAMAGE_CHECKPOINT","NONE",-0.00324,-0.0677,0.948,0.963
+"(Reactome) L1CAM interactions","REACTOME_L1CAM_INTERACTIONS","NONE",-0.00148,-0.065,0.95,0.964
+"(PID) CD40/CD40L signaling","PID_CD40_PATHWAY","NONE",-0.00353,-0.065,0.95,0.964
+"(Reactome) TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation","REACTOME_TRAF6_MEDIATED_INDUCTION_OF_NFKB_AND_MAP_KINASES_UPON_TLR7_8_OR_9_ACTIVATION","NONE",-0.00133,-0.0636,0.951,0.964
+"(Reactome) NGF signalling via TRKA from the plasma membrane","REACTOME_NGF_SIGNALLING_VIA_TRKA_FROM_THE_PLASMA_MEMBRANE","NONE",0.00122,0.0612,0.953,0.965
+"(BioCarta) Transcription factor CREB and its extracellular signals","BIOCARTA_CREB_PATHWAY","NONE",-0.00217,-0.0567,0.957,0.968
+"(Reactome) Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein","REACTOME_BIOSYNTHESIS_OF_THE_N_GLYCAN_PRECURSOR_DOLICHOL_LIPID_LINKED_OLIGOSACCHARIDE_LLO_AND_TRANSFER_TO_A_NASCENT_PROTEIN","NONE",0.00122,0.0534,0.959,0.969
+"(Reactome) Double-Strand Break Repair","REACTOME_DOUBLE_STRAND_BREAK_REPAIR","NONE",0.00155,0.0431,0.967,0.976
+"(Reactome) Autodegradation of Cdh1 by Cdh1:APC/C","REACTOME_AUTODEGRADATION_OF_CDH1_BY_CDH1_APC_C","NONE",-0.0015,-0.0423,0.968,0.976
+"(PID) Osteopontin-mediated events","PID_AVB3_OPN_PATHWAY","NONE",-0.00186,-0.0402,0.969,0.977
+"(KEGG) SNARE interactions in vesicular transport","KEGG_SNARE_INTERACTIONS_IN_VESICULAR_TRANSPORT","NONE",0.00162,0.037,0.972,0.979
+"(Reactome) Pyruvate metabolism and Citric Acid (TCA) cycle","REACTOME_PYRUVATE_METABOLISM_AND_CITRIC_ACID_TCA_CYCLE","NONE",0.00275,0.0276,0.979,0.985
+"(Naba) Genes encoding enzymes and their regulators involved in the remodeling of the extracellular matrix","NABA_ECM_REGULATORS","NONE",-0.000302,-0.0151,0.988,0.994
+"(Reactome) Transcription-coupled NER (TC-NER)","REACTOME_TRANSCRIPTION_COUPLED_NER_TC_NER","NONE",0.000286,0.0134,0.99,0.994
+"(PID) Regulation of nuclear SMAD2/3 signaling","PID_SMAD2_3NUCLEAR_PATHWAY","NONE",-0.000223,-0.0114,0.991,0.995
+"(Reactome) Vitamin B5 (pantothenate) metabolism","REACTOME_VITAMIN_B5_PANTOTHENATE_METABOLISM","NONE",-0.00043,-0.00887,0.993,0.996
+"(Reactome) ERKs are inactivated","REACTOME_ERKS_ARE_INACTIVATED","NONE",-0.000242,-0.00698,0.995,0.996
+"(PID) FAS (CD95) signaling pathway","PID_FAS_PATHWAY","NONE",-8.93e-05,-0.00322,0.998,0.998
+"(Reactome) Negative regulation of FGFR signaling","REACTOME_NEGATIVE_REGULATION_OF_FGFR_SIGNALING","NONE",-1e-04,-0.00312,0.998,0.998
