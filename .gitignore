@@ -1,6 +1,5 @@
-#.DS_Store
-#.Rhistory
-/filtered_feature_bc_matrix/*
+.DS_Store
+.Rhistory
 # Excluded sensitive data. Refer to the paper for instructions for downloading
 /preprocessed/MAYO/*
 /preprocessed/MSBB/*
