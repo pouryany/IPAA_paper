@@ -1,0 +1,51 @@
+"","MSigDB.name","Pathway.Description","Direction..AD.vs.Control._phospho","logFC_phospho","t_phospho","P.Value_phospho","adj.P.Val_phospho","Direction..AD.vs.Control._gene","logFC_gene","t_gene","P.Value_gene","adj.P.Val_gene"
+"1","BIOCARTA_AGPCR_PATHWAY","(BioCarta) Attenuation of GPCR Signaling","DOWN",-1.13,-4.58,0.000865,0.00232,"DOWN",-0.133,-4.75,0.00261,0.00946
+"68","KEGG_AXON_GUIDANCE","(KEGG) Axon guidance","UP",1.58,5.97,0.000108,0.000423,"UP",0.124,5.54,0.00115,0.00529
+"73","KEGG_CELL_CYCLE","(KEGG) Cell cycle","DOWN",-1.57,-5.46,0.000226,0.000771,"DOWN",-0.186,-10.4,2.89e-05,0.000549
+"94","KEGG_INOSITOL_PHOSPHATE_METABOLISM","(KEGG) Inositol phosphate metabolism","UP",1.33,3.99,0.00229,0.00515,"UP",0.169,8.75,8.23e-05,0.000954
+"97","KEGG_LEISHMANIA_INFECTION","(KEGG) Leishmania infection","UP",2.15,4.15,0.00173,0.00406,"UP",0.138,6.35,0.000537,0.00318
+"130","KEGG_RIBOSOME","(KEGG) Ribosome","DOWN",-5.23,-20.4,7.24e-10,2.02e-07,"DOWN",-0.303,-9.34,5.55e-05,0.000761
+"148","NABA_ECM_AFFILIATED","(Naba) Genes encoding proteins affiliated structurally or functionally to extracellular matrix proteins","UP",2.72,7.26,1.97e-05,0.000111,"UP",0.112,5.96,0.000767,0.00391
+"157","PID_AR_PATHWAY","(PID) Coregulation of Androgen receptor activity","DOWN",-1.18,-5.16,0.000349,0.0011,"DOWN",-0.185,-7.89,0.000152,0.00134
+"163","PID_ATM_PATHWAY","(PID) ATM pathway","DOWN",-2.94,-7.98,8.34e-06,5.95e-05,"DOWN",-0.126,-5.33,0.00142,0.00626
+"168","PID_BETA_CATENIN_DEG_PATHWAY","(PID) Degradation of beta catenin","UP",2.23,4.43,0.00111,0.00276,"UP",0.141,5.15,0.0017,0.00703
+"189","PID_ERA_GENOMIC_PATHWAY","(PID) Validated nuclear estrogen receptor alpha network","DOWN",-1.23,-3.84,0.00291,0.00633,"DOWN",-0.154,-6.04,0.000709,0.00375
+"191","PID_ERBB1_INTERNALIZATION_PATHWAY","(PID) Internalization of ErbB1","UP",0.984,3.84,0.00291,0.00633,"UP",0.191,9.69,4.42e-05,0.000678
+"192","PID_ERBB1_RECEPTOR_PROXIMAL_PATHWAY","(PID) EGF receptor (ErbB1) signaling pathway","UP",1.69,4.28,0.0014,0.00338,"UP",0.202,9.51,4.97e-05,0.000717
+"193","PID_ERBB2_ERBB3_PATHWAY","(PID) ErbB2/ErbB3 signaling events","UP",1.51,5.53,0.000203,0.000702,"UP",0.139,6.55,0.000448,0.00274
+"198","PID_FGF_PATHWAY","(PID) FGF signaling pathway","UP",1.25,4.93,0.000502,0.0015,"UP",0.0977,4.73,0.00266,0.00956
+"225","PID_LIS1_PATHWAY","(PID) Lissencephaly gene (LIS1) in neuronal migration and development","UP",2.63,4.47,0.00103,0.00267,"UP",0.349,18.2,8.63e-07,0.000108
+"230","PID_MYC_ACTIV_PATHWAY","(PID) Validated targets of C-MYC transcriptional activation","DOWN",-2.78,-11.7,2.21e-07,3.97e-06,"DOWN",-0.169,-6.92,0.000329,0.00221
+"241","PID_P38_MKK3_6PATHWAY","(PID) p38 MAPK signaling pathway","UP",3.05,7.18,2.18e-05,0.000117,"UP",0.133,7.13,0.000275,0.00199
+"243","PID_P53_REGULATION_PATHWAY","(PID) p53 pathway","DOWN",-1.46,-5.53,0.000203,0.000702,"DOWN",-0.0948,-4.83,0.00238,0.00888
+"259","PID_RETINOIC_ACID_PATHWAY","(PID) Retinoic acid receptors-mediated signaling","DOWN",-2.39,-10.4,6.67e-07,9.43e-06,"DOWN",-0.126,-5.06,0.00187,0.00744
+"262","PID_SHP2_PATHWAY","(PID) SHP2 signaling","UP",0.961,3.61,0.00433,0.0089,"UP",0.133,6.97,0.000315,0.00217
+"265","PID_SYNDECAN_3_PATHWAY","(PID) Syndecan-3-mediated signaling events","UP",1.71,3.66,0.00394,0.00826,"UP",0.109,5.61,0.00107,0.00503
+"268","PID_TCPTP_PATHWAY","(PID) Signaling events mediated by TCPTP","UP",1.23,3.66,0.00399,0.00828,"UP",0.127,5.23,0.00157,0.00666
+"270","PID_TCR_PATHWAY","(PID) TCR signaling in na&#xef;ve CD4+ T cells","UP",1.4,5.63,0.000175,0.000625,"UP",0.145,8,0.00014,0.00126
+"279","REACTOME_3_UTR_MEDIATED_TRANSLATIONAL_REGULATION","(Reactome) 3' -UTR-mediated translational regulation","DOWN",-3.65,-10,9.61e-07,1.22e-05,"DOWN",-0.271,-10.9,2.12e-05,0.000468
+"285","REACTOME_ACTIVATION_OF_THE_MRNA_UPON_BINDING_OF_THE_CAP_BINDING_COMPLEX_AND_EIFS_AND_SUBSEQUENT_BINDING_TO_43S","(Reactome) Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S","DOWN",-2.38,-4.28,0.0014,0.00338,"DOWN",-0.291,-9.82,4.08e-05,0.000655
+"287","REACTOME_AMINO_ACID_AND_OLIGOPEPTIDE_SLC_TRANSPORTERS","(Reactome) Amino acid and oligopeptide SLC transporters","DOWN",-3.19,-8.06,7.6e-06,5.64e-05,"DOWN",-0.249,-9.8,4.13e-05,0.000655
+"295","REACTOME_APOPTOTIC_CLEAVAGE_OF_CELLULAR_PROTEINS","(Reactome) Apoptotic cleavage of cellular proteins","UP",2.3,8.93,2.91e-06,2.7e-05,"UP",0.128,7.43,0.000216,0.00167
+"296","REACTOME_APOPTOTIC_EXECUTION_PHASE","(Reactome) Apoptotic execution  phase","UP",1.39,5.13,0.000366,0.00115,"UP",0.162,8.8,7.95e-05,0.000932
+"305","REACTOME_CASPASE_MEDIATED_CLEAVAGE_OF_CYTOSKELETAL_PROTEINS","(Reactome) Caspase-mediated cleavage of cytoskeletal proteins","UP",4.91,17.1,4.45e-09,3.54e-07,"UP",0.176,7.75,0.000169,0.00144
+"308","REACTOME_CELL_CELL_COMMUNICATION","(Reactome) Cell-Cell communication","UP",2.03,6.62,4.44e-05,0.000206,"UP",0.0884,5.32,0.00142,0.00626
+"334","REACTOME_DNA_REPLICATION","(Reactome) DNA Replication","DOWN",-1.91,-7.2,2.14e-05,0.000117,"DOWN",-0.0922,-4.76,0.00257,0.00937
+"349","REACTOME_FORMATION_OF_THE_TERNARY_COMPLEX_AND_SUBSEQUENTLY_THE_43S_COMPLEX","(Reactome) Formation of the ternary complex, and subsequently, the 43S complex","DOWN",-3.21,-6.55,4.89e-05,0.000221,"DOWN",-0.316,-10.4,2.92e-05,0.000549
+"367","REACTOME_GLYCEROPHOSPHOLIPID_BIOSYNTHESIS","(Reactome) Glycerophospholipid biosynthesis","DOWN",-2.57,-7.01,2.69e-05,0.000136,"DOWN",-0.108,-4.86,0.00231,0.0087
+"382","REACTOME_INFLUENZA_LIFE_CYCLE","(Reactome) Influenza Life Cycle","DOWN",-4.04,-16.8,5.34e-09,3.72e-07,"DOWN",-0.18,-7.54,0.000199,0.0016
+"383","REACTOME_INFLUENZA_VIRAL_RNA_TRANSCRIPTION_AND_REPLICATION","(Reactome) Influenza Viral RNA Transcription and Replication","DOWN",-4.29,-17.6,3.43e-09,3.54e-07,"DOWN",-0.225,-8.27,0.000115,0.00116
+"389","REACTOME_INTERACTIONS_OF_VPR_WITH_HOST_CELLULAR_PROTEINS","(Reactome) Interactions of Vpr with host cellular proteins","DOWN",-3.5,-11.3,2.9e-07,4.76e-06,"DOWN",-0.128,-5.88,0.000822,0.00413
+"394","REACTOME_LOSS_OF_NLP_FROM_MITOTIC_CENTROSOMES","(Reactome) Loss of Nlp from mitotic centrosomes","UP",1.13,3.88,0.00273,0.00603,"UP",0.168,10.1,3.4e-05,0.000589
+"404","REACTOME_METABOLISM_OF_NON_CODING_RNA","(Reactome) Metabolism of non-coding RNA","DOWN",-3.27,-11.5,2.47e-07,4.29e-06,"DOWN",-0.126,-5.27,0.0015,0.00645
+"407","REACTOME_METABOLISM_OF_RNA","(Reactome) Metabolism of RNA","DOWN",-1.37,-4.64,0.000793,0.00222,"DOWN",-0.126,-6.83,0.000354,0.00233
+"411","REACTOME_MITOTIC_G1_G1_S_PHASES","(Reactome) Mitotic G1-G1/S phases","DOWN",-1.77,-6.25,7.28e-05,0.000307,"DOWN",-0.142,-6.17,0.000633,0.00354
+"432","REACTOME_NONSENSE_MEDIATED_DECAY_ENHANCED_BY_THE_EXON_JUNCTION_COMPLEX","(Reactome) Nonsense Mediated Decay Enhanced by the Exon Junction Complex","DOWN",-4.3,-13.3,5.94e-08,1.84e-06,"DOWN",-0.211,-9.94,3.8e-05,0.000629
+"443","REACTOME_PEPTIDE_CHAIN_ELONGATION","(Reactome) Peptide chain elongation","DOWN",-5,-19.1,1.44e-09,2.65e-07,"DOWN",-0.281,-10.2,3.16e-05,0.000574
+"484","REACTOME_SEMA4D_INDUCED_CELL_MIGRATION_AND_GROWTH_CONE_COLLAPSE","(Reactome) Sema4D induced cell migration and growth-cone collapse","UP",2.02,5.13,0.000369,0.00115,"UP",0.247,11,2.06e-05,0.000463
+"498","REACTOME_SIGNALING_BY_HIPPO","(Reactome) Signaling by Hippo","UP",2.38,5.2,0.000331,0.00108,"UP",0.429,24.6,1.27e-07,4.77e-05
+"499","REACTOME_SIGNALING_BY_ILS","(Reactome) Signaling by Interleukins","UP",1.06,4.16,0.00172,0.00405,"UP",0.145,8.21,0.00012,0.00119
+"505","REACTOME_SIGNALING_BY_ROBO_RECEPTOR","(Reactome) Signaling by Robo receptor","UP",1.44,4.25,0.00148,0.00355,"UP",0.34,15.5,2.36e-06,0.000221
+"516","REACTOME_SRP_DEPENDENT_COTRANSLATIONAL_PROTEIN_TARGETING_TO_MEMBRANE","(Reactome) SRP-dependent cotranslational protein targeting to membrane","DOWN",-4.66,-17.4,3.89e-09,3.54e-07,"DOWN",-0.227,-7.53,0.000201,0.0016
+"527","REACTOME_TRANSLATION","(Reactome) Translation","DOWN",-2.98,-8.85,3.17e-06,2.89e-05,"DOWN",-0.217,-7.87,0.000155,0.00135
+"553","ST_TUMOR_NECROSIS_FACTOR_PATHWAY","(STKE) Tumor Necrosis Factor Pathway.","UP",2.71,9.23,2.14e-06,2.2e-05,"UP",0.18,6.06,0.000699,0.00375

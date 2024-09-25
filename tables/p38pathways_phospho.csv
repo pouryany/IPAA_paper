@@ -1,0 +1,6 @@
+"","Pathway.Description","MSigDB.name","Direction..AD.vs.Control.","logFC","t","P.Value","adj.P.Val"
+"Pathway.PID_P38_GAMMA_DELTA_PATHWAY","(PID) Signaling mediated by p38-gamma and p38-delta","PID_P38_GAMMA_DELTA_PATHWAY","UP",2.46,8.01,8.05e-06,5.82e-05
+"Pathway.PID_P38_MKK3_6PATHWAY","(PID) p38 MAPK signaling pathway","PID_P38_MKK3_6PATHWAY","UP",3.05,7.18,2.18e-05,0.000117
+"Pathway.PID_P38_MK2_PATHWAY","(PID) p38 signaling mediated by MAPKAP kinases","PID_P38_MK2_PATHWAY","UP",2.15,6,0.000103,0.000408
+"Pathway.BIOCARTA_P38MAPK_PATHWAY","(BioCarta) p38 MAPK Signaling Pathway","BIOCARTA_P38MAPK_PATHWAY","UP",1.65,4.68,0.000738,0.00207
+"Pathway.ST_P38_MAPK_PATHWAY","(STKE) p38 MAPK Pathway","ST_P38_MAPK_PATHWAY","UP",0.971,3.85,0.00285,0.00626

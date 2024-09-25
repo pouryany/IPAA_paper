@@ -1,0 +1,17 @@
+"","MSigDB.name","Pathway.Description","Direction..AD.vs.Control._Losma","logFC_Losma","t_Losma","P.Value_Losma","adj.P.Val_Losma","Direction..AD.vs.Control._NoTreatment","logFC_NoTreatment","t_NoTreatment","P.Value_NoTreatment","adj.P.Val_NoTreatment"
+"13","BIOCARTA_CHREBP2_PATHWAY","(BioCarta) Regulation And Function Of ChREBP in Liver","DOWN",-1.6,-6.8,3.51e-05,0.000529,"UP",0.136,6.13,0.000651,0.00363
+"31","BIOCARTA_MCALPAIN_PATHWAY","(BioCarta) mCalpain and friends in Cell motility","DOWN",-1.44,-5.86,0.000126,0.00132,"UP",0.279,6.81,0.000361,0.00233
+"79","KEGG_DORSO_VENTRAL_AXIS_FORMATION","(KEGG) Dorso-ventral axis formation","DOWN",-1.78,-6.08,9.26e-05,0.00107,"UP",0.251,12.5,9.29e-06,0.000317
+"162","PID_ATF2_PATHWAY","(PID) ATF-2 transcription factor network","UP",2.72,5.75,0.000146,0.00148,"DOWN",-0.32,-11.8,1.31e-05,0.000373
+"225","PID_LIS1_PATHWAY","(PID) Lissencephaly gene (LIS1) in neuronal migration and development","DOWN",-2.69,-4.57,0.000877,0.00514,"UP",0.349,18.2,8.63e-07,0.000108
+"232","PID_MYC_REPRESS_PATHWAY","(PID) Validated targets of C-MYC transcriptional repression","DOWN",-1.38,-5.17,0.000347,0.00269,"UP",0.1,4.88,0.00226,0.00855
+"237","PID_NOTCH_PATHWAY","(PID) Notch signaling pathway","DOWN",-1.45,-5.3,0.000284,0.00244,"UP",0.118,6.86,0.000345,0.00229
+"262","PID_SHP2_PATHWAY","(PID) SHP2 signaling","DOWN",-1.1,-4.13,0.00179,0.00851,"UP",0.133,6.97,0.000315,0.00217
+"287","REACTOME_AMINO_ACID_AND_OLIGOPEPTIDE_SLC_TRANSPORTERS","(Reactome) Amino acid and oligopeptide SLC transporters","UP",2.02,5.11,0.000379,0.00281,"DOWN",-0.249,-9.8,4.13e-05,0.000655
+"295","REACTOME_APOPTOTIC_CLEAVAGE_OF_CELLULAR_PROTEINS","(Reactome) Apoptotic cleavage of cellular proteins","DOWN",-1.66,-6.45,5.61e-05,0.000763,"UP",0.128,7.43,0.000216,0.00167
+"305","REACTOME_CASPASE_MEDIATED_CLEAVAGE_OF_CYTOSKELETAL_PROTEINS","(Reactome) Caspase-mediated cleavage of cytoskeletal proteins","DOWN",-2.68,-9.37,1.85e-06,6.88e-05,"UP",0.176,7.75,0.000169,0.00144
+"308","REACTOME_CELL_CELL_COMMUNICATION","(Reactome) Cell-Cell communication","DOWN",-1.46,-4.75,0.00066,0.00427,"UP",0.0884,5.32,0.00142,0.00626
+"411","REACTOME_MITOTIC_G1_G1_S_PHASES","(Reactome) Mitotic G1-G1/S phases","UP",1.51,5.33,0.000272,0.00237,"DOWN",-0.142,-6.17,0.000633,0.00354
+"484","REACTOME_SEMA4D_INDUCED_CELL_MIGRATION_AND_GROWTH_CONE_COLLAPSE","(Reactome) Sema4D induced cell migration and growth-cone collapse","DOWN",-1.61,-4.08,0.00194,0.00894,"UP",0.247,11,2.06e-05,0.000463
+"488","REACTOME_SIGNALING_BY_CONSTITUTIVELY_ACTIVE_EGFR","(Reactome) Signaling by constitutively active EGFR","DOWN",-1.79,-5.02,0.000436,0.00315,"UP",0.155,6.81,0.000359,0.00233
+"553","ST_TUMOR_NECROSIS_FACTOR_PATHWAY","(STKE) Tumor Necrosis Factor Pathway.","DOWN",-1.31,-4.46,0.00105,0.00576,"UP",0.18,6.06,0.000699,0.00375
