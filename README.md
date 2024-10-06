@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/https://github.com/pouryany/IPAA_paper.svg)](https://zenodo.org/badge/latestdoi/https://github.com/pouryany/IPAA_paper)
+[![DOI](https://zenodo.org/badge/705339111.svg)](https://doi.org/10.5281/zenodo.13895686)
 
 ## Overview
 
