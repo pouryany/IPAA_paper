@@ -1,4 +1,4 @@
-.DS_Store
+*.DS_Store
 .Rhistory
 # Excluded sensitive data. Refer to the paper for instructions for downloading
 /preprocessed/MAYO/*

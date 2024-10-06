@@ -1,7 +1,8 @@
 # Clean up the excel sheet for the proteomic data
 rm(list=ls())
 library(dplyr)
-proteome <- readxl::read_xlsx("data/RearrangedTMT_MGHSample_phosphorylation_2024_7_11_90.xlsx")
+# The choice of Excel file by peptide lengths will not affect the outcomes
+proteome <- readxl::read_xlsx("data/TMT_MGHSample_phosphorylation_2024_7_11_90__MasterProteinOFF_6000Items_SortByCoverage.xlsx")
 
 colnames(proteome) <- gsub("-","_",colnames(proteome))
 colnames(proteome) <- gsub("#","No",colnames(proteome))
@@ -37,7 +38,9 @@ proteome_filtered <- dplyr::inner_join(proteome_filtered,temp)
 
 
 
-trimmed_expression <- as.data.frame(dplyr::select(proteome_filtered, contains("Abundance")))
+trimmed_expression <- as.data.frame(dplyr::select(proteome_filtered, contains("Abundances (Grouped):")))
+trimmed_expression <- as.data.frame(dplyr::select(trimmed_expression, -contains("2G11_Losma")))
+
 row.names(trimmed_expression) <- proteome_filtered$ENSEMBL
 
 
