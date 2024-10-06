@@ -10,6 +10,9 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+[![DOI](https://zenodo.org/badge/https://github.com/pouryany/IPAA_paper.svg)](https://zenodo.org/badge/latestdoi/https://github.com/pouryany/IPAA_paper)
+
 ## Overview
 
 This repository provides the code companion for the manuscript entitle: "Identification of p38 MAPK as a Major Therapeutic Target for Alzheimer's Disease based on Integrative Pathway Activity Analysis and Validation in 3D Human Cellular Models."

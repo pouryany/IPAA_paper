@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/https://github.com/pouryany/IPAA_paper.svg)](https://zenodo.org/badge/latestdoi/https://github.com/pouryany/IPAA_paper)
+
 ## Overview
 
 This repository provides the code companion for the manuscript entitle:
